@@ -1,0 +1,104 @@
+{
+  "_note": "Cleanor Search Index config. Each category is a leaderboard tracked monthly via Google Keyword Planner historical metrics. KEYWORD RULE (v2): count ONLY each brand's single main query + spelling/naming variants of that same name. NEVER add nested sub-queries (chatgpt vs 'chatgpt login'/'chatgpt app' are a tree; the sub-queries are already inside the head term, so summing them double-counts). This deliberately undercounts a product's most popular secondary searches, a conscious tradeoff we disclose on the page, in exchange for comparability + no double counting. AMBIGUITY: names dominated by an unrelated meaning (Gemini=zodiac, Copilot=MS Office, Mistral=wind, Meta) use the disambiguated 'x ai' form; names now dominated by the AI (claude, grok, deepseek, qwen, perplexity, midjourney, doubao, chatgpt) keep the bare word. Countries pulled independently so within-country volumes are comparable. Add categories by cloning the 'ai' block.",
+  "language": "languageConstants/1000",
+  "countries": {
+    "US": ["United States", 2840],
+    "IN": ["India", 2356],
+    "GB": ["United Kingdom", 2826],
+    "CA": ["Canada", 2124],
+    "AU": ["Australia", 2036],
+    "DE": ["Germany", 2276],
+    "FR": ["France", 2250],
+    "BR": ["Brazil", 2076],
+    "MX": ["Mexico", 2484],
+    "ID": ["Indonesia", 2360],
+    "JP": ["Japan", 2392],
+    "KR": ["South Korea", 2410],
+    "IT": ["Italy", 2380],
+    "ES": ["Spain", 2724],
+    "NL": ["Netherlands", 2528],
+    "TR": ["Turkey", 2792],
+    "VN": ["Vietnam", 2704],
+    "PL": ["Poland", 2616],
+    "SG": ["Singapore", 2702],
+    "SA": ["Saudi Arabia", 2682]
+  },
+  "categories": {
+    "ai": {
+      "label": "AI systems",
+      "unit": "AI assistant / model",
+      "brands": [
+        {
+          "name": "ChatGPT",
+          "vendor": "OpenAI",
+          "keys": ["chatgpt", "chat gpt"]
+        },
+        {
+          "name": "Gemini",
+          "vendor": "Google",
+          "keys": ["gemini ai", "google gemini"]
+        },
+        {
+          "name": "Claude",
+          "vendor": "Anthropic",
+          "keys": ["claude", "claude ai", "claude.ai"]
+        },
+        {
+          "name": "Copilot",
+          "vendor": "Microsoft",
+          "keys": ["copilot ai", "microsoft copilot"]
+        },
+        {
+          "name": "Grok",
+          "vendor": "xAI",
+          "keys": ["grok", "grok ai"]
+        },
+        {
+          "name": "Perplexity",
+          "vendor": "Perplexity AI",
+          "keys": ["perplexity", "perplexity ai"]
+        },
+        {
+          "name": "DeepSeek",
+          "vendor": "DeepSeek",
+          "keys": ["deepseek", "deep seek"]
+        },
+        {
+          "name": "Meta AI",
+          "vendor": "Meta",
+          "keys": ["meta ai"]
+        },
+        {
+          "name": "Qwen",
+          "vendor": "Alibaba",
+          "keys": ["qwen", "qwen ai"]
+        },
+        {
+          "name": "Mistral",
+          "vendor": "Mistral AI",
+          "keys": ["mistral ai"]
+        },
+        {
+          "name": "Doubao",
+          "vendor": "ByteDance",
+          "keys": ["doubao"]
+        },
+        {
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "keys": ["github copilot"]
+        },
+        {
+          "name": "Midjourney",
+          "vendor": "Midjourney",
+          "keys": ["midjourney"]
+        },
+        {
+          "name": "Claude Code",
+          "vendor": "Anthropic",
+          "keys": ["claude code"]
+        }
+      ]
+    }
+  }
+}

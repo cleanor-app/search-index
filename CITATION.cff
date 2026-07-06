@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Cleanor Search Index: an open monthly index of category popularity from Google search demand"
+message: "If you use this dataset or software, please cite it as below."
+type: dataset
+authors:
+  - name: "Cleanor Labs"
+    orcid: "https://orcid.org/0009-0005-4623-961X"
+    website: "https://cleanor.app"
+repository-code: "https://github.com/cleanor-app/search-index"
+url: "https://cleanor.app/trends"
+abstract: >-
+  An open, reproducible monthly index of software-category popularity measured
+  from real Google search demand (Keyword Planner historical metrics), captured
+  per country as immutable snapshots and accumulated into a long time series
+  that Keyword Planner's rolling 12-month window would otherwise never preserve.
+keywords:
+  - open data
+  - search demand
+  - keyword planner
+  - popularity index
+  - reproducible research
+license: MIT
+version: 0.1.0
+date-released: "2026-07-06"

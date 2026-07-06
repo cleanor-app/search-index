@@ -1,0 +1,37 @@
+{
+  "name": "@cleanor/search-index",
+  "version": "0.1.0",
+  "description": "Open dataset and reproducible pipeline for the Cleanor Search Index: monthly category popularity from real Google Keyword Planner search demand, by country.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Cleanor Labs (ORCID 0009-0005-4623-961X)",
+  "homepage": "https://cleanor.app/trends",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleanor-app/search-index.git"
+  },
+  "keywords": [
+    "open-data",
+    "search-demand",
+    "keyword-planner",
+    "google-ads",
+    "popularity-index",
+    "reproducible-research",
+    "dataset"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node src/fetch.mjs",
+    "build": "node src/build.mjs",
+    "validate": "node src/validate.mjs",
+    "check": "npm run validate && npm run build"
+  },
+  "files": [
+    "src",
+    "config",
+    "data",
+    "docs"
+  ]
+}

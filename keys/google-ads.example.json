@@ -1,0 +1,11 @@
+{
+  "_help": "Copy to keys/google-ads.json (gitignored) and fill in. Needed only for `npm run fetch`, not for `npm run build`. See https://developers.google.com/google-ads/api/docs/get-started/introduction",
+  "developerToken": "YOUR_GOOGLE_ADS_DEVELOPER_TOKEN",
+  "clientId": "YOUR_OAUTH_CLIENT_ID",
+  "clientSecret": "YOUR_OAUTH_CLIENT_SECRET",
+  "refreshToken": "YOUR_OAUTH_REFRESH_TOKEN",
+  "customerId": "1234567890",
+  "loginCustomerId": "1234567890",
+  "apiVersion": "v21",
+  "language": "languageConstants/1000"
+}

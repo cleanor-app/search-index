@@ -1,0 +1,28 @@
+{
+  "title": "Cleanor Search Index: an open monthly index of category popularity from Google search demand",
+  "description": "An open, reproducible monthly index of software-category popularity measured from real Google search demand (Keyword Planner historical metrics), captured per country as immutable snapshots and accumulated into a long time series. Code MIT, data CC BY 4.0.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Cleanor Labs",
+      "orcid": "0009-0005-4623-961X"
+    }
+  ],
+  "keywords": [
+    "open data",
+    "search demand",
+    "keyword planner",
+    "google ads",
+    "popularity index",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://cleanor.app/trends",
+      "scheme": "url"
+    }
+  ]
+}

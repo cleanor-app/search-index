@@ -1,0 +1,7 @@
+node_modules/
+keys/*.json
+!keys/*.example.json
+dist/
+output/
+.DS_Store
+*.log
