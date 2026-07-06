@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  reproducible:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate raw data and config
+        run: npm run validate
+
+      - name: Rebuild derived files from raw snapshots
+        run: npm run build
+
+      - name: Assert published data matches its raw source
+        run: |
+          if ! git diff --exit-code -- data/popularity/csv; then
+            echo "::error::Committed CSVs do not match a fresh build from the raw snapshots."
+            echo "Run 'npm run build' locally and commit the result."
+            exit 1
+          fi

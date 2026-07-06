@@ -1,0 +1,59 @@
+name: Monthly snapshot
+
+# Captures a new immutable snapshot from Keyword Planner once a month and
+# commits it, so the open time series keeps growing with no manual step.
+#
+# Requires one repository secret: GOOGLE_ADS_JSON — the full contents of a
+# keys/google-ads.json (see keys/google-ads.example.json). Add it under
+# Settings > Secrets and variables > Actions.
+
+on:
+  schedule:
+    # 06:00 UTC on the 3rd of each month (Keyword Planner data lags the month)
+    - cron: '0 6 3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Restore credentials from secret
+        env:
+          GOOGLE_ADS_JSON: ${{ secrets.GOOGLE_ADS_JSON }}
+        run: |
+          if [ -z "$GOOGLE_ADS_JSON" ]; then
+            echo "::error::GOOGLE_ADS_JSON secret is not set. Add it in repo settings."
+            exit 1
+          fi
+          mkdir -p keys
+          printf '%s' "$GOOGLE_ADS_JSON" > keys/google-ads.json
+
+      - name: Capture snapshot
+        run: npm run fetch
+
+      - name: Validate and rebuild
+        run: npm run check
+
+      - name: Commit and tag if there is a new snapshot
+        run: |
+          rm -f keys/google-ads.json
+          git config user.name  "cleanor-bot"
+          git config user.email "hello@cleanor.app"
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes this run."
+            exit 0
+          fi
+          MONTH=$(date -u -d "1 month ago" +%Y-%m 2>/dev/null || date -u -v-1m +%Y-%m)
+          git add -A
+          git commit -m "data: snapshot ${MONTH}"
+          git tag -f "snapshot-${MONTH}"
+          git push origin HEAD --tags
