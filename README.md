@@ -8,6 +8,7 @@
 [![Read the index](https://img.shields.io/badge/read%20it-cleanor.app%2Ftrends-0a7cff.svg)](https://cleanor.app/trends)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21225547.svg)](https://doi.org/10.5281/zenodo.21225547)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20dataset-cleanorlabs%2Fcleanor--search--index-ff9d00.svg)](https://huggingface.co/datasets/cleanorlabs/cleanor-search-index)
+[![Kaggle](https://img.shields.io/badge/Kaggle-cleanorlabs%2Fcleanor--search--index-20beff.svg?logo=kaggle)](https://www.kaggle.com/datasets/cleanorlabs/cleanor-search-index)
 
 > 📈 Human-readable charts and write-ups live at [cleanor.app/trends](https://cleanor.app/trends). This repository is the raw data and the harness behind them.
 
