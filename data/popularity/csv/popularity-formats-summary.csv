@@ -1,0 +1,253 @@
+snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
+2026-06,formats,WW,1,"PDF","Document",2906600,37.8,-3.1,10.2
+2026-06,formats,WW,2,"GIF","Animation",2545300,33.1,-8.3,38.2
+2026-06,formats,WW,3,"PNG","Raster image",635200,8.3,0.2,2
+2026-06,formats,WW,4,"JPG","Raster image",517600,6.7,5.6,30.9
+2026-06,formats,WW,5,"PSD","Photoshop",345700,4.5,-1.3,-0.5
+2026-06,formats,WW,6,"ICO","Icon",154400,2,0.3,-4.4
+2026-06,formats,WW,7,"SVG","Vector image",154000,2,0.1,5.3
+2026-06,formats,WW,8,"BMP","Raster image",139120,1.8,19.7,6.5
+2026-06,formats,WW,9,"TIFF","Raster image",123790,1.6,7.6,-4.1
+2026-06,formats,WW,10,"HEIC","Raster image",77530,1,-1.5,-12
+2026-06,formats,WW,11,"WebP","Raster image",70510,0.9,-1.4,0.2
+2026-06,formats,WW,12,"AVIF","Raster image",28470,0.4,-7.3,-14.9
+2026-06,formats,US,1,"GIF","Animation",1220000,51.5,-18.7,81.3
+2026-06,formats,US,2,"PDF","Document",450000,19,0,22.4
+2026-06,formats,US,3,"JPG","Raster image",201000,8.5,0,82.4
+2026-06,formats,US,4,"PSD","Photoshop",201000,8.5,0,0
+2026-06,formats,US,5,"PNG","Raster image",110000,4.6,0,49.6
+2026-06,formats,US,6,"TIFF","Raster image",49500,2.1,22.1,22.1
+2026-06,formats,US,7,"BMP","Raster image",49500,2.1,0,0
+2026-06,formats,US,8,"SVG","Vector image",40500,1.7,0,22.4
+2026-06,formats,US,9,"ICO","Icon",18100,0.8,0,-18.5
+2026-06,formats,US,10,"HEIC","Raster image",14800,0.6,0,0
+2026-06,formats,US,11,"WebP","Raster image",9900,0.4,0,0
+2026-06,formats,US,12,"AVIF","Raster image",5400,0.2,-18.5,0
+2026-06,formats,IN,1,"PDF","Document",550000,53.4,0,22.2
+2026-06,formats,IN,2,"PNG","Raster image",165000,16,0,0
+2026-06,formats,IN,3,"GIF","Animation",165000,16,0,50
+2026-06,formats,IN,4,"JPG","Raster image",74000,7.2,22.3,49.6
+2026-06,formats,IN,5,"BMP","Raster image",18100,1.8,173.5,22.2
+2026-06,formats,IN,6,"SVG","Vector image",14800,1.4,0,-18.2
+2026-06,formats,IN,7,"PSD","Photoshop",12100,1.2,0,-18.2
+2026-06,formats,IN,8,"WebP","Raster image",8100,0.8,0,0
+2026-06,formats,IN,9,"ICO","Icon",8100,0.8,22.7,-18.2
+2026-06,formats,IN,10,"HEIC","Raster image",6600,0.6,0,22.7
+2026-06,formats,IN,11,"TIFF","Raster image",6600,0.6,0,-18.5
+2026-06,formats,IN,12,"AVIF","Raster image",2400,0.2,0,-20.8
+2026-06,formats,GB,1,"GIF","Animation",110000,41,22.7,22.7
+2026-06,formats,GB,2,"PDF","Document",49500,18.4,0,0
+2026-06,formats,GB,3,"ICO","Icon",49500,18.4,0,0
+2026-06,formats,GB,4,"JPG","Raster image",14800,5.5,0,0
+2026-06,formats,GB,5,"PNG","Raster image",14800,5.5,0,-18.2
+2026-06,formats,GB,6,"PSD","Photoshop",8100,3,0,-18.2
+2026-06,formats,GB,7,"TIFF","Raster image",6600,2.5,0,-19.4
+2026-06,formats,GB,8,"SVG","Vector image",5400,2,0,-18.2
+2026-06,formats,GB,9,"BMP","Raster image",3600,1.3,0,0
+2026-06,formats,GB,10,"HEIC","Raster image",2900,1.1,0,-33.3
+2026-06,formats,GB,11,"WebP","Raster image",2400,0.9,0,-17.2
+2026-06,formats,GB,12,"AVIF","Raster image",1000,0.4,13.6,-23.1
+2026-06,formats,CA,1,"GIF","Animation",90500,36,0,21.5
+2026-06,formats,CA,2,"PDF","Document",60500,24,-18.3,0
+2026-06,formats,CA,3,"TIFF","Raster image",33100,13.2,0,-18.2
+2026-06,formats,CA,4,"JPG","Raster image",18100,7.2,0,22.2
+2026-06,formats,CA,5,"PNG","Raster image",18100,7.2,0,22.3
+2026-06,formats,CA,6,"PSD","Photoshop",9900,3.9,0,22.2
+2026-06,formats,CA,7,"BMP","Raster image",6600,2.6,0,0
+2026-06,formats,CA,8,"SVG","Vector image",5400,2.1,-18.5,0
+2026-06,formats,CA,9,"ICO","Icon",3600,1.4,-19.4,-19.4
+2026-06,formats,CA,10,"HEIC","Raster image",2900,1.2,-17.2,-17.2
+2026-06,formats,CA,11,"WebP","Raster image",1900,0.8,0,18.8
+2026-06,formats,CA,12,"AVIF","Raster image",1000,0.4,0,0
+2026-06,formats,AU,1,"GIF","Animation",74000,52.6,22.3,0
+2026-06,formats,AU,2,"PDF","Document",27100,19.2,22.1,0
+2026-06,formats,AU,3,"PNG","Raster image",12100,8.6,22.3,22.3
+2026-06,formats,AU,4,"JPG","Raster image",8100,5.8,22.2,50
+2026-06,formats,AU,5,"SVG","Vector image",4400,3.1,50,22.7
+2026-06,formats,AU,6,"TIFF","Raster image",3600,2.6,23.1,0
+2026-06,formats,AU,7,"PSD","Photoshop",3600,2.6,24.1,0
+2026-06,formats,AU,8,"ICO","Icon",2900,2.1,0,-19.4
+2026-06,formats,AU,9,"HEIC","Raster image",1900,1.3,0,-15.8
+2026-06,formats,AU,10,"BMP","Raster image",1600,1.1,46.2,0
+2026-06,formats,AU,11,"WebP","Raster image",1000,0.7,30,30
+2026-06,formats,AU,12,"AVIF","Raster image",480,0.3,22.9,0
+2026-06,formats,DE,1,"PDF","Document",90500,37.8,0,0
+2026-06,formats,DE,2,"GIF","Animation",74000,30.9,0,0
+2026-06,formats,DE,3,"PSD","Photoshop",18100,7.6,0,0
+2026-06,formats,DE,4,"SVG","Vector image",14800,6.2,-18.2,-18.2
+2026-06,formats,DE,5,"PNG","Raster image",12100,5,0,-18.2
+2026-06,formats,DE,6,"JPG","Raster image",9900,4.1,0,0
+2026-06,formats,DE,7,"HEIC","Raster image",4400,1.8,-19.4,-34.1
+2026-06,formats,DE,8,"BMP","Raster image",4400,1.8,0,0
+2026-06,formats,DE,9,"WebP","Raster image",3600,1.5,-19.4,-19.4
+2026-06,formats,DE,10,"ICO","Icon",3600,1.5,0,0
+2026-06,formats,DE,11,"TIFF","Raster image",2400,1,0,-20.8
+2026-06,formats,DE,12,"AVIF","Raster image",1900,0.8,0,-15.8
+2026-06,formats,FR,1,"PDF","Document",110000,34.9,0,0
+2026-06,formats,FR,2,"GIF","Animation",110000,34.9,0,0
+2026-06,formats,FR,3,"JPG","Raster image",40500,12.8,-18.1,-33.1
+2026-06,formats,FR,4,"PNG","Raster image",18100,5.7,0,0
+2026-06,formats,FR,5,"SVG","Vector image",8100,2.6,0,0
+2026-06,formats,FR,6,"HEIC","Raster image",6600,2.1,0,-18.2
+2026-06,formats,FR,7,"ICO","Icon",6600,2.1,0,-18.5
+2026-06,formats,FR,8,"BMP","Raster image",4400,1.4,0,-18.2
+2026-06,formats,FR,9,"PSD","Photoshop",4400,1.4,0,0
+2026-06,formats,FR,10,"WebP","Raster image",2900,0.9,-17.2,-17.2
+2026-06,formats,FR,11,"TIFF","Raster image",2400,0.8,18.8,0
+2026-06,formats,FR,12,"AVIF","Raster image",1300,0.4,0,0
+2026-06,formats,BR,1,"PDF","Document",301000,49.6,0,22.4
+2026-06,formats,BR,2,"GIF","Animation",110000,18.1,0,21.5
+2026-06,formats,BR,3,"PNG","Raster image",90500,14.9,0,0
+2026-06,formats,BR,4,"PSD","Photoshop",33100,5.5,-18.3,22.1
+2026-06,formats,BR,5,"JPG","Raster image",18100,3,0,0
+2026-06,formats,BR,6,"BMP","Raster image",14800,2.4,-18.2,0
+2026-06,formats,BR,7,"ICO","Icon",14800,2.4,-18.2,-18.2
+2026-06,formats,BR,8,"SVG","Vector image",12100,2,0,22.3
+2026-06,formats,BR,9,"WebP","Raster image",4400,0.7,0,0
+2026-06,formats,BR,10,"HEIC","Raster image",3600,0.6,0,0
+2026-06,formats,BR,11,"TIFF","Raster image",2400,0.4,0,0
+2026-06,formats,BR,12,"AVIF","Raster image",1600,0.3,0,-15.8
+2026-06,formats,MX,1,"PDF","Document",165000,50.6,21.8,21.8
+2026-06,formats,MX,2,"GIF","Animation",74000,22.7,0,22.3
+2026-06,formats,MX,3,"PNG","Raster image",40500,12.4,0,0
+2026-06,formats,MX,4,"JPG","Raster image",22200,6.8,0,0
+2026-06,formats,MX,5,"SVG","Vector image",5400,1.7,0,0
+2026-06,formats,MX,6,"ICO","Icon",5400,1.7,0,0
+2026-06,formats,MX,7,"PSD","Photoshop",5400,1.7,0,0
+2026-06,formats,MX,8,"BMP","Raster image",2400,0.7,0,0
+2026-06,formats,MX,9,"TIFF","Raster image",1900,0.6,0,-18.7
+2026-06,formats,MX,10,"WebP","Raster image",1600,0.5,0,0
+2026-06,formats,MX,11,"HEIC","Raster image",1600,0.5,0,0
+2026-06,formats,MX,12,"AVIF","Raster image",720,0.2,0,0
+2026-06,formats,ID,1,"PDF","Document",301000,68.6,-18.2,0
+2026-06,formats,ID,2,"JPG","Raster image",40500,9.2,22.2,82.8
+2026-06,formats,ID,3,"PNG","Raster image",40500,9.2,0,-18.2
+2026-06,formats,ID,4,"GIF","Animation",33100,7.5,-18.3,49.1
+2026-06,formats,ID,5,"BMP","Raster image",5400,1.2,0,50
+2026-06,formats,ID,6,"PSD","Photoshop",5400,1.2,22.7,22.7
+2026-06,formats,ID,7,"SVG","Vector image",4400,1,22.2,0
+2026-06,formats,ID,8,"WebP","Raster image",2900,0.7,0,20.8
+2026-06,formats,ID,9,"ICO","Icon",2400,0.5,0,0
+2026-06,formats,ID,10,"HEIC","Raster image",1900,0.4,18.8,0
+2026-06,formats,ID,11,"TIFF","Raster image",880,0.2,-18.2,-18.2
+2026-06,formats,ID,12,"AVIF","Raster image",590,0.1,-18.6,-18.6
+2026-06,formats,JP,1,"PDF","Document",301000,50.8,-18.3,-18.3
+2026-06,formats,JP,2,"GIF","Animation",165000,27.8,22.2,-17.9
+2026-06,formats,JP,3,"PNG","Raster image",18100,3.1,0,-18.5
+2026-06,formats,JP,4,"WebP","Raster image",18100,3.1,0,0
+2026-06,formats,JP,5,"HEIC","Raster image",18100,3.1,0,-18.5
+2026-06,formats,JP,6,"JPG","Raster image",14800,2.5,0,-18.2
+2026-06,formats,JP,7,"PSD","Photoshop",14800,2.5,0,-18.2
+2026-06,formats,JP,8,"SVG","Vector image",12100,2,0,0
+2026-06,formats,JP,9,"ICO","Icon",12100,2,0,22.2
+2026-06,formats,JP,10,"AVIF","Raster image",6600,1.1,-18.2,-33.3
+2026-06,formats,JP,11,"BMP","Raster image",6600,1.1,0,0
+2026-06,formats,JP,12,"TIFF","Raster image",5400,0.9,-18.5,-18.5
+2026-06,formats,KR,1,"PDF","Document",49500,44,-18.2,0
+2026-06,formats,KR,2,"GIF","Animation",27100,24.1,0,22.1
+2026-06,formats,KR,3,"PNG","Raster image",9900,8.8,0,-18.2
+2026-06,formats,KR,4,"JPG","Raster image",5400,4.8,0,0
+2026-06,formats,KR,5,"SVG","Vector image",4400,3.9,0,22.7
+2026-06,formats,KR,6,"WebP","Raster image",4400,3.9,0,0
+2026-06,formats,KR,7,"PSD","Photoshop",2900,2.6,0,0
+2026-06,formats,KR,8,"HEIC","Raster image",2400,2.1,-20.8,-20.8
+2026-06,formats,KR,9,"ICO","Icon",1900,1.7,0,0
+2026-06,formats,KR,10,"AVIF","Raster image",1600,1.4,0,-18.7
+2026-06,formats,KR,11,"BMP","Raster image",1600,1.4,-18.7,-18.7
+2026-06,formats,KR,12,"TIFF","Raster image",1300,1.2,-23.1,-23.1
+2026-06,formats,IT,1,"PDF","Document",90500,50.5,21.5,21.5
+2026-06,formats,IT,2,"GIF","Animation",40500,22.6,0,22.4
+2026-06,formats,IT,3,"PNG","Raster image",14800,8.3,0,-18.2
+2026-06,formats,IT,4,"BMP","Raster image",8100,4.5,0,-18.2
+2026-06,formats,IT,5,"JPG","Raster image",6600,3.7,22.7,22.7
+2026-06,formats,IT,6,"PSD","Photoshop",5400,3,22.2,0
+2026-06,formats,IT,7,"SVG","Vector image",3600,2,22.2,22.2
+2026-06,formats,IT,8,"ICO","Icon",3600,2,0,-19.4
+2026-06,formats,IT,9,"HEIC","Raster image",2400,1.3,26.3,0
+2026-06,formats,IT,10,"WebP","Raster image",1600,0.9,0,0
+2026-06,formats,IT,11,"TIFF","Raster image",1300,0.7,0,-23.1
+2026-06,formats,IT,12,"AVIF","Raster image",720,0.4,0,0
+2026-06,formats,ES,1,"PDF","Document",74000,40,22.3,22.3
+2026-06,formats,ES,2,"GIF","Animation",60500,32.7,22.2,22.2
+2026-06,formats,ES,3,"PNG","Raster image",14800,8,22.3,22.3
+2026-06,formats,ES,4,"ICO","Icon",12100,6.5,22.3,22.3
+2026-06,formats,ES,5,"JPG","Raster image",8100,4.4,0,-18.2
+2026-06,formats,ES,6,"SVG","Vector image",4400,2.4,22.7,22.7
+2026-06,formats,ES,7,"PSD","Photoshop",4400,2.4,22.7,0
+2026-06,formats,ES,8,"WebP","Raster image",1600,0.9,0,0
+2026-06,formats,ES,9,"HEIC","Raster image",1600,0.9,0,-15.8
+2026-06,formats,ES,10,"BMP","Raster image",1600,0.9,0,18.8
+2026-06,formats,ES,11,"TIFF","Raster image",1300,0.7,30,30
+2026-06,formats,ES,12,"AVIF","Raster image",720,0.4,0,22
+2026-06,formats,NL,1,"GIF","Animation",40500,48.1,22.4,0
+2026-06,formats,NL,2,"PDF","Document",22200,26.3,-18.5,-18.5
+2026-06,formats,NL,3,"PNG","Raster image",5400,6.4,0,-18.2
+2026-06,formats,NL,4,"JPG","Raster image",4400,5.2,22.2,0
+2026-06,formats,NL,5,"SVG","Vector image",2900,3.4,0,0
+2026-06,formats,NL,6,"ICO","Icon",1900,2.3,-15.8,-15.8
+2026-06,formats,NL,7,"PSD","Photoshop",1900,2.3,0,0
+2026-06,formats,NL,8,"HEIC","Raster image",1300,1.5,0,-23.1
+2026-06,formats,NL,9,"BMP","Raster image",1300,1.5,0,0
+2026-06,formats,NL,10,"WebP","Raster image",1000,1.2,0,0
+2026-06,formats,NL,11,"TIFF","Raster image",880,1,0,0
+2026-06,formats,NL,12,"AVIF","Raster image",590,0.7,0,-18.6
+2026-06,formats,TR,1,"PDF","Document",90500,52.9,-18.2,0
+2026-06,formats,TR,2,"GIF","Animation",40500,23.7,-18.2,49.4
+2026-06,formats,TR,3,"PNG","Raster image",18100,10.6,-18.2,0
+2026-06,formats,TR,4,"JPG","Raster image",9900,5.8,0,22.2
+2026-06,formats,TR,5,"PSD","Photoshop",2900,1.7,-19.4,20.8
+2026-06,formats,TR,6,"SVG","Vector image",2400,1.4,-17.2,26.3
+2026-06,formats,TR,7,"ICO","Icon",2400,1.4,0,26.3
+2026-06,formats,TR,8,"WebP","Raster image",1300,0.8,-18.7,30
+2026-06,formats,TR,9,"TIFF","Raster image",1300,0.8,0,0
+2026-06,formats,TR,10,"HEIC","Raster image",720,0.4,-18.1,-18.1
+2026-06,formats,TR,11,"BMP","Raster image",720,0.4,-18.2,0
+2026-06,formats,TR,12,"AVIF","Raster image",320,0.2,23.1,23.1
+2026-06,formats,VN,1,"PDF","Document",49500,43.5,22.2,22.2
+2026-06,formats,VN,2,"GIF","Animation",33100,29.1,0,49.1
+2026-06,formats,VN,3,"PNG","Raster image",14800,13,0,-18.2
+2026-06,formats,VN,4,"JPG","Raster image",3600,3.2,-18.2,24.1
+2026-06,formats,VN,5,"BMP","Raster image",3600,3.2,-18.5,51.7
+2026-06,formats,VN,6,"SVG","Vector image",2400,2.1,0,0
+2026-06,formats,VN,7,"PSD","Photoshop",2400,2.1,0,0
+2026-06,formats,VN,8,"ICO","Icon",1900,1.7,0,0
+2026-06,formats,VN,9,"WebP","Raster image",1000,0.9,30,30
+2026-06,formats,VN,10,"HEIC","Raster image",720,0.6,0,-18.2
+2026-06,formats,VN,11,"TIFF","Raster image",480,0.4,21.9,0
+2026-06,formats,VN,12,"AVIF","Raster image",320,0.3,21.9,21.9
+2026-06,formats,PL,1,"PDF","Document",49500,35.2,0,0
+2026-06,formats,PL,2,"GIF","Animation",49500,35.2,0,22.2
+2026-06,formats,PL,3,"JPG","Raster image",12100,8.6,0,0
+2026-06,formats,PL,4,"PNG","Raster image",8100,5.8,0,0
+2026-06,formats,PL,5,"PSD","Photoshop",5400,3.8,0,-33.3
+2026-06,formats,PL,6,"SVG","Vector image",3600,2.6,0,0
+2026-06,formats,PL,7,"BMP","Raster image",3600,2.6,0,0
+2026-06,formats,PL,8,"HEIC","Raster image",2400,1.7,0,-20.8
+2026-06,formats,PL,9,"WebP","Raster image",1900,1.4,0,0
+2026-06,formats,PL,10,"ICO","Icon",1900,1.4,0,0
+2026-06,formats,PL,11,"TIFF","Raster image",1600,1.1,46.2,-20.8
+2026-06,formats,PL,12,"AVIF","Raster image",880,0.6,0,0
+2026-06,formats,SG,1,"PDF","Document",14800,39.6,0,22.3
+2026-06,formats,SG,2,"GIF","Animation",9900,26.5,0,50
+2026-06,formats,SG,3,"PNG","Raster image",2900,7.7,0,20.8
+2026-06,formats,SG,4,"PSD","Photoshop",2900,7.7,0,0
+2026-06,formats,SG,5,"JPG","Raster image",1900,5.1,0,18.8
+2026-06,formats,SG,6,"SVG","Vector image",1900,5.1,0,18.8
+2026-06,formats,SG,7,"ICO","Icon",720,1.9,0,0
+2026-06,formats,SG,8,"WebP","Raster image",590,1.6,-18.1,0
+2026-06,formats,SG,9,"TIFF","Raster image",590,1.6,0,-18.6
+2026-06,formats,SG,10,"HEIC","Raster image",480,1.3,0,0
+2026-06,formats,SG,11,"BMP","Raster image",480,1.3,0,0
+2026-06,formats,SG,12,"AVIF","Raster image",260,0.7,-19.2,-19.2
+2026-06,formats,SA,1,"PDF","Document",60500,64.5,-18.2,49.4
+2026-06,formats,SA,2,"GIF","Animation",18100,19.3,-63.4,49.6
+2026-06,formats,SA,3,"PNG","Raster image",6600,7,-18.2,0
+2026-06,formats,SA,4,"JPG","Raster image",3600,3.8,0,50
+2026-06,formats,SA,5,"PSD","Photoshop",1600,1.7,-23.1,-47.4
+2026-06,formats,SA,6,"SVG","Vector image",1000,1.1,0,47.7
+2026-06,formats,SA,7,"ICO","Icon",880,0.9,0,0
+2026-06,formats,SA,8,"BMP","Raster image",720,0.8,0,50
+2026-06,formats,SA,9,"WebP","Raster image",320,0.3,0,50
+2026-06,formats,SA,10,"TIFF","Raster image",260,0.3,-17.6,-33.3
+2026-06,formats,SA,11,"HEIC","Raster image",210,0.2,-19,0
+2026-06,formats,SA,12,"AVIF","Raster image",70,0.1,28.6,28.6

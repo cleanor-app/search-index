@@ -1,5 +1,5 @@
 {
-  "_note": "Cleanor Search Index config. Each category is a leaderboard tracked monthly via Google Keyword Planner historical metrics. KEYWORD RULE (v2): count ONLY each brand's single main query + spelling/naming variants of that same name. NEVER add nested sub-queries (chatgpt vs 'chatgpt login'/'chatgpt app' are a tree; the sub-queries are already inside the head term, so summing them double-counts). This deliberately undercounts a product's most popular secondary searches, a conscious tradeoff we disclose on the page, in exchange for comparability + no double counting. AMBIGUITY: names dominated by an unrelated meaning (Gemini=zodiac, Copilot=MS Office, Mistral=wind, Meta) use the disambiguated 'x ai' form; names now dominated by the AI (claude, grok, deepseek, qwen, perplexity, midjourney, doubao, chatgpt) keep the bare word. Countries pulled independently so within-country volumes are comparable. Add categories by cloning the 'ai' block.",
+  "_note": "Cleanor Search Index config. Each category is a leaderboard tracked monthly via Google Keyword Planner historical metrics. KEYWORD RULE (v3): EXACTLY ONE head keyword per item. Search demand is nested (broad match): 'claude ai'/'claude.ai'/'claude code' all contain 'claude', so the head term already subsumes them and adding variants double-counts. So each item carries a single key. AMBIGUITY: names that are also a common word (Gemini=zodiac, Copilot=MS Office, Mistral=wind; go/rust/swift/ruby/r as words) use a disambiguated single term ('gemini ai', 'golang', 'swift programming'); names owned by the product/tech use the bare word. Sub-products inside a parent term (Claude Code inside 'claude') are NOT separate rows. Countries pulled independently so within-country volumes are comparable. Add a category by cloning a block; add an item as { name, vendor, keys:[<one head term>] }.",
   "language": "languageConstants/1000",
   "countries": {
     "US": ["United States", 2840],
@@ -28,76 +28,57 @@
       "label": "AI systems",
       "unit": "AI assistant / model",
       "brands": [
-        {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "keys": ["chatgpt", "chat gpt"]
-        },
-        {
-          "name": "Gemini",
-          "vendor": "Google",
-          "keys": ["gemini ai", "google gemini"]
-        },
-        {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "keys": ["claude", "claude ai", "claude.ai"]
-        },
-        {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "keys": ["copilot ai", "microsoft copilot"]
-        },
-        {
-          "name": "Grok",
-          "vendor": "xAI",
-          "keys": ["grok", "grok ai"]
-        },
-        {
-          "name": "Perplexity",
-          "vendor": "Perplexity AI",
-          "keys": ["perplexity", "perplexity ai"]
-        },
-        {
-          "name": "DeepSeek",
-          "vendor": "DeepSeek",
-          "keys": ["deepseek", "deep seek"]
-        },
-        {
-          "name": "Meta AI",
-          "vendor": "Meta",
-          "keys": ["meta ai"]
-        },
-        {
-          "name": "Qwen",
-          "vendor": "Alibaba",
-          "keys": ["qwen", "qwen ai"]
-        },
-        {
-          "name": "Mistral",
-          "vendor": "Mistral AI",
-          "keys": ["mistral ai"]
-        },
-        {
-          "name": "Doubao",
-          "vendor": "ByteDance",
-          "keys": ["doubao"]
-        },
-        {
-          "name": "GitHub Copilot",
-          "vendor": "GitHub",
-          "keys": ["github copilot"]
-        },
-        {
-          "name": "Midjourney",
-          "vendor": "Midjourney",
-          "keys": ["midjourney"]
-        },
-        {
-          "name": "Claude Code",
-          "vendor": "Anthropic",
-          "keys": ["claude code"]
-        }
+        { "name": "ChatGPT", "vendor": "OpenAI", "keys": ["chatgpt"] },
+        { "name": "Gemini", "vendor": "Google", "keys": ["gemini ai"] },
+        { "name": "Claude", "vendor": "Anthropic", "keys": ["claude"] },
+        { "name": "Copilot", "vendor": "Microsoft", "keys": ["copilot ai"] },
+        { "name": "Grok", "vendor": "xAI", "keys": ["grok"] },
+        { "name": "Perplexity", "vendor": "Perplexity AI", "keys": ["perplexity"] },
+        { "name": "DeepSeek", "vendor": "DeepSeek", "keys": ["deepseek"] },
+        { "name": "Meta AI", "vendor": "Meta", "keys": ["meta ai"] },
+        { "name": "Qwen", "vendor": "Alibaba", "keys": ["qwen"] },
+        { "name": "Mistral", "vendor": "Mistral AI", "keys": ["mistral ai"] },
+        { "name": "Doubao", "vendor": "ByteDance", "keys": ["doubao"] },
+        { "name": "GitHub Copilot", "vendor": "GitHub", "keys": ["github copilot"] },
+        { "name": "Midjourney", "vendor": "Midjourney", "keys": ["midjourney"] }
+      ]
+    },
+    "formats": {
+      "label": "File formats",
+      "unit": "file format",
+      "brands": [
+        { "name": "PDF", "vendor": "Document", "keys": ["pdf"] },
+        { "name": "JPG", "vendor": "Raster image", "keys": ["jpg"] },
+        { "name": "PNG", "vendor": "Raster image", "keys": ["png"] },
+        { "name": "GIF", "vendor": "Animation", "keys": ["gif"] },
+        { "name": "SVG", "vendor": "Vector image", "keys": ["svg"] },
+        { "name": "WebP", "vendor": "Raster image", "keys": ["webp"] },
+        { "name": "HEIC", "vendor": "Raster image", "keys": ["heic"] },
+        { "name": "AVIF", "vendor": "Raster image", "keys": ["avif"] },
+        { "name": "TIFF", "vendor": "Raster image", "keys": ["tiff"] },
+        { "name": "BMP", "vendor": "Raster image", "keys": ["bmp"] },
+        { "name": "ICO", "vendor": "Icon", "keys": ["ico"] },
+        { "name": "PSD", "vendor": "Photoshop", "keys": ["psd"] }
+      ]
+    },
+    "languages": {
+      "label": "Programming languages",
+      "unit": "language",
+      "brands": [
+        { "name": "Python", "vendor": "General purpose", "keys": ["python"] },
+        { "name": "JavaScript", "vendor": "Web", "keys": ["javascript"] },
+        { "name": "Java", "vendor": "General purpose", "keys": ["java"] },
+        { "name": "TypeScript", "vendor": "Web", "keys": ["typescript"] },
+        { "name": "C++", "vendor": "Systems", "keys": ["c++"] },
+        { "name": "C#", "vendor": "General purpose", "keys": ["c#"] },
+        { "name": "PHP", "vendor": "Web", "keys": ["php"] },
+        { "name": "Go", "vendor": "Systems", "keys": ["golang"] },
+        { "name": "Rust", "vendor": "Systems", "keys": ["rust programming"] },
+        { "name": "Kotlin", "vendor": "JVM / mobile", "keys": ["kotlin"] },
+        { "name": "Swift", "vendor": "Apple", "keys": ["swift programming"] },
+        { "name": "Ruby", "vendor": "Web", "keys": ["ruby programming"] },
+        { "name": "SQL", "vendor": "Data", "keys": ["sql"] },
+        { "name": "R", "vendor": "Data / stats", "keys": ["r programming"] }
       ]
     }
   }

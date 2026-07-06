@@ -1,0 +1,2881 @@
+snapshot,category,country_code,country,brand,vendor,year_month,searches
+2026-06,formats,US,"United States","PDF","Document",2025-06,201000
+2026-06,formats,US,"United States","PDF","Document",2025-07,246000
+2026-06,formats,US,"United States","PDF","Document",2025-08,301000
+2026-06,formats,US,"United States","PDF","Document",2025-09,368000
+2026-06,formats,US,"United States","PDF","Document",2025-10,450000
+2026-06,formats,US,"United States","PDF","Document",2025-11,823000
+2026-06,formats,US,"United States","PDF","Document",2025-12,1220000
+2026-06,formats,US,"United States","PDF","Document",2026-01,673000
+2026-06,formats,US,"United States","PDF","Document",2026-02,450000
+2026-06,formats,US,"United States","PDF","Document",2026-03,246000
+2026-06,formats,US,"United States","PDF","Document",2026-04,246000
+2026-06,formats,US,"United States","PDF","Document",2026-05,246000
+2026-06,formats,US,"United States","JPG","Raster image",2025-06,74000
+2026-06,formats,US,"United States","JPG","Raster image",2025-07,74000
+2026-06,formats,US,"United States","JPG","Raster image",2025-08,110000
+2026-06,formats,US,"United States","JPG","Raster image",2025-09,135000
+2026-06,formats,US,"United States","JPG","Raster image",2025-10,165000
+2026-06,formats,US,"United States","JPG","Raster image",2025-11,450000
+2026-06,formats,US,"United States","JPG","Raster image",2025-12,673000
+2026-06,formats,US,"United States","JPG","Raster image",2026-01,301000
+2026-06,formats,US,"United States","JPG","Raster image",2026-02,246000
+2026-06,formats,US,"United States","JPG","Raster image",2026-03,135000
+2026-06,formats,US,"United States","JPG","Raster image",2026-04,135000
+2026-06,formats,US,"United States","JPG","Raster image",2026-05,135000
+2026-06,formats,US,"United States","PNG","Raster image",2025-06,60500
+2026-06,formats,US,"United States","PNG","Raster image",2025-07,60500
+2026-06,formats,US,"United States","PNG","Raster image",2025-08,90500
+2026-06,formats,US,"United States","PNG","Raster image",2025-09,90500
+2026-06,formats,US,"United States","PNG","Raster image",2025-10,110000
+2026-06,formats,US,"United States","PNG","Raster image",2025-11,201000
+2026-06,formats,US,"United States","PNG","Raster image",2025-12,246000
+2026-06,formats,US,"United States","PNG","Raster image",2026-01,165000
+2026-06,formats,US,"United States","PNG","Raster image",2026-02,135000
+2026-06,formats,US,"United States","PNG","Raster image",2026-03,90500
+2026-06,formats,US,"United States","PNG","Raster image",2026-04,90500
+2026-06,formats,US,"United States","PNG","Raster image",2026-05,90500
+2026-06,formats,US,"United States","GIF","Animation",2025-06,673000
+2026-06,formats,US,"United States","GIF","Animation",2025-07,550000
+2026-06,formats,US,"United States","GIF","Animation",2025-08,1000000
+2026-06,formats,US,"United States","GIF","Animation",2025-09,1500000
+2026-06,formats,US,"United States","GIF","Animation",2025-10,1500000
+2026-06,formats,US,"United States","GIF","Animation",2025-11,1220000
+2026-06,formats,US,"United States","GIF","Animation",2025-12,1220000
+2026-06,formats,US,"United States","GIF","Animation",2026-01,1220000
+2026-06,formats,US,"United States","GIF","Animation",2026-02,1220000
+2026-06,formats,US,"United States","GIF","Animation",2026-03,1220000
+2026-06,formats,US,"United States","GIF","Animation",2026-04,1500000
+2026-06,formats,US,"United States","GIF","Animation",2026-05,1220000
+2026-06,formats,US,"United States","SVG","Vector image",2025-06,33100
+2026-06,formats,US,"United States","SVG","Vector image",2025-07,40500
+2026-06,formats,US,"United States","SVG","Vector image",2025-08,40500
+2026-06,formats,US,"United States","SVG","Vector image",2025-09,33100
+2026-06,formats,US,"United States","SVG","Vector image",2025-10,40500
+2026-06,formats,US,"United States","SVG","Vector image",2025-11,40500
+2026-06,formats,US,"United States","SVG","Vector image",2025-12,49500
+2026-06,formats,US,"United States","SVG","Vector image",2026-01,40500
+2026-06,formats,US,"United States","SVG","Vector image",2026-02,40500
+2026-06,formats,US,"United States","SVG","Vector image",2026-03,40500
+2026-06,formats,US,"United States","SVG","Vector image",2026-04,40500
+2026-06,formats,US,"United States","SVG","Vector image",2026-05,40500
+2026-06,formats,US,"United States","WebP","Raster image",2025-06,9900
+2026-06,formats,US,"United States","WebP","Raster image",2025-07,9900
+2026-06,formats,US,"United States","WebP","Raster image",2025-08,9900
+2026-06,formats,US,"United States","WebP","Raster image",2025-09,9900
+2026-06,formats,US,"United States","WebP","Raster image",2025-10,9900
+2026-06,formats,US,"United States","WebP","Raster image",2025-11,9900
+2026-06,formats,US,"United States","WebP","Raster image",2025-12,9900
+2026-06,formats,US,"United States","WebP","Raster image",2026-01,9900
+2026-06,formats,US,"United States","WebP","Raster image",2026-02,9900
+2026-06,formats,US,"United States","WebP","Raster image",2026-03,9900
+2026-06,formats,US,"United States","WebP","Raster image",2026-04,9900
+2026-06,formats,US,"United States","WebP","Raster image",2026-05,9900
+2026-06,formats,US,"United States","HEIC","Raster image",2025-06,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2025-07,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2025-08,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2025-09,18100
+2026-06,formats,US,"United States","HEIC","Raster image",2025-10,18100
+2026-06,formats,US,"United States","HEIC","Raster image",2025-11,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2025-12,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2026-01,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2026-02,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2026-03,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2026-04,14800
+2026-06,formats,US,"United States","HEIC","Raster image",2026-05,14800
+2026-06,formats,US,"United States","AVIF","Raster image",2025-06,4400
+2026-06,formats,US,"United States","AVIF","Raster image",2025-07,4400
+2026-06,formats,US,"United States","AVIF","Raster image",2025-08,4400
+2026-06,formats,US,"United States","AVIF","Raster image",2025-09,5400
+2026-06,formats,US,"United States","AVIF","Raster image",2025-10,5400
+2026-06,formats,US,"United States","AVIF","Raster image",2025-11,5400
+2026-06,formats,US,"United States","AVIF","Raster image",2025-12,4400
+2026-06,formats,US,"United States","AVIF","Raster image",2026-01,5400
+2026-06,formats,US,"United States","AVIF","Raster image",2026-02,4400
+2026-06,formats,US,"United States","AVIF","Raster image",2026-03,5400
+2026-06,formats,US,"United States","AVIF","Raster image",2026-04,5400
+2026-06,formats,US,"United States","AVIF","Raster image",2026-05,4400
+2026-06,formats,US,"United States","TIFF","Raster image",2025-06,22200
+2026-06,formats,US,"United States","TIFF","Raster image",2025-07,27100
+2026-06,formats,US,"United States","TIFF","Raster image",2025-08,40500
+2026-06,formats,US,"United States","TIFF","Raster image",2025-09,49500
+2026-06,formats,US,"United States","TIFF","Raster image",2025-10,27100
+2026-06,formats,US,"United States","TIFF","Raster image",2025-11,301000
+2026-06,formats,US,"United States","TIFF","Raster image",2025-12,33100
+2026-06,formats,US,"United States","TIFF","Raster image",2026-01,27100
+2026-06,formats,US,"United States","TIFF","Raster image",2026-02,22200
+2026-06,formats,US,"United States","TIFF","Raster image",2026-03,22200
+2026-06,formats,US,"United States","TIFF","Raster image",2026-04,22200
+2026-06,formats,US,"United States","TIFF","Raster image",2026-05,27100
+2026-06,formats,US,"United States","BMP","Raster image",2025-06,49500
+2026-06,formats,US,"United States","BMP","Raster image",2025-07,49500
+2026-06,formats,US,"United States","BMP","Raster image",2025-08,49500
+2026-06,formats,US,"United States","BMP","Raster image",2025-09,49500
+2026-06,formats,US,"United States","BMP","Raster image",2025-10,49500
+2026-06,formats,US,"United States","BMP","Raster image",2025-11,49500
+2026-06,formats,US,"United States","BMP","Raster image",2025-12,49500
+2026-06,formats,US,"United States","BMP","Raster image",2026-01,49500
+2026-06,formats,US,"United States","BMP","Raster image",2026-02,49500
+2026-06,formats,US,"United States","BMP","Raster image",2026-03,49500
+2026-06,formats,US,"United States","BMP","Raster image",2026-04,49500
+2026-06,formats,US,"United States","BMP","Raster image",2026-05,49500
+2026-06,formats,US,"United States","ICO","Icon",2025-06,22200
+2026-06,formats,US,"United States","ICO","Icon",2025-07,22200
+2026-06,formats,US,"United States","ICO","Icon",2025-08,22200
+2026-06,formats,US,"United States","ICO","Icon",2025-09,22200
+2026-06,formats,US,"United States","ICO","Icon",2025-10,22200
+2026-06,formats,US,"United States","ICO","Icon",2025-11,18100
+2026-06,formats,US,"United States","ICO","Icon",2025-12,18100
+2026-06,formats,US,"United States","ICO","Icon",2026-01,18100
+2026-06,formats,US,"United States","ICO","Icon",2026-02,18100
+2026-06,formats,US,"United States","ICO","Icon",2026-03,22200
+2026-06,formats,US,"United States","ICO","Icon",2026-04,18100
+2026-06,formats,US,"United States","ICO","Icon",2026-05,18100
+2026-06,formats,US,"United States","PSD","Photoshop",2025-06,201000
+2026-06,formats,US,"United States","PSD","Photoshop",2025-07,201000
+2026-06,formats,US,"United States","PSD","Photoshop",2025-08,201000
+2026-06,formats,US,"United States","PSD","Photoshop",2025-09,165000
+2026-06,formats,US,"United States","PSD","Photoshop",2025-10,165000
+2026-06,formats,US,"United States","PSD","Photoshop",2025-11,246000
+2026-06,formats,US,"United States","PSD","Photoshop",2025-12,246000
+2026-06,formats,US,"United States","PSD","Photoshop",2026-01,165000
+2026-06,formats,US,"United States","PSD","Photoshop",2026-02,165000
+2026-06,formats,US,"United States","PSD","Photoshop",2026-03,165000
+2026-06,formats,US,"United States","PSD","Photoshop",2026-04,201000
+2026-06,formats,US,"United States","PSD","Photoshop",2026-05,201000
+2026-06,formats,IN,"India","PDF","Document",2025-06,450000
+2026-06,formats,IN,"India","PDF","Document",2025-07,550000
+2026-06,formats,IN,"India","PDF","Document",2025-08,550000
+2026-06,formats,IN,"India","PDF","Document",2025-09,550000
+2026-06,formats,IN,"India","PDF","Document",2025-10,550000
+2026-06,formats,IN,"India","PDF","Document",2025-11,550000
+2026-06,formats,IN,"India","PDF","Document",2025-12,550000
+2026-06,formats,IN,"India","PDF","Document",2026-01,550000
+2026-06,formats,IN,"India","PDF","Document",2026-02,550000
+2026-06,formats,IN,"India","PDF","Document",2026-03,550000
+2026-06,formats,IN,"India","PDF","Document",2026-04,550000
+2026-06,formats,IN,"India","PDF","Document",2026-05,550000
+2026-06,formats,IN,"India","JPG","Raster image",2025-06,60500
+2026-06,formats,IN,"India","JPG","Raster image",2025-07,74000
+2026-06,formats,IN,"India","JPG","Raster image",2025-08,74000
+2026-06,formats,IN,"India","JPG","Raster image",2025-09,74000
+2026-06,formats,IN,"India","JPG","Raster image",2025-10,74000
+2026-06,formats,IN,"India","JPG","Raster image",2025-11,74000
+2026-06,formats,IN,"India","JPG","Raster image",2025-12,90500
+2026-06,formats,IN,"India","JPG","Raster image",2026-01,90500
+2026-06,formats,IN,"India","JPG","Raster image",2026-02,110000
+2026-06,formats,IN,"India","JPG","Raster image",2026-03,74000
+2026-06,formats,IN,"India","JPG","Raster image",2026-04,74000
+2026-06,formats,IN,"India","JPG","Raster image",2026-05,90500
+2026-06,formats,IN,"India","PNG","Raster image",2025-06,165000
+2026-06,formats,IN,"India","PNG","Raster image",2025-07,165000
+2026-06,formats,IN,"India","PNG","Raster image",2025-08,165000
+2026-06,formats,IN,"India","PNG","Raster image",2025-09,165000
+2026-06,formats,IN,"India","PNG","Raster image",2025-10,165000
+2026-06,formats,IN,"India","PNG","Raster image",2025-11,165000
+2026-06,formats,IN,"India","PNG","Raster image",2025-12,165000
+2026-06,formats,IN,"India","PNG","Raster image",2026-01,165000
+2026-06,formats,IN,"India","PNG","Raster image",2026-02,165000
+2026-06,formats,IN,"India","PNG","Raster image",2026-03,368000
+2026-06,formats,IN,"India","PNG","Raster image",2026-04,165000
+2026-06,formats,IN,"India","PNG","Raster image",2026-05,165000
+2026-06,formats,IN,"India","GIF","Animation",2025-06,110000
+2026-06,formats,IN,"India","GIF","Animation",2025-07,135000
+2026-06,formats,IN,"India","GIF","Animation",2025-08,135000
+2026-06,formats,IN,"India","GIF","Animation",2025-09,135000
+2026-06,formats,IN,"India","GIF","Animation",2025-10,135000
+2026-06,formats,IN,"India","GIF","Animation",2025-11,135000
+2026-06,formats,IN,"India","GIF","Animation",2025-12,165000
+2026-06,formats,IN,"India","GIF","Animation",2026-01,165000
+2026-06,formats,IN,"India","GIF","Animation",2026-02,201000
+2026-06,formats,IN,"India","GIF","Animation",2026-03,201000
+2026-06,formats,IN,"India","GIF","Animation",2026-04,165000
+2026-06,formats,IN,"India","GIF","Animation",2026-05,165000
+2026-06,formats,IN,"India","SVG","Vector image",2025-06,18100
+2026-06,formats,IN,"India","SVG","Vector image",2025-07,18100
+2026-06,formats,IN,"India","SVG","Vector image",2025-08,18100
+2026-06,formats,IN,"India","SVG","Vector image",2025-09,18100
+2026-06,formats,IN,"India","SVG","Vector image",2025-10,14800
+2026-06,formats,IN,"India","SVG","Vector image",2025-11,14800
+2026-06,formats,IN,"India","SVG","Vector image",2025-12,14800
+2026-06,formats,IN,"India","SVG","Vector image",2026-01,14800
+2026-06,formats,IN,"India","SVG","Vector image",2026-02,14800
+2026-06,formats,IN,"India","SVG","Vector image",2026-03,14800
+2026-06,formats,IN,"India","SVG","Vector image",2026-04,14800
+2026-06,formats,IN,"India","SVG","Vector image",2026-05,14800
+2026-06,formats,IN,"India","WebP","Raster image",2025-06,8100
+2026-06,formats,IN,"India","WebP","Raster image",2025-07,8100
+2026-06,formats,IN,"India","WebP","Raster image",2025-08,6600
+2026-06,formats,IN,"India","WebP","Raster image",2025-09,8100
+2026-06,formats,IN,"India","WebP","Raster image",2025-10,6600
+2026-06,formats,IN,"India","WebP","Raster image",2025-11,6600
+2026-06,formats,IN,"India","WebP","Raster image",2025-12,6600
+2026-06,formats,IN,"India","WebP","Raster image",2026-01,8100
+2026-06,formats,IN,"India","WebP","Raster image",2026-02,8100
+2026-06,formats,IN,"India","WebP","Raster image",2026-03,8100
+2026-06,formats,IN,"India","WebP","Raster image",2026-04,8100
+2026-06,formats,IN,"India","WebP","Raster image",2026-05,8100
+2026-06,formats,IN,"India","HEIC","Raster image",2025-06,4400
+2026-06,formats,IN,"India","HEIC","Raster image",2025-07,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2025-08,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2025-09,14800
+2026-06,formats,IN,"India","HEIC","Raster image",2025-10,6600
+2026-06,formats,IN,"India","HEIC","Raster image",2025-11,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2025-12,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2026-01,6600
+2026-06,formats,IN,"India","HEIC","Raster image",2026-02,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2026-03,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2026-04,5400
+2026-06,formats,IN,"India","HEIC","Raster image",2026-05,5400
+2026-06,formats,IN,"India","AVIF","Raster image",2025-06,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2025-07,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2025-08,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2025-09,1900
+2026-06,formats,IN,"India","AVIF","Raster image",2025-10,1900
+2026-06,formats,IN,"India","AVIF","Raster image",2025-11,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2025-12,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2026-01,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2026-02,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2026-03,2400
+2026-06,formats,IN,"India","AVIF","Raster image",2026-04,1900
+2026-06,formats,IN,"India","AVIF","Raster image",2026-05,1900
+2026-06,formats,IN,"India","TIFF","Raster image",2025-06,5400
+2026-06,formats,IN,"India","TIFF","Raster image",2025-07,6600
+2026-06,formats,IN,"India","TIFF","Raster image",2025-08,5400
+2026-06,formats,IN,"India","TIFF","Raster image",2025-09,8100
+2026-06,formats,IN,"India","TIFF","Raster image",2025-10,5400
+2026-06,formats,IN,"India","TIFF","Raster image",2025-11,8100
+2026-06,formats,IN,"India","TIFF","Raster image",2025-12,6600
+2026-06,formats,IN,"India","TIFF","Raster image",2026-01,5400
+2026-06,formats,IN,"India","TIFF","Raster image",2026-02,5400
+2026-06,formats,IN,"India","TIFF","Raster image",2026-03,5400
+2026-06,formats,IN,"India","TIFF","Raster image",2026-04,4400
+2026-06,formats,IN,"India","TIFF","Raster image",2026-05,4400
+2026-06,formats,IN,"India","BMP","Raster image",2025-06,40500
+2026-06,formats,IN,"India","BMP","Raster image",2025-07,22200
+2026-06,formats,IN,"India","BMP","Raster image",2025-08,14800
+2026-06,formats,IN,"India","BMP","Raster image",2025-09,14800
+2026-06,formats,IN,"India","BMP","Raster image",2025-10,12100
+2026-06,formats,IN,"India","BMP","Raster image",2025-11,9900
+2026-06,formats,IN,"India","BMP","Raster image",2025-12,12100
+2026-06,formats,IN,"India","BMP","Raster image",2026-01,12100
+2026-06,formats,IN,"India","BMP","Raster image",2026-02,9900
+2026-06,formats,IN,"India","BMP","Raster image",2026-03,12100
+2026-06,formats,IN,"India","BMP","Raster image",2026-04,18100
+2026-06,formats,IN,"India","BMP","Raster image",2026-05,49500
+2026-06,formats,IN,"India","ICO","Icon",2025-06,9900
+2026-06,formats,IN,"India","ICO","Icon",2025-07,9900
+2026-06,formats,IN,"India","ICO","Icon",2025-08,9900
+2026-06,formats,IN,"India","ICO","Icon",2025-09,8100
+2026-06,formats,IN,"India","ICO","Icon",2025-10,9900
+2026-06,formats,IN,"India","ICO","Icon",2025-11,8100
+2026-06,formats,IN,"India","ICO","Icon",2025-12,9900
+2026-06,formats,IN,"India","ICO","Icon",2026-01,8100
+2026-06,formats,IN,"India","ICO","Icon",2026-02,8100
+2026-06,formats,IN,"India","ICO","Icon",2026-03,8100
+2026-06,formats,IN,"India","ICO","Icon",2026-04,6600
+2026-06,formats,IN,"India","ICO","Icon",2026-05,8100
+2026-06,formats,IN,"India","PSD","Photoshop",2025-06,14800
+2026-06,formats,IN,"India","PSD","Photoshop",2025-07,14800
+2026-06,formats,IN,"India","PSD","Photoshop",2025-08,14800
+2026-06,formats,IN,"India","PSD","Photoshop",2025-09,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2025-10,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2025-11,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2025-12,14800
+2026-06,formats,IN,"India","PSD","Photoshop",2026-01,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2026-02,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2026-03,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2026-04,12100
+2026-06,formats,IN,"India","PSD","Photoshop",2026-05,12100
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-06,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-07,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-08,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-09,60500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-10,60500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-11,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2025-12,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2026-01,60500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2026-02,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2026-03,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2026-04,49500
+2026-06,formats,GB,"United Kingdom","PDF","Document",2026-05,49500
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-06,14800
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-07,14800
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-08,12100
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-09,14800
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-10,14800
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-11,22200
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2025-12,22200
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2026-01,18100
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2026-02,14800
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2026-03,18100
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2026-04,14800
+2026-06,formats,GB,"United Kingdom","JPG","Raster image",2026-05,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-06,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-07,12100
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-08,12100
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-09,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-10,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-11,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2025-12,12100
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2026-01,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2026-02,12100
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2026-03,14800
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2026-04,12100
+2026-06,formats,GB,"United Kingdom","PNG","Raster image",2026-05,12100
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-06,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-07,90500
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-08,90500
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-09,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-10,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-11,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2025-12,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2026-01,135000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2026-02,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2026-03,135000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2026-04,110000
+2026-06,formats,GB,"United Kingdom","GIF","Animation",2026-05,135000
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-06,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-07,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-08,5400
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-09,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-10,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-11,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2025-12,5400
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2026-01,5400
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2026-02,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2026-03,6600
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2026-04,5400
+2026-06,formats,GB,"United Kingdom","SVG","Vector image",2026-05,5400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-06,2900
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-07,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-08,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-09,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-10,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-11,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2025-12,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2026-01,2900
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2026-02,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2026-03,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2026-04,2400
+2026-06,formats,GB,"United Kingdom","WebP","Raster image",2026-05,2400
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-06,3600
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-07,3600
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-08,2900
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-09,3600
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-10,3600
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-11,2900
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2025-12,2400
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2026-01,2900
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2026-02,2400
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2026-03,2900
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2026-04,2400
+2026-06,formats,GB,"United Kingdom","HEIC","Raster image",2026-05,2400
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-06,1300
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-07,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-08,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-09,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-10,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-11,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2025-12,880
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2026-01,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2026-02,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2026-03,1000
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2026-04,880
+2026-06,formats,GB,"United Kingdom","AVIF","Raster image",2026-05,1000
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-06,3600
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-07,3600
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-08,4400
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-09,6600
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-10,4400
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-11,33100
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2025-12,2900
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2026-01,3600
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2026-02,2900
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2026-03,2900
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2026-04,2900
+2026-06,formats,GB,"United Kingdom","TIFF","Raster image",2026-05,2900
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-06,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-07,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-08,2900
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-09,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-10,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-11,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2025-12,2900
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2026-01,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2026-02,2900
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2026-03,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2026-04,3600
+2026-06,formats,GB,"United Kingdom","BMP","Raster image",2026-05,3600
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-06,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-07,60500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-08,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-09,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-10,60500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-11,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2025-12,40500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2026-01,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2026-02,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2026-03,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2026-04,49500
+2026-06,formats,GB,"United Kingdom","ICO","Icon",2026-05,49500
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-06,9900
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-07,9900
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-08,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-09,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-10,9900
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-11,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2025-12,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2026-01,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2026-02,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2026-03,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2026-04,8100
+2026-06,formats,GB,"United Kingdom","PSD","Photoshop",2026-05,8100
+2026-06,formats,CA,"Canada","PDF","Document",2025-06,33100
+2026-06,formats,CA,"Canada","PDF","Document",2025-07,40500
+2026-06,formats,CA,"Canada","PDF","Document",2025-08,49500
+2026-06,formats,CA,"Canada","PDF","Document",2025-09,60500
+2026-06,formats,CA,"Canada","PDF","Document",2025-10,74000
+2026-06,formats,CA,"Canada","PDF","Document",2025-11,110000
+2026-06,formats,CA,"Canada","PDF","Document",2025-12,90500
+2026-06,formats,CA,"Canada","PDF","Document",2026-01,49500
+2026-06,formats,CA,"Canada","PDF","Document",2026-02,40500
+2026-06,formats,CA,"Canada","PDF","Document",2026-03,40500
+2026-06,formats,CA,"Canada","PDF","Document",2026-04,40500
+2026-06,formats,CA,"Canada","PDF","Document",2026-05,33100
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-06,8100
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-07,12100
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-08,14800
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-09,18100
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-10,27100
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-11,49500
+2026-06,formats,CA,"Canada","JPG","Raster image",2025-12,40500
+2026-06,formats,CA,"Canada","JPG","Raster image",2026-01,12100
+2026-06,formats,CA,"Canada","JPG","Raster image",2026-02,9900
+2026-06,formats,CA,"Canada","JPG","Raster image",2026-03,9900
+2026-06,formats,CA,"Canada","JPG","Raster image",2026-04,9900
+2026-06,formats,CA,"Canada","JPG","Raster image",2026-05,9900
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-06,12100
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-07,12100
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-08,12100
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-09,14800
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-10,22200
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-11,27100
+2026-06,formats,CA,"Canada","PNG","Raster image",2025-12,22200
+2026-06,formats,CA,"Canada","PNG","Raster image",2026-01,18100
+2026-06,formats,CA,"Canada","PNG","Raster image",2026-02,14800
+2026-06,formats,CA,"Canada","PNG","Raster image",2026-03,18100
+2026-06,formats,CA,"Canada","PNG","Raster image",2026-04,14800
+2026-06,formats,CA,"Canada","PNG","Raster image",2026-05,14800
+2026-06,formats,CA,"Canada","GIF","Animation",2025-06,90500
+2026-06,formats,CA,"Canada","GIF","Animation",2025-07,60500
+2026-06,formats,CA,"Canada","GIF","Animation",2025-08,60500
+2026-06,formats,CA,"Canada","GIF","Animation",2025-09,110000
+2026-06,formats,CA,"Canada","GIF","Animation",2025-10,110000
+2026-06,formats,CA,"Canada","GIF","Animation",2025-11,110000
+2026-06,formats,CA,"Canada","GIF","Animation",2025-12,90500
+2026-06,formats,CA,"Canada","GIF","Animation",2026-01,110000
+2026-06,formats,CA,"Canada","GIF","Animation",2026-02,90500
+2026-06,formats,CA,"Canada","GIF","Animation",2026-03,110000
+2026-06,formats,CA,"Canada","GIF","Animation",2026-04,110000
+2026-06,formats,CA,"Canada","GIF","Animation",2026-05,110000
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-06,4400
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-07,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-08,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-09,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-10,6600
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-11,6600
+2026-06,formats,CA,"Canada","SVG","Vector image",2025-12,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2026-01,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2026-02,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2026-03,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2026-04,5400
+2026-06,formats,CA,"Canada","SVG","Vector image",2026-05,4400
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-06,1600
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-07,1600
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-08,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-09,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-10,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-11,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2025-12,1600
+2026-06,formats,CA,"Canada","WebP","Raster image",2026-01,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2026-02,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2026-03,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2026-04,1900
+2026-06,formats,CA,"Canada","WebP","Raster image",2026-05,1900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-06,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-07,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-08,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-09,3600
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-10,3600
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-11,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2025-12,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2026-01,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2026-02,2400
+2026-06,formats,CA,"Canada","HEIC","Raster image",2026-03,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2026-04,2900
+2026-06,formats,CA,"Canada","HEIC","Raster image",2026-05,2400
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-06,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-07,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-08,880
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-09,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-10,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-11,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2025-12,880
+2026-06,formats,CA,"Canada","AVIF","Raster image",2026-01,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2026-02,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2026-03,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2026-04,1000
+2026-06,formats,CA,"Canada","AVIF","Raster image",2026-05,1000
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-06,18100
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-07,27100
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-08,90500
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-09,135000
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-10,18100
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-11,40500
+2026-06,formats,CA,"Canada","TIFF","Raster image",2025-12,14800
+2026-06,formats,CA,"Canada","TIFF","Raster image",2026-01,18100
+2026-06,formats,CA,"Canada","TIFF","Raster image",2026-02,14800
+2026-06,formats,CA,"Canada","TIFF","Raster image",2026-03,14800
+2026-06,formats,CA,"Canada","TIFF","Raster image",2026-04,14800
+2026-06,formats,CA,"Canada","TIFF","Raster image",2026-05,14800
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-06,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-07,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-08,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-09,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-10,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-11,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2025-12,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2026-01,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2026-02,5400
+2026-06,formats,CA,"Canada","BMP","Raster image",2026-03,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2026-04,6600
+2026-06,formats,CA,"Canada","BMP","Raster image",2026-05,6600
+2026-06,formats,CA,"Canada","ICO","Icon",2025-06,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2025-07,2900
+2026-06,formats,CA,"Canada","ICO","Icon",2025-08,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2025-09,2900
+2026-06,formats,CA,"Canada","ICO","Icon",2025-10,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2025-11,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2025-12,2900
+2026-06,formats,CA,"Canada","ICO","Icon",2026-01,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2026-02,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2026-03,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2026-04,3600
+2026-06,formats,CA,"Canada","ICO","Icon",2026-05,2900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-06,8100
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-07,9900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-08,8100
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-09,8100
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-10,9900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-11,9900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2025-12,9900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2026-01,9900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2026-02,8100
+2026-06,formats,CA,"Canada","PSD","Photoshop",2026-03,8100
+2026-06,formats,CA,"Canada","PSD","Photoshop",2026-04,9900
+2026-06,formats,CA,"Canada","PSD","Photoshop",2026-05,9900
+2026-06,formats,AU,"Australia","PDF","Document",2025-06,27100
+2026-06,formats,AU,"Australia","PDF","Document",2025-07,27100
+2026-06,formats,AU,"Australia","PDF","Document",2025-08,27100
+2026-06,formats,AU,"Australia","PDF","Document",2025-09,27100
+2026-06,formats,AU,"Australia","PDF","Document",2025-10,27100
+2026-06,formats,AU,"Australia","PDF","Document",2025-11,27100
+2026-06,formats,AU,"Australia","PDF","Document",2025-12,18100
+2026-06,formats,AU,"Australia","PDF","Document",2026-01,22200
+2026-06,formats,AU,"Australia","PDF","Document",2026-02,27100
+2026-06,formats,AU,"Australia","PDF","Document",2026-03,27100
+2026-06,formats,AU,"Australia","PDF","Document",2026-04,22200
+2026-06,formats,AU,"Australia","PDF","Document",2026-05,27100
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-06,6600
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-07,6600
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-08,8100
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-09,8100
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-10,6600
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-11,8100
+2026-06,formats,AU,"Australia","JPG","Raster image",2025-12,8100
+2026-06,formats,AU,"Australia","JPG","Raster image",2026-01,6600
+2026-06,formats,AU,"Australia","JPG","Raster image",2026-02,8100
+2026-06,formats,AU,"Australia","JPG","Raster image",2026-03,9900
+2026-06,formats,AU,"Australia","JPG","Raster image",2026-04,8100
+2026-06,formats,AU,"Australia","JPG","Raster image",2026-05,9900
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-06,12100
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-07,12100
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-08,12100
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-09,18100
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-10,14800
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-11,12100
+2026-06,formats,AU,"Australia","PNG","Raster image",2025-12,8100
+2026-06,formats,AU,"Australia","PNG","Raster image",2026-01,8100
+2026-06,formats,AU,"Australia","PNG","Raster image",2026-02,9900
+2026-06,formats,AU,"Australia","PNG","Raster image",2026-03,12100
+2026-06,formats,AU,"Australia","PNG","Raster image",2026-04,12100
+2026-06,formats,AU,"Australia","PNG","Raster image",2026-05,14800
+2026-06,formats,AU,"Australia","GIF","Animation",2025-06,90500
+2026-06,formats,AU,"Australia","GIF","Animation",2025-07,60500
+2026-06,formats,AU,"Australia","GIF","Animation",2025-08,90500
+2026-06,formats,AU,"Australia","GIF","Animation",2025-09,74000
+2026-06,formats,AU,"Australia","GIF","Animation",2025-10,74000
+2026-06,formats,AU,"Australia","GIF","Animation",2025-11,90500
+2026-06,formats,AU,"Australia","GIF","Animation",2025-12,60500
+2026-06,formats,AU,"Australia","GIF","Animation",2026-01,49500
+2026-06,formats,AU,"Australia","GIF","Animation",2026-02,74000
+2026-06,formats,AU,"Australia","GIF","Animation",2026-03,90500
+2026-06,formats,AU,"Australia","GIF","Animation",2026-04,74000
+2026-06,formats,AU,"Australia","GIF","Animation",2026-05,90500
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-06,4400
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-07,5400
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-08,5400
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-09,4400
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-10,5400
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-11,3600
+2026-06,formats,AU,"Australia","SVG","Vector image",2025-12,2900
+2026-06,formats,AU,"Australia","SVG","Vector image",2026-01,2900
+2026-06,formats,AU,"Australia","SVG","Vector image",2026-02,3600
+2026-06,formats,AU,"Australia","SVG","Vector image",2026-03,4400
+2026-06,formats,AU,"Australia","SVG","Vector image",2026-04,3600
+2026-06,formats,AU,"Australia","SVG","Vector image",2026-05,5400
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-06,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-07,1300
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-08,1300
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-09,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-10,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-11,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2025-12,880
+2026-06,formats,AU,"Australia","WebP","Raster image",2026-01,880
+2026-06,formats,AU,"Australia","WebP","Raster image",2026-02,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2026-03,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2026-04,1000
+2026-06,formats,AU,"Australia","WebP","Raster image",2026-05,1300
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-06,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-07,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-08,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-09,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-10,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-11,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2025-12,1900
+2026-06,formats,AU,"Australia","HEIC","Raster image",2026-01,1600
+2026-06,formats,AU,"Australia","HEIC","Raster image",2026-02,1600
+2026-06,formats,AU,"Australia","HEIC","Raster image",2026-03,1600
+2026-06,formats,AU,"Australia","HEIC","Raster image",2026-04,1600
+2026-06,formats,AU,"Australia","HEIC","Raster image",2026-05,1600
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-06,590
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-07,590
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-08,590
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-09,590
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-10,480
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-11,480
+2026-06,formats,AU,"Australia","AVIF","Raster image",2025-12,390
+2026-06,formats,AU,"Australia","AVIF","Raster image",2026-01,480
+2026-06,formats,AU,"Australia","AVIF","Raster image",2026-02,480
+2026-06,formats,AU,"Australia","AVIF","Raster image",2026-03,590
+2026-06,formats,AU,"Australia","AVIF","Raster image",2026-04,480
+2026-06,formats,AU,"Australia","AVIF","Raster image",2026-05,590
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-06,1600
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-07,1900
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-08,2400
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-09,2900
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-10,1600
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-11,22200
+2026-06,formats,AU,"Australia","TIFF","Raster image",2025-12,1300
+2026-06,formats,AU,"Australia","TIFF","Raster image",2026-01,1300
+2026-06,formats,AU,"Australia","TIFF","Raster image",2026-02,1300
+2026-06,formats,AU,"Australia","TIFF","Raster image",2026-03,1600
+2026-06,formats,AU,"Australia","TIFF","Raster image",2026-04,1300
+2026-06,formats,AU,"Australia","TIFF","Raster image",2026-05,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-06,1900
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-07,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-08,1900
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-09,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-10,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-11,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2025-12,1300
+2026-06,formats,AU,"Australia","BMP","Raster image",2026-01,1300
+2026-06,formats,AU,"Australia","BMP","Raster image",2026-02,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2026-03,1600
+2026-06,formats,AU,"Australia","BMP","Raster image",2026-04,1300
+2026-06,formats,AU,"Australia","BMP","Raster image",2026-05,1900
+2026-06,formats,AU,"Australia","ICO","Icon",2025-06,3600
+2026-06,formats,AU,"Australia","ICO","Icon",2025-07,2900
+2026-06,formats,AU,"Australia","ICO","Icon",2025-08,3600
+2026-06,formats,AU,"Australia","ICO","Icon",2025-09,2900
+2026-06,formats,AU,"Australia","ICO","Icon",2025-10,3600
+2026-06,formats,AU,"Australia","ICO","Icon",2025-11,3600
+2026-06,formats,AU,"Australia","ICO","Icon",2025-12,2900
+2026-06,formats,AU,"Australia","ICO","Icon",2026-01,2900
+2026-06,formats,AU,"Australia","ICO","Icon",2026-02,2400
+2026-06,formats,AU,"Australia","ICO","Icon",2026-03,2900
+2026-06,formats,AU,"Australia","ICO","Icon",2026-04,2900
+2026-06,formats,AU,"Australia","ICO","Icon",2026-05,2900
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-06,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-07,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-08,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-09,2900
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-10,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-11,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2025-12,2900
+2026-06,formats,AU,"Australia","PSD","Photoshop",2026-01,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2026-02,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2026-03,3600
+2026-06,formats,AU,"Australia","PSD","Photoshop",2026-04,2900
+2026-06,formats,AU,"Australia","PSD","Photoshop",2026-05,3600
+2026-06,formats,DE,"Germany","PDF","Document",2025-06,90500
+2026-06,formats,DE,"Germany","PDF","Document",2025-07,110000
+2026-06,formats,DE,"Germany","PDF","Document",2025-08,90500
+2026-06,formats,DE,"Germany","PDF","Document",2025-09,90500
+2026-06,formats,DE,"Germany","PDF","Document",2025-10,110000
+2026-06,formats,DE,"Germany","PDF","Document",2025-11,110000
+2026-06,formats,DE,"Germany","PDF","Document",2025-12,90500
+2026-06,formats,DE,"Germany","PDF","Document",2026-01,110000
+2026-06,formats,DE,"Germany","PDF","Document",2026-02,90500
+2026-06,formats,DE,"Germany","PDF","Document",2026-03,90500
+2026-06,formats,DE,"Germany","PDF","Document",2026-04,90500
+2026-06,formats,DE,"Germany","PDF","Document",2026-05,90500
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-06,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-07,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-08,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-09,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-10,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-11,12100
+2026-06,formats,DE,"Germany","JPG","Raster image",2025-12,12100
+2026-06,formats,DE,"Germany","JPG","Raster image",2026-01,12100
+2026-06,formats,DE,"Germany","JPG","Raster image",2026-02,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2026-03,12100
+2026-06,formats,DE,"Germany","JPG","Raster image",2026-04,9900
+2026-06,formats,DE,"Germany","JPG","Raster image",2026-05,9900
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-06,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-07,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-08,12100
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-09,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-10,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-11,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2025-12,12100
+2026-06,formats,DE,"Germany","PNG","Raster image",2026-01,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2026-02,12100
+2026-06,formats,DE,"Germany","PNG","Raster image",2026-03,14800
+2026-06,formats,DE,"Germany","PNG","Raster image",2026-04,12100
+2026-06,formats,DE,"Germany","PNG","Raster image",2026-05,12100
+2026-06,formats,DE,"Germany","GIF","Animation",2025-06,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2025-07,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2025-08,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2025-09,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2025-10,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2025-11,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2025-12,90500
+2026-06,formats,DE,"Germany","GIF","Animation",2026-01,90500
+2026-06,formats,DE,"Germany","GIF","Animation",2026-02,90500
+2026-06,formats,DE,"Germany","GIF","Animation",2026-03,90500
+2026-06,formats,DE,"Germany","GIF","Animation",2026-04,74000
+2026-06,formats,DE,"Germany","GIF","Animation",2026-05,74000
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-06,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-07,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-08,12100
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-09,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-10,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-11,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2025-12,12100
+2026-06,formats,DE,"Germany","SVG","Vector image",2026-01,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2026-02,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2026-03,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2026-04,14800
+2026-06,formats,DE,"Germany","SVG","Vector image",2026-05,12100
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-06,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-07,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-08,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-09,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-10,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-11,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2025-12,2900
+2026-06,formats,DE,"Germany","WebP","Raster image",2026-01,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2026-02,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2026-03,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2026-04,3600
+2026-06,formats,DE,"Germany","WebP","Raster image",2026-05,2900
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-06,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-07,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-08,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-09,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-10,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-11,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2025-12,3600
+2026-06,formats,DE,"Germany","HEIC","Raster image",2026-01,4400
+2026-06,formats,DE,"Germany","HEIC","Raster image",2026-02,3600
+2026-06,formats,DE,"Germany","HEIC","Raster image",2026-03,3600
+2026-06,formats,DE,"Germany","HEIC","Raster image",2026-04,3600
+2026-06,formats,DE,"Germany","HEIC","Raster image",2026-05,2900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-06,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-07,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-08,1600
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-09,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-10,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-11,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2025-12,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2026-01,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2026-02,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2026-03,1900
+2026-06,formats,DE,"Germany","AVIF","Raster image",2026-04,1600
+2026-06,formats,DE,"Germany","AVIF","Raster image",2026-05,1600
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-06,2400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-07,2400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-08,2400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-09,2900
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-10,1900
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-11,5400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2025-12,2400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2026-01,2400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2026-02,1900
+2026-06,formats,DE,"Germany","TIFF","Raster image",2026-03,2400
+2026-06,formats,DE,"Germany","TIFF","Raster image",2026-04,1900
+2026-06,formats,DE,"Germany","TIFF","Raster image",2026-05,1900
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-06,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-07,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-08,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-09,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-10,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-11,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2025-12,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2026-01,5400
+2026-06,formats,DE,"Germany","BMP","Raster image",2026-02,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2026-03,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2026-04,4400
+2026-06,formats,DE,"Germany","BMP","Raster image",2026-05,4400
+2026-06,formats,DE,"Germany","ICO","Icon",2025-06,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2025-07,4400
+2026-06,formats,DE,"Germany","ICO","Icon",2025-08,4400
+2026-06,formats,DE,"Germany","ICO","Icon",2025-09,4400
+2026-06,formats,DE,"Germany","ICO","Icon",2025-10,4400
+2026-06,formats,DE,"Germany","ICO","Icon",2025-11,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2025-12,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2026-01,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2026-02,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2026-03,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2026-04,3600
+2026-06,formats,DE,"Germany","ICO","Icon",2026-05,3600
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-06,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-07,22200
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-08,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-09,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-10,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-11,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2025-12,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2026-01,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2026-02,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2026-03,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2026-04,18100
+2026-06,formats,DE,"Germany","PSD","Photoshop",2026-05,18100
+2026-06,formats,FR,"France","PDF","Document",2025-06,110000
+2026-06,formats,FR,"France","PDF","Document",2025-07,90500
+2026-06,formats,FR,"France","PDF","Document",2025-08,90500
+2026-06,formats,FR,"France","PDF","Document",2025-09,110000
+2026-06,formats,FR,"France","PDF","Document",2025-10,110000
+2026-06,formats,FR,"France","PDF","Document",2025-11,110000
+2026-06,formats,FR,"France","PDF","Document",2025-12,110000
+2026-06,formats,FR,"France","PDF","Document",2026-01,110000
+2026-06,formats,FR,"France","PDF","Document",2026-02,110000
+2026-06,formats,FR,"France","PDF","Document",2026-03,110000
+2026-06,formats,FR,"France","PDF","Document",2026-04,110000
+2026-06,formats,FR,"France","PDF","Document",2026-05,110000
+2026-06,formats,FR,"France","JPG","Raster image",2025-06,40500
+2026-06,formats,FR,"France","JPG","Raster image",2025-07,40500
+2026-06,formats,FR,"France","JPG","Raster image",2025-08,33100
+2026-06,formats,FR,"France","JPG","Raster image",2025-09,49500
+2026-06,formats,FR,"France","JPG","Raster image",2025-10,49500
+2026-06,formats,FR,"France","JPG","Raster image",2025-11,40500
+2026-06,formats,FR,"France","JPG","Raster image",2025-12,33100
+2026-06,formats,FR,"France","JPG","Raster image",2026-01,40500
+2026-06,formats,FR,"France","JPG","Raster image",2026-02,33100
+2026-06,formats,FR,"France","JPG","Raster image",2026-03,40500
+2026-06,formats,FR,"France","JPG","Raster image",2026-04,33100
+2026-06,formats,FR,"France","JPG","Raster image",2026-05,27100
+2026-06,formats,FR,"France","PNG","Raster image",2025-06,18100
+2026-06,formats,FR,"France","PNG","Raster image",2025-07,14800
+2026-06,formats,FR,"France","PNG","Raster image",2025-08,14800
+2026-06,formats,FR,"France","PNG","Raster image",2025-09,22200
+2026-06,formats,FR,"France","PNG","Raster image",2025-10,22200
+2026-06,formats,FR,"France","PNG","Raster image",2025-11,22200
+2026-06,formats,FR,"France","PNG","Raster image",2025-12,18100
+2026-06,formats,FR,"France","PNG","Raster image",2026-01,18100
+2026-06,formats,FR,"France","PNG","Raster image",2026-02,18100
+2026-06,formats,FR,"France","PNG","Raster image",2026-03,18100
+2026-06,formats,FR,"France","PNG","Raster image",2026-04,18100
+2026-06,formats,FR,"France","PNG","Raster image",2026-05,18100
+2026-06,formats,FR,"France","GIF","Animation",2025-06,110000
+2026-06,formats,FR,"France","GIF","Animation",2025-07,90500
+2026-06,formats,FR,"France","GIF","Animation",2025-08,90500
+2026-06,formats,FR,"France","GIF","Animation",2025-09,110000
+2026-06,formats,FR,"France","GIF","Animation",2025-10,110000
+2026-06,formats,FR,"France","GIF","Animation",2025-11,110000
+2026-06,formats,FR,"France","GIF","Animation",2025-12,110000
+2026-06,formats,FR,"France","GIF","Animation",2026-01,135000
+2026-06,formats,FR,"France","GIF","Animation",2026-02,110000
+2026-06,formats,FR,"France","GIF","Animation",2026-03,110000
+2026-06,formats,FR,"France","GIF","Animation",2026-04,110000
+2026-06,formats,FR,"France","GIF","Animation",2026-05,110000
+2026-06,formats,FR,"France","SVG","Vector image",2025-06,8100
+2026-06,formats,FR,"France","SVG","Vector image",2025-07,6600
+2026-06,formats,FR,"France","SVG","Vector image",2025-08,5400
+2026-06,formats,FR,"France","SVG","Vector image",2025-09,9900
+2026-06,formats,FR,"France","SVG","Vector image",2025-10,8100
+2026-06,formats,FR,"France","SVG","Vector image",2025-11,8100
+2026-06,formats,FR,"France","SVG","Vector image",2025-12,8100
+2026-06,formats,FR,"France","SVG","Vector image",2026-01,8100
+2026-06,formats,FR,"France","SVG","Vector image",2026-02,8100
+2026-06,formats,FR,"France","SVG","Vector image",2026-03,9900
+2026-06,formats,FR,"France","SVG","Vector image",2026-04,8100
+2026-06,formats,FR,"France","SVG","Vector image",2026-05,8100
+2026-06,formats,FR,"France","WebP","Raster image",2025-06,2900
+2026-06,formats,FR,"France","WebP","Raster image",2025-07,2400
+2026-06,formats,FR,"France","WebP","Raster image",2025-08,2400
+2026-06,formats,FR,"France","WebP","Raster image",2025-09,3600
+2026-06,formats,FR,"France","WebP","Raster image",2025-10,2900
+2026-06,formats,FR,"France","WebP","Raster image",2025-11,2900
+2026-06,formats,FR,"France","WebP","Raster image",2025-12,2400
+2026-06,formats,FR,"France","WebP","Raster image",2026-01,4400
+2026-06,formats,FR,"France","WebP","Raster image",2026-02,2900
+2026-06,formats,FR,"France","WebP","Raster image",2026-03,3600
+2026-06,formats,FR,"France","WebP","Raster image",2026-04,2900
+2026-06,formats,FR,"France","WebP","Raster image",2026-05,2400
+2026-06,formats,FR,"France","HEIC","Raster image",2025-06,6600
+2026-06,formats,FR,"France","HEIC","Raster image",2025-07,6600
+2026-06,formats,FR,"France","HEIC","Raster image",2025-08,5400
+2026-06,formats,FR,"France","HEIC","Raster image",2025-09,6600
+2026-06,formats,FR,"France","HEIC","Raster image",2025-10,6600
+2026-06,formats,FR,"France","HEIC","Raster image",2025-11,6600
+2026-06,formats,FR,"France","HEIC","Raster image",2025-12,5400
+2026-06,formats,FR,"France","HEIC","Raster image",2026-01,5400
+2026-06,formats,FR,"France","HEIC","Raster image",2026-02,5400
+2026-06,formats,FR,"France","HEIC","Raster image",2026-03,6600
+2026-06,formats,FR,"France","HEIC","Raster image",2026-04,5400
+2026-06,formats,FR,"France","HEIC","Raster image",2026-05,5400
+2026-06,formats,FR,"France","AVIF","Raster image",2025-06,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2025-07,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2025-08,1000
+2026-06,formats,FR,"France","AVIF","Raster image",2025-09,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2025-10,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2025-11,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2025-12,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2026-01,1600
+2026-06,formats,FR,"France","AVIF","Raster image",2026-02,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2026-03,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2026-04,1300
+2026-06,formats,FR,"France","AVIF","Raster image",2026-05,1300
+2026-06,formats,FR,"France","TIFF","Raster image",2025-06,1900
+2026-06,formats,FR,"France","TIFF","Raster image",2025-07,2400
+2026-06,formats,FR,"France","TIFF","Raster image",2025-08,2400
+2026-06,formats,FR,"France","TIFF","Raster image",2025-09,3600
+2026-06,formats,FR,"France","TIFF","Raster image",2025-10,1900
+2026-06,formats,FR,"France","TIFF","Raster image",2025-11,2900
+2026-06,formats,FR,"France","TIFF","Raster image",2025-12,1600
+2026-06,formats,FR,"France","TIFF","Raster image",2026-01,1900
+2026-06,formats,FR,"France","TIFF","Raster image",2026-02,1600
+2026-06,formats,FR,"France","TIFF","Raster image",2026-03,1900
+2026-06,formats,FR,"France","TIFF","Raster image",2026-04,1600
+2026-06,formats,FR,"France","TIFF","Raster image",2026-05,1900
+2026-06,formats,FR,"France","BMP","Raster image",2025-06,4400
+2026-06,formats,FR,"France","BMP","Raster image",2025-07,3600
+2026-06,formats,FR,"France","BMP","Raster image",2025-08,3600
+2026-06,formats,FR,"France","BMP","Raster image",2025-09,5400
+2026-06,formats,FR,"France","BMP","Raster image",2025-10,4400
+2026-06,formats,FR,"France","BMP","Raster image",2025-11,4400
+2026-06,formats,FR,"France","BMP","Raster image",2025-12,3600
+2026-06,formats,FR,"France","BMP","Raster image",2026-01,4400
+2026-06,formats,FR,"France","BMP","Raster image",2026-02,4400
+2026-06,formats,FR,"France","BMP","Raster image",2026-03,4400
+2026-06,formats,FR,"France","BMP","Raster image",2026-04,3600
+2026-06,formats,FR,"France","BMP","Raster image",2026-05,3600
+2026-06,formats,FR,"France","ICO","Icon",2025-06,8100
+2026-06,formats,FR,"France","ICO","Icon",2025-07,6600
+2026-06,formats,FR,"France","ICO","Icon",2025-08,6600
+2026-06,formats,FR,"France","ICO","Icon",2025-09,8100
+2026-06,formats,FR,"France","ICO","Icon",2025-10,8100
+2026-06,formats,FR,"France","ICO","Icon",2025-11,8100
+2026-06,formats,FR,"France","ICO","Icon",2025-12,6600
+2026-06,formats,FR,"France","ICO","Icon",2026-01,8100
+2026-06,formats,FR,"France","ICO","Icon",2026-02,6600
+2026-06,formats,FR,"France","ICO","Icon",2026-03,8100
+2026-06,formats,FR,"France","ICO","Icon",2026-04,6600
+2026-06,formats,FR,"France","ICO","Icon",2026-05,6600
+2026-06,formats,FR,"France","PSD","Photoshop",2025-06,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2025-07,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2025-08,3600
+2026-06,formats,FR,"France","PSD","Photoshop",2025-09,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2025-10,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2025-11,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2025-12,3600
+2026-06,formats,FR,"France","PSD","Photoshop",2026-01,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2026-02,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2026-03,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2026-04,4400
+2026-06,formats,FR,"France","PSD","Photoshop",2026-05,4400
+2026-06,formats,BR,"Brazil","PDF","Document",2025-06,246000
+2026-06,formats,BR,"Brazil","PDF","Document",2025-07,246000
+2026-06,formats,BR,"Brazil","PDF","Document",2025-08,301000
+2026-06,formats,BR,"Brazil","PDF","Document",2025-09,301000
+2026-06,formats,BR,"Brazil","PDF","Document",2025-10,301000
+2026-06,formats,BR,"Brazil","PDF","Document",2025-11,246000
+2026-06,formats,BR,"Brazil","PDF","Document",2025-12,246000
+2026-06,formats,BR,"Brazil","PDF","Document",2026-01,246000
+2026-06,formats,BR,"Brazil","PDF","Document",2026-02,246000
+2026-06,formats,BR,"Brazil","PDF","Document",2026-03,368000
+2026-06,formats,BR,"Brazil","PDF","Document",2026-04,301000
+2026-06,formats,BR,"Brazil","PDF","Document",2026-05,301000
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-06,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-07,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-08,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-09,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-10,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-11,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2025-12,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2026-01,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2026-02,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2026-03,22200
+2026-06,formats,BR,"Brazil","JPG","Raster image",2026-04,18100
+2026-06,formats,BR,"Brazil","JPG","Raster image",2026-05,18100
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-06,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-07,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-08,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-09,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-10,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-11,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2025-12,74000
+2026-06,formats,BR,"Brazil","PNG","Raster image",2026-01,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2026-02,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2026-03,110000
+2026-06,formats,BR,"Brazil","PNG","Raster image",2026-04,90500
+2026-06,formats,BR,"Brazil","PNG","Raster image",2026-05,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-06,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-07,110000
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-08,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-09,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-10,110000
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-11,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2025-12,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2026-01,110000
+2026-06,formats,BR,"Brazil","GIF","Animation",2026-02,90500
+2026-06,formats,BR,"Brazil","GIF","Animation",2026-03,110000
+2026-06,formats,BR,"Brazil","GIF","Animation",2026-04,110000
+2026-06,formats,BR,"Brazil","GIF","Animation",2026-05,110000
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-06,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-07,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-08,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-09,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-10,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-11,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2025-12,9900
+2026-06,formats,BR,"Brazil","SVG","Vector image",2026-01,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2026-02,12100
+2026-06,formats,BR,"Brazil","SVG","Vector image",2026-03,14800
+2026-06,formats,BR,"Brazil","SVG","Vector image",2026-04,14800
+2026-06,formats,BR,"Brazil","SVG","Vector image",2026-05,14800
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-06,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-07,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-08,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-09,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-10,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-11,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2025-12,3600
+2026-06,formats,BR,"Brazil","WebP","Raster image",2026-01,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2026-02,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2026-03,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2026-04,4400
+2026-06,formats,BR,"Brazil","WebP","Raster image",2026-05,4400
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-06,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-07,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-08,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-09,4400
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-10,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-11,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2025-12,2900
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2026-01,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2026-02,2900
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2026-03,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2026-04,3600
+2026-06,formats,BR,"Brazil","HEIC","Raster image",2026-05,3600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-06,1900
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-07,1900
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-08,1600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-09,1600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-10,1300
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-11,1600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2025-12,1300
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2026-01,1600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2026-02,1300
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2026-03,1600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2026-04,1600
+2026-06,formats,BR,"Brazil","AVIF","Raster image",2026-05,1600
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-06,1900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-07,2400
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-08,2400
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-09,2900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-10,2400
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-11,2900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2025-12,1900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2026-01,1900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2026-02,1900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2026-03,2400
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2026-04,1900
+2026-06,formats,BR,"Brazil","TIFF","Raster image",2026-05,1900
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-06,12100
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-07,40500
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-08,9900
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-09,9900
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-10,9900
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-11,8100
+2026-06,formats,BR,"Brazil","BMP","Raster image",2025-12,9900
+2026-06,formats,BR,"Brazil","BMP","Raster image",2026-01,12100
+2026-06,formats,BR,"Brazil","BMP","Raster image",2026-02,22200
+2026-06,formats,BR,"Brazil","BMP","Raster image",2026-03,14800
+2026-06,formats,BR,"Brazil","BMP","Raster image",2026-04,14800
+2026-06,formats,BR,"Brazil","BMP","Raster image",2026-05,12100
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-06,14800
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-07,14800
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-08,14800
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-09,12100
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-10,12100
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-11,12100
+2026-06,formats,BR,"Brazil","ICO","Icon",2025-12,12100
+2026-06,formats,BR,"Brazil","ICO","Icon",2026-01,14800
+2026-06,formats,BR,"Brazil","ICO","Icon",2026-02,12100
+2026-06,formats,BR,"Brazil","ICO","Icon",2026-03,14800
+2026-06,formats,BR,"Brazil","ICO","Icon",2026-04,14800
+2026-06,formats,BR,"Brazil","ICO","Icon",2026-05,12100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-06,27100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-07,27100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-08,33100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-09,33100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-10,27100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-11,27100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2025-12,27100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2026-01,40500
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2026-02,33100
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2026-03,60500
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2026-04,40500
+2026-06,formats,BR,"Brazil","PSD","Photoshop",2026-05,33100
+2026-06,formats,MX,"Mexico","PDF","Document",2025-06,165000
+2026-06,formats,MX,"Mexico","PDF","Document",2025-07,135000
+2026-06,formats,MX,"Mexico","PDF","Document",2025-08,165000
+2026-06,formats,MX,"Mexico","PDF","Document",2025-09,246000
+2026-06,formats,MX,"Mexico","PDF","Document",2025-10,201000
+2026-06,formats,MX,"Mexico","PDF","Document",2025-11,165000
+2026-06,formats,MX,"Mexico","PDF","Document",2025-12,110000
+2026-06,formats,MX,"Mexico","PDF","Document",2026-01,165000
+2026-06,formats,MX,"Mexico","PDF","Document",2026-02,201000
+2026-06,formats,MX,"Mexico","PDF","Document",2026-03,301000
+2026-06,formats,MX,"Mexico","PDF","Document",2026-04,165000
+2026-06,formats,MX,"Mexico","PDF","Document",2026-05,201000
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-06,22200
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-07,18100
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-08,22200
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-09,27100
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-10,27100
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-11,27100
+2026-06,formats,MX,"Mexico","JPG","Raster image",2025-12,22200
+2026-06,formats,MX,"Mexico","JPG","Raster image",2026-01,22200
+2026-06,formats,MX,"Mexico","JPG","Raster image",2026-02,27100
+2026-06,formats,MX,"Mexico","JPG","Raster image",2026-03,33100
+2026-06,formats,MX,"Mexico","JPG","Raster image",2026-04,22200
+2026-06,formats,MX,"Mexico","JPG","Raster image",2026-05,22200
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-06,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-07,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-08,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-09,49500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-10,49500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-11,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2025-12,33100
+2026-06,formats,MX,"Mexico","PNG","Raster image",2026-01,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2026-02,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2026-03,49500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2026-04,40500
+2026-06,formats,MX,"Mexico","PNG","Raster image",2026-05,40500
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-06,60500
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-07,49500
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-08,49500
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-09,60500
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-10,74000
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-11,74000
+2026-06,formats,MX,"Mexico","GIF","Animation",2025-12,60500
+2026-06,formats,MX,"Mexico","GIF","Animation",2026-01,74000
+2026-06,formats,MX,"Mexico","GIF","Animation",2026-02,110000
+2026-06,formats,MX,"Mexico","GIF","Animation",2026-03,90500
+2026-06,formats,MX,"Mexico","GIF","Animation",2026-04,74000
+2026-06,formats,MX,"Mexico","GIF","Animation",2026-05,74000
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-06,5400
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-07,4400
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-08,5400
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-09,6600
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-10,6600
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-11,5400
+2026-06,formats,MX,"Mexico","SVG","Vector image",2025-12,4400
+2026-06,formats,MX,"Mexico","SVG","Vector image",2026-01,8100
+2026-06,formats,MX,"Mexico","SVG","Vector image",2026-02,6600
+2026-06,formats,MX,"Mexico","SVG","Vector image",2026-03,6600
+2026-06,formats,MX,"Mexico","SVG","Vector image",2026-04,5400
+2026-06,formats,MX,"Mexico","SVG","Vector image",2026-05,5400
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-06,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-07,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-08,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-09,1900
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-10,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-11,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2025-12,1300
+2026-06,formats,MX,"Mexico","WebP","Raster image",2026-01,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2026-02,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2026-03,1900
+2026-06,formats,MX,"Mexico","WebP","Raster image",2026-04,1600
+2026-06,formats,MX,"Mexico","WebP","Raster image",2026-05,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-06,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-07,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-08,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-09,2400
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-10,1900
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-11,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2025-12,1300
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2026-01,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2026-02,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2026-03,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2026-04,1600
+2026-06,formats,MX,"Mexico","HEIC","Raster image",2026-05,1600
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-06,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-07,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-08,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-09,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-10,590
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-11,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2025-12,590
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2026-01,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2026-02,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2026-03,880
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2026-04,720
+2026-06,formats,MX,"Mexico","AVIF","Raster image",2026-05,720
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-06,1600
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-07,1300
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-08,2400
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-09,2900
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-10,1900
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-11,2900
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2025-12,1300
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2026-01,1600
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2026-02,2400
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2026-03,1900
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2026-04,1300
+2026-06,formats,MX,"Mexico","TIFF","Raster image",2026-05,1300
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-06,1900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-07,1600
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-08,1900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-09,2900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-10,2400
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-11,1900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2025-12,1600
+2026-06,formats,MX,"Mexico","BMP","Raster image",2026-01,1900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2026-02,2900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2026-03,2900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2026-04,1900
+2026-06,formats,MX,"Mexico","BMP","Raster image",2026-05,1900
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-06,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-07,4400
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-08,4400
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-09,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-10,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-11,4400
+2026-06,formats,MX,"Mexico","ICO","Icon",2025-12,4400
+2026-06,formats,MX,"Mexico","ICO","Icon",2026-01,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2026-02,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2026-03,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2026-04,5400
+2026-06,formats,MX,"Mexico","ICO","Icon",2026-05,5400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-06,5400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-07,6600
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-08,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-09,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-10,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-11,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2025-12,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2026-01,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2026-02,4400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2026-03,5400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2026-04,5400
+2026-06,formats,MX,"Mexico","PSD","Photoshop",2026-05,5400
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-06,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-07,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-08,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-09,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-10,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-11,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2025-12,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2026-01,301000
+2026-06,formats,ID,"Indonesia","PDF","Document",2026-02,246000
+2026-06,formats,ID,"Indonesia","PDF","Document",2026-03,246000
+2026-06,formats,ID,"Indonesia","PDF","Document",2026-04,368000
+2026-06,formats,ID,"Indonesia","PDF","Document",2026-05,301000
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-06,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-07,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-08,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-09,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-10,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-11,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2025-12,40500
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2026-01,40500
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2026-02,40500
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2026-03,33100
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2026-04,49500
+2026-06,formats,ID,"Indonesia","JPG","Raster image",2026-05,60500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-06,49500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-07,49500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-08,49500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-09,49500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-10,49500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-11,40500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2025-12,40500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2026-01,40500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2026-02,40500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2026-03,33100
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2026-04,40500
+2026-06,formats,ID,"Indonesia","PNG","Raster image",2026-05,40500
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-06,22200
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-07,27100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-08,27100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-09,27100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-10,33100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-11,33100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2025-12,33100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2026-01,33100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2026-02,33100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2026-03,33100
+2026-06,formats,ID,"Indonesia","GIF","Animation",2026-04,40500
+2026-06,formats,ID,"Indonesia","GIF","Animation",2026-05,33100
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-06,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-07,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-08,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-09,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-10,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-11,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2025-12,4400
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2026-01,3600
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2026-02,3600
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2026-03,2900
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2026-04,3600
+2026-06,formats,ID,"Indonesia","SVG","Vector image",2026-05,4400
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-06,2400
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-07,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-08,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-09,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-10,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-11,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2025-12,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2026-01,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2026-02,2400
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2026-03,2400
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2026-04,2900
+2026-06,formats,ID,"Indonesia","WebP","Raster image",2026-05,2900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-06,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-07,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-08,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-09,4400
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-10,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-11,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2025-12,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2026-01,1900
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2026-02,1600
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2026-03,1600
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2026-04,1600
+2026-06,formats,ID,"Indonesia","HEIC","Raster image",2026-05,1900
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-06,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-07,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-08,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-09,480
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-10,480
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-11,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2025-12,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2026-01,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2026-02,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2026-03,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2026-04,590
+2026-06,formats,ID,"Indonesia","AVIF","Raster image",2026-05,480
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-06,880
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-07,1000
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-08,1600
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-09,1300
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-10,880
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-11,1300
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2025-12,880
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2026-01,720
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2026-02,720
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2026-03,720
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2026-04,880
+2026-06,formats,ID,"Indonesia","TIFF","Raster image",2026-05,720
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-06,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-07,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-08,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-09,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-10,8100
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-11,6600
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2025-12,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2026-01,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2026-02,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2026-03,4400
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2026-04,6600
+2026-06,formats,ID,"Indonesia","BMP","Raster image",2026-05,6600
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-06,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-07,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-08,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-09,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-10,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-11,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2025-12,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2026-01,2900
+2026-06,formats,ID,"Indonesia","ICO","Icon",2026-02,1900
+2026-06,formats,ID,"Indonesia","ICO","Icon",2026-03,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2026-04,2400
+2026-06,formats,ID,"Indonesia","ICO","Icon",2026-05,2400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-06,4400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-07,4400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-08,4400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-09,5400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-10,6600
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-11,5400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2025-12,5400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2026-01,8100
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2026-02,6600
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2026-03,3600
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2026-04,4400
+2026-06,formats,ID,"Indonesia","PSD","Photoshop",2026-05,5400
+2026-06,formats,JP,"Japan","PDF","Document",2025-06,301000
+2026-06,formats,JP,"Japan","PDF","Document",2025-07,301000
+2026-06,formats,JP,"Japan","PDF","Document",2025-08,246000
+2026-06,formats,JP,"Japan","PDF","Document",2025-09,246000
+2026-06,formats,JP,"Japan","PDF","Document",2025-10,301000
+2026-06,formats,JP,"Japan","PDF","Document",2025-11,246000
+2026-06,formats,JP,"Japan","PDF","Document",2025-12,246000
+2026-06,formats,JP,"Japan","PDF","Document",2026-01,301000
+2026-06,formats,JP,"Japan","PDF","Document",2026-02,246000
+2026-06,formats,JP,"Japan","PDF","Document",2026-03,301000
+2026-06,formats,JP,"Japan","PDF","Document",2026-04,301000
+2026-06,formats,JP,"Japan","PDF","Document",2026-05,246000
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-06,18100
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-07,18100
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-08,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-09,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-10,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-11,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2025-12,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2026-01,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2026-02,12100
+2026-06,formats,JP,"Japan","JPG","Raster image",2026-03,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2026-04,14800
+2026-06,formats,JP,"Japan","JPG","Raster image",2026-05,14800
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-06,22200
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-07,22200
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-08,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-09,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-10,22200
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-11,22200
+2026-06,formats,JP,"Japan","PNG","Raster image",2025-12,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2026-01,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2026-02,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2026-03,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2026-04,18100
+2026-06,formats,JP,"Japan","PNG","Raster image",2026-05,18100
+2026-06,formats,JP,"Japan","GIF","Animation",2025-06,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2025-07,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2025-08,110000
+2026-06,formats,JP,"Japan","GIF","Animation",2025-09,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2025-10,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2025-11,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2025-12,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2026-01,165000
+2026-06,formats,JP,"Japan","GIF","Animation",2026-02,201000
+2026-06,formats,JP,"Japan","GIF","Animation",2026-03,165000
+2026-06,formats,JP,"Japan","GIF","Animation",2026-04,135000
+2026-06,formats,JP,"Japan","GIF","Animation",2026-05,165000
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-06,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-07,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-08,9900
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-09,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-10,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-11,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2025-12,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2026-01,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2026-02,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2026-03,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2026-04,12100
+2026-06,formats,JP,"Japan","SVG","Vector image",2026-05,12100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-06,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-07,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-08,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-09,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-10,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-11,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2025-12,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2026-01,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2026-02,14800
+2026-06,formats,JP,"Japan","WebP","Raster image",2026-03,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2026-04,18100
+2026-06,formats,JP,"Japan","WebP","Raster image",2026-05,18100
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-06,22200
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-07,22200
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-08,18100
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-09,22200
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-10,22200
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-11,22200
+2026-06,formats,JP,"Japan","HEIC","Raster image",2025-12,18100
+2026-06,formats,JP,"Japan","HEIC","Raster image",2026-01,18100
+2026-06,formats,JP,"Japan","HEIC","Raster image",2026-02,18100
+2026-06,formats,JP,"Japan","HEIC","Raster image",2026-03,22200
+2026-06,formats,JP,"Japan","HEIC","Raster image",2026-04,18100
+2026-06,formats,JP,"Japan","HEIC","Raster image",2026-05,18100
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-06,8100
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-07,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-08,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-09,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-10,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-11,8100
+2026-06,formats,JP,"Japan","AVIF","Raster image",2025-12,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2026-01,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2026-02,5400
+2026-06,formats,JP,"Japan","AVIF","Raster image",2026-03,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2026-04,6600
+2026-06,formats,JP,"Japan","AVIF","Raster image",2026-05,5400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-06,5400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-07,5400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-08,5400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-09,6600
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-10,12100
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-11,6600
+2026-06,formats,JP,"Japan","TIFF","Raster image",2025-12,4400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2026-01,4400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2026-02,3600
+2026-06,formats,JP,"Japan","TIFF","Raster image",2026-03,4400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2026-04,5400
+2026-06,formats,JP,"Japan","TIFF","Raster image",2026-05,4400
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-06,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-07,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-08,5400
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-09,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-10,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-11,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2025-12,5400
+2026-06,formats,JP,"Japan","BMP","Raster image",2026-01,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2026-02,5400
+2026-06,formats,JP,"Japan","BMP","Raster image",2026-03,5400
+2026-06,formats,JP,"Japan","BMP","Raster image",2026-04,6600
+2026-06,formats,JP,"Japan","BMP","Raster image",2026-05,6600
+2026-06,formats,JP,"Japan","ICO","Icon",2025-06,9900
+2026-06,formats,JP,"Japan","ICO","Icon",2025-07,9900
+2026-06,formats,JP,"Japan","ICO","Icon",2025-08,12100
+2026-06,formats,JP,"Japan","ICO","Icon",2025-09,12100
+2026-06,formats,JP,"Japan","ICO","Icon",2025-10,12100
+2026-06,formats,JP,"Japan","ICO","Icon",2025-11,9900
+2026-06,formats,JP,"Japan","ICO","Icon",2025-12,9900
+2026-06,formats,JP,"Japan","ICO","Icon",2026-01,9900
+2026-06,formats,JP,"Japan","ICO","Icon",2026-02,9900
+2026-06,formats,JP,"Japan","ICO","Icon",2026-03,18100
+2026-06,formats,JP,"Japan","ICO","Icon",2026-04,12100
+2026-06,formats,JP,"Japan","ICO","Icon",2026-05,12100
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-06,18100
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-07,18100
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-08,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-09,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-10,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-11,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2025-12,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2026-01,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2026-02,12100
+2026-06,formats,JP,"Japan","PSD","Photoshop",2026-03,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2026-04,14800
+2026-06,formats,JP,"Japan","PSD","Photoshop",2026-05,14800
+2026-06,formats,KR,"South Korea","PDF","Document",2025-06,49500
+2026-06,formats,KR,"South Korea","PDF","Document",2025-07,40500
+2026-06,formats,KR,"South Korea","PDF","Document",2025-08,40500
+2026-06,formats,KR,"South Korea","PDF","Document",2025-09,49500
+2026-06,formats,KR,"South Korea","PDF","Document",2025-10,40500
+2026-06,formats,KR,"South Korea","PDF","Document",2025-11,49500
+2026-06,formats,KR,"South Korea","PDF","Document",2025-12,49500
+2026-06,formats,KR,"South Korea","PDF","Document",2026-01,49500
+2026-06,formats,KR,"South Korea","PDF","Document",2026-02,40500
+2026-06,formats,KR,"South Korea","PDF","Document",2026-03,60500
+2026-06,formats,KR,"South Korea","PDF","Document",2026-04,60500
+2026-06,formats,KR,"South Korea","PDF","Document",2026-05,49500
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-06,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-07,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-08,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-09,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-10,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-11,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2025-12,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2026-01,6600
+2026-06,formats,KR,"South Korea","JPG","Raster image",2026-02,4400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2026-03,6600
+2026-06,formats,KR,"South Korea","JPG","Raster image",2026-04,5400
+2026-06,formats,KR,"South Korea","JPG","Raster image",2026-05,5400
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-06,12100
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-07,9900
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-08,9900
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-09,12100
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-10,9900
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-11,12100
+2026-06,formats,KR,"South Korea","PNG","Raster image",2025-12,9900
+2026-06,formats,KR,"South Korea","PNG","Raster image",2026-01,9900
+2026-06,formats,KR,"South Korea","PNG","Raster image",2026-02,8100
+2026-06,formats,KR,"South Korea","PNG","Raster image",2026-03,12100
+2026-06,formats,KR,"South Korea","PNG","Raster image",2026-04,9900
+2026-06,formats,KR,"South Korea","PNG","Raster image",2026-05,9900
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-06,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-07,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-08,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-09,33100
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-10,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-11,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2025-12,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2026-01,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2026-02,27100
+2026-06,formats,KR,"South Korea","GIF","Animation",2026-03,33100
+2026-06,formats,KR,"South Korea","GIF","Animation",2026-04,33100
+2026-06,formats,KR,"South Korea","GIF","Animation",2026-05,33100
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-06,4400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-07,5400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-08,4400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-09,4400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-10,3600
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-11,4400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2025-12,5400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2026-01,4400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2026-02,4400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2026-03,5400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2026-04,5400
+2026-06,formats,KR,"South Korea","SVG","Vector image",2026-05,5400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-06,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-07,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-08,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-09,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-10,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-11,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2025-12,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2026-01,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2026-02,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2026-03,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2026-04,4400
+2026-06,formats,KR,"South Korea","WebP","Raster image",2026-05,4400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-06,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-07,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-08,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-09,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-10,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-11,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2025-12,1900
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2026-01,1900
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2026-02,1600
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2026-03,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2026-04,2400
+2026-06,formats,KR,"South Korea","HEIC","Raster image",2026-05,1900
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-06,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-07,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-08,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-09,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-10,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-11,1900
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2025-12,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2026-01,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2026-02,1300
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2026-03,1600
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2026-04,1300
+2026-06,formats,KR,"South Korea","AVIF","Raster image",2026-05,1300
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-06,1300
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-07,1300
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-08,1600
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-09,2400
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-10,1300
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-11,1600
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2025-12,1000
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2026-01,1000
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2026-02,880
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2026-03,1300
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2026-04,1300
+2026-06,formats,KR,"South Korea","TIFF","Raster image",2026-05,1000
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-06,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-07,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-08,1300
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-09,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-10,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-11,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2025-12,1300
+2026-06,formats,KR,"South Korea","BMP","Raster image",2026-01,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2026-02,1300
+2026-06,formats,KR,"South Korea","BMP","Raster image",2026-03,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2026-04,1600
+2026-06,formats,KR,"South Korea","BMP","Raster image",2026-05,1300
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-06,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-07,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-08,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-09,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-10,1600
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-11,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2025-12,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2026-01,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2026-02,1600
+2026-06,formats,KR,"South Korea","ICO","Icon",2026-03,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2026-04,1900
+2026-06,formats,KR,"South Korea","ICO","Icon",2026-05,1900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-06,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-07,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-08,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-09,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-10,2400
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-11,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2025-12,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2026-01,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2026-02,2400
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2026-03,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2026-04,2900
+2026-06,formats,KR,"South Korea","PSD","Photoshop",2026-05,2900
+2026-06,formats,IT,"Italy","PDF","Document",2025-06,90500
+2026-06,formats,IT,"Italy","PDF","Document",2025-07,90500
+2026-06,formats,IT,"Italy","PDF","Document",2025-08,74000
+2026-06,formats,IT,"Italy","PDF","Document",2025-09,90500
+2026-06,formats,IT,"Italy","PDF","Document",2025-10,110000
+2026-06,formats,IT,"Italy","PDF","Document",2025-11,110000
+2026-06,formats,IT,"Italy","PDF","Document",2025-12,90500
+2026-06,formats,IT,"Italy","PDF","Document",2026-01,110000
+2026-06,formats,IT,"Italy","PDF","Document",2026-02,90500
+2026-06,formats,IT,"Italy","PDF","Document",2026-03,110000
+2026-06,formats,IT,"Italy","PDF","Document",2026-04,90500
+2026-06,formats,IT,"Italy","PDF","Document",2026-05,110000
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-06,6600
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-07,6600
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-08,5400
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-09,6600
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-10,8100
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-11,8100
+2026-06,formats,IT,"Italy","JPG","Raster image",2025-12,8100
+2026-06,formats,IT,"Italy","JPG","Raster image",2026-01,8100
+2026-06,formats,IT,"Italy","JPG","Raster image",2026-02,6600
+2026-06,formats,IT,"Italy","JPG","Raster image",2026-03,8100
+2026-06,formats,IT,"Italy","JPG","Raster image",2026-04,6600
+2026-06,formats,IT,"Italy","JPG","Raster image",2026-05,8100
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-06,14800
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-07,12100
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-08,9900
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-09,14800
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-10,14800
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-11,14800
+2026-06,formats,IT,"Italy","PNG","Raster image",2025-12,12100
+2026-06,formats,IT,"Italy","PNG","Raster image",2026-01,12100
+2026-06,formats,IT,"Italy","PNG","Raster image",2026-02,12100
+2026-06,formats,IT,"Italy","PNG","Raster image",2026-03,14800
+2026-06,formats,IT,"Italy","PNG","Raster image",2026-04,12100
+2026-06,formats,IT,"Italy","PNG","Raster image",2026-05,12100
+2026-06,formats,IT,"Italy","GIF","Animation",2025-06,33100
+2026-06,formats,IT,"Italy","GIF","Animation",2025-07,33100
+2026-06,formats,IT,"Italy","GIF","Animation",2025-08,33100
+2026-06,formats,IT,"Italy","GIF","Animation",2025-09,40500
+2026-06,formats,IT,"Italy","GIF","Animation",2025-10,40500
+2026-06,formats,IT,"Italy","GIF","Animation",2025-11,40500
+2026-06,formats,IT,"Italy","GIF","Animation",2025-12,40500
+2026-06,formats,IT,"Italy","GIF","Animation",2026-01,49500
+2026-06,formats,IT,"Italy","GIF","Animation",2026-02,49500
+2026-06,formats,IT,"Italy","GIF","Animation",2026-03,49500
+2026-06,formats,IT,"Italy","GIF","Animation",2026-04,40500
+2026-06,formats,IT,"Italy","GIF","Animation",2026-05,40500
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-06,3600
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-07,3600
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-08,2400
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-09,4400
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-10,4400
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-11,4400
+2026-06,formats,IT,"Italy","SVG","Vector image",2025-12,3600
+2026-06,formats,IT,"Italy","SVG","Vector image",2026-01,3600
+2026-06,formats,IT,"Italy","SVG","Vector image",2026-02,4400
+2026-06,formats,IT,"Italy","SVG","Vector image",2026-03,4400
+2026-06,formats,IT,"Italy","SVG","Vector image",2026-04,3600
+2026-06,formats,IT,"Italy","SVG","Vector image",2026-05,4400
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-06,1900
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-07,1600
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-08,1300
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-09,1600
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-10,1600
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-11,1600
+2026-06,formats,IT,"Italy","WebP","Raster image",2025-12,1300
+2026-06,formats,IT,"Italy","WebP","Raster image",2026-01,1900
+2026-06,formats,IT,"Italy","WebP","Raster image",2026-02,1600
+2026-06,formats,IT,"Italy","WebP","Raster image",2026-03,1900
+2026-06,formats,IT,"Italy","WebP","Raster image",2026-04,1900
+2026-06,formats,IT,"Italy","WebP","Raster image",2026-05,1900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-06,2400
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-07,2900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-08,1900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-09,2900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-10,2900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-11,2400
+2026-06,formats,IT,"Italy","HEIC","Raster image",2025-12,1900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2026-01,2400
+2026-06,formats,IT,"Italy","HEIC","Raster image",2026-02,1900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2026-03,2400
+2026-06,formats,IT,"Italy","HEIC","Raster image",2026-04,1900
+2026-06,formats,IT,"Italy","HEIC","Raster image",2026-05,2400
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-06,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-07,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-08,480
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-09,590
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-10,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-11,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2025-12,590
+2026-06,formats,IT,"Italy","AVIF","Raster image",2026-01,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2026-02,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2026-03,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2026-04,720
+2026-06,formats,IT,"Italy","AVIF","Raster image",2026-05,720
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-06,1300
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-07,1300
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-08,1000
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-09,1900
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-10,1300
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-11,2400
+2026-06,formats,IT,"Italy","TIFF","Raster image",2025-12,880
+2026-06,formats,IT,"Italy","TIFF","Raster image",2026-01,1000
+2026-06,formats,IT,"Italy","TIFF","Raster image",2026-02,1000
+2026-06,formats,IT,"Italy","TIFF","Raster image",2026-03,1300
+2026-06,formats,IT,"Italy","TIFF","Raster image",2026-04,1000
+2026-06,formats,IT,"Italy","TIFF","Raster image",2026-05,1000
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-06,9900
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-07,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-08,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-09,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-10,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-11,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2025-12,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2026-01,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2026-02,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2026-03,9900
+2026-06,formats,IT,"Italy","BMP","Raster image",2026-04,8100
+2026-06,formats,IT,"Italy","BMP","Raster image",2026-05,8100
+2026-06,formats,IT,"Italy","ICO","Icon",2025-06,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2025-07,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2025-08,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2025-09,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2025-10,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2025-11,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2025-12,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2026-01,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2026-02,2900
+2026-06,formats,IT,"Italy","ICO","Icon",2026-03,3600
+2026-06,formats,IT,"Italy","ICO","Icon",2026-04,2900
+2026-06,formats,IT,"Italy","ICO","Icon",2026-05,2900
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-06,6600
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-07,6600
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-08,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-09,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-10,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-11,4400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2025-12,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2026-01,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2026-02,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2026-03,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2026-04,5400
+2026-06,formats,IT,"Italy","PSD","Photoshop",2026-05,6600
+2026-06,formats,ES,"Spain","PDF","Document",2025-06,74000
+2026-06,formats,ES,"Spain","PDF","Document",2025-07,60500
+2026-06,formats,ES,"Spain","PDF","Document",2025-08,49500
+2026-06,formats,ES,"Spain","PDF","Document",2025-09,74000
+2026-06,formats,ES,"Spain","PDF","Document",2025-10,90500
+2026-06,formats,ES,"Spain","PDF","Document",2025-11,90500
+2026-06,formats,ES,"Spain","PDF","Document",2025-12,74000
+2026-06,formats,ES,"Spain","PDF","Document",2026-01,74000
+2026-06,formats,ES,"Spain","PDF","Document",2026-02,74000
+2026-06,formats,ES,"Spain","PDF","Document",2026-03,90500
+2026-06,formats,ES,"Spain","PDF","Document",2026-04,74000
+2026-06,formats,ES,"Spain","PDF","Document",2026-05,90500
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-06,9900
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-07,8100
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-08,6600
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-09,9900
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-10,9900
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-11,9900
+2026-06,formats,ES,"Spain","JPG","Raster image",2025-12,8100
+2026-06,formats,ES,"Spain","JPG","Raster image",2026-01,9900
+2026-06,formats,ES,"Spain","JPG","Raster image",2026-02,8100
+2026-06,formats,ES,"Spain","JPG","Raster image",2026-03,8100
+2026-06,formats,ES,"Spain","JPG","Raster image",2026-04,8100
+2026-06,formats,ES,"Spain","JPG","Raster image",2026-05,8100
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-06,14800
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-07,12100
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-08,9900
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-09,14800
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-10,18100
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-11,18100
+2026-06,formats,ES,"Spain","PNG","Raster image",2025-12,14800
+2026-06,formats,ES,"Spain","PNG","Raster image",2026-01,18100
+2026-06,formats,ES,"Spain","PNG","Raster image",2026-02,18100
+2026-06,formats,ES,"Spain","PNG","Raster image",2026-03,18100
+2026-06,formats,ES,"Spain","PNG","Raster image",2026-04,14800
+2026-06,formats,ES,"Spain","PNG","Raster image",2026-05,18100
+2026-06,formats,ES,"Spain","GIF","Animation",2025-06,49500
+2026-06,formats,ES,"Spain","GIF","Animation",2025-07,33100
+2026-06,formats,ES,"Spain","GIF","Animation",2025-08,33100
+2026-06,formats,ES,"Spain","GIF","Animation",2025-09,60500
+2026-06,formats,ES,"Spain","GIF","Animation",2025-10,74000
+2026-06,formats,ES,"Spain","GIF","Animation",2025-11,74000
+2026-06,formats,ES,"Spain","GIF","Animation",2025-12,60500
+2026-06,formats,ES,"Spain","GIF","Animation",2026-01,60500
+2026-06,formats,ES,"Spain","GIF","Animation",2026-02,74000
+2026-06,formats,ES,"Spain","GIF","Animation",2026-03,74000
+2026-06,formats,ES,"Spain","GIF","Animation",2026-04,49500
+2026-06,formats,ES,"Spain","GIF","Animation",2026-05,60500
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-06,4400
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-07,3600
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-08,2900
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-09,5400
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-10,5400
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-11,5400
+2026-06,formats,ES,"Spain","SVG","Vector image",2025-12,4400
+2026-06,formats,ES,"Spain","SVG","Vector image",2026-01,4400
+2026-06,formats,ES,"Spain","SVG","Vector image",2026-02,5400
+2026-06,formats,ES,"Spain","SVG","Vector image",2026-03,5400
+2026-06,formats,ES,"Spain","SVG","Vector image",2026-04,4400
+2026-06,formats,ES,"Spain","SVG","Vector image",2026-05,5400
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-06,1600
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-07,1300
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-08,1000
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-09,1900
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-10,1600
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-11,1900
+2026-06,formats,ES,"Spain","WebP","Raster image",2025-12,1300
+2026-06,formats,ES,"Spain","WebP","Raster image",2026-01,1600
+2026-06,formats,ES,"Spain","WebP","Raster image",2026-02,1900
+2026-06,formats,ES,"Spain","WebP","Raster image",2026-03,1900
+2026-06,formats,ES,"Spain","WebP","Raster image",2026-04,1600
+2026-06,formats,ES,"Spain","WebP","Raster image",2026-05,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-06,1900
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-07,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-08,1300
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-09,1900
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-10,1900
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-11,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2025-12,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2026-01,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2026-02,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2026-03,1900
+2026-06,formats,ES,"Spain","HEIC","Raster image",2026-04,1600
+2026-06,formats,ES,"Spain","HEIC","Raster image",2026-05,1600
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-06,590
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-07,590
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-08,480
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-09,590
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-10,720
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-11,720
+2026-06,formats,ES,"Spain","AVIF","Raster image",2025-12,590
+2026-06,formats,ES,"Spain","AVIF","Raster image",2026-01,720
+2026-06,formats,ES,"Spain","AVIF","Raster image",2026-02,720
+2026-06,formats,ES,"Spain","AVIF","Raster image",2026-03,720
+2026-06,formats,ES,"Spain","AVIF","Raster image",2026-04,720
+2026-06,formats,ES,"Spain","AVIF","Raster image",2026-05,720
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-06,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-07,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-08,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-09,1900
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-10,1600
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-11,2900
+2026-06,formats,ES,"Spain","TIFF","Raster image",2025-12,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2026-01,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2026-02,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2026-03,1300
+2026-06,formats,ES,"Spain","TIFF","Raster image",2026-04,1000
+2026-06,formats,ES,"Spain","TIFF","Raster image",2026-05,1300
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-06,1600
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-07,1600
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-08,1000
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-09,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-10,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-11,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2025-12,1600
+2026-06,formats,ES,"Spain","BMP","Raster image",2026-01,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2026-02,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2026-03,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2026-04,1900
+2026-06,formats,ES,"Spain","BMP","Raster image",2026-05,1900
+2026-06,formats,ES,"Spain","ICO","Icon",2025-06,12100
+2026-06,formats,ES,"Spain","ICO","Icon",2025-07,9900
+2026-06,formats,ES,"Spain","ICO","Icon",2025-08,8100
+2026-06,formats,ES,"Spain","ICO","Icon",2025-09,14800
+2026-06,formats,ES,"Spain","ICO","Icon",2025-10,14800
+2026-06,formats,ES,"Spain","ICO","Icon",2025-11,14800
+2026-06,formats,ES,"Spain","ICO","Icon",2025-12,12100
+2026-06,formats,ES,"Spain","ICO","Icon",2026-01,14800
+2026-06,formats,ES,"Spain","ICO","Icon",2026-02,14800
+2026-06,formats,ES,"Spain","ICO","Icon",2026-03,14800
+2026-06,formats,ES,"Spain","ICO","Icon",2026-04,12100
+2026-06,formats,ES,"Spain","ICO","Icon",2026-05,14800
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-06,5400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-07,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-08,3600
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-09,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-10,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-11,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2025-12,3600
+2026-06,formats,ES,"Spain","PSD","Photoshop",2026-01,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2026-02,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2026-03,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2026-04,4400
+2026-06,formats,ES,"Spain","PSD","Photoshop",2026-05,5400
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-06,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-07,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-08,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-09,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-10,27100
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-11,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2025-12,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2026-01,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2026-02,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2026-03,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2026-04,22200
+2026-06,formats,NL,"Netherlands","PDF","Document",2026-05,18100
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-06,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-07,3600
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-08,3600
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-09,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-10,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-11,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2025-12,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2026-01,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2026-02,3600
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2026-03,4400
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2026-04,3600
+2026-06,formats,NL,"Netherlands","JPG","Raster image",2026-05,4400
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-06,6600
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-07,5400
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-08,5400
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-09,6600
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-10,6600
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-11,6600
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2025-12,5400
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2026-01,6600
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2026-02,5400
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2026-03,6600
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2026-04,5400
+2026-06,formats,NL,"Netherlands","PNG","Raster image",2026-05,5400
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-06,40500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-07,27100
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-08,22200
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-09,40500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-10,49500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-11,49500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2025-12,40500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2026-01,49500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2026-02,40500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2026-03,49500
+2026-06,formats,NL,"Netherlands","GIF","Animation",2026-04,33100
+2026-06,formats,NL,"Netherlands","GIF","Animation",2026-05,40500
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-06,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-07,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-08,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-09,3600
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-10,3600
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-11,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2025-12,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2026-01,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2026-02,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2026-03,3600
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2026-04,2900
+2026-06,formats,NL,"Netherlands","SVG","Vector image",2026-05,2900
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-06,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-07,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-08,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-09,1300
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-10,1300
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-11,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2025-12,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2026-01,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2026-02,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2026-03,1300
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2026-04,1000
+2026-06,formats,NL,"Netherlands","WebP","Raster image",2026-05,1000
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-06,1300
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-07,1300
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-08,1300
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-09,1300
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-10,1300
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-11,1300
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2025-12,1000
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2026-01,1000
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2026-02,1000
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2026-03,1000
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2026-04,1000
+2026-06,formats,NL,"Netherlands","HEIC","Raster image",2026-05,1000
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-06,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-07,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-08,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-09,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-10,720
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-11,720
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2025-12,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2026-01,720
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2026-02,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2026-03,590
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2026-04,480
+2026-06,formats,NL,"Netherlands","AVIF","Raster image",2026-05,480
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-06,590
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-07,590
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-08,720
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-09,1000
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-10,720
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-11,2900
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2025-12,590
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2026-01,720
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2026-02,590
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2026-03,720
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2026-04,590
+2026-06,formats,NL,"Netherlands","TIFF","Raster image",2026-05,590
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-06,1300
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-07,1300
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-08,1000
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-09,1600
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-10,1600
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-11,1300
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2025-12,1300
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2026-01,1600
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2026-02,1300
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2026-03,1900
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2026-04,1300
+2026-06,formats,NL,"Netherlands","BMP","Raster image",2026-05,1300
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-06,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-07,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-08,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-09,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-10,2400
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-11,2900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2025-12,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2026-01,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2026-02,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2026-03,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2026-04,1900
+2026-06,formats,NL,"Netherlands","ICO","Icon",2026-05,1600
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-06,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-07,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-08,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-09,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-10,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-11,2400
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2025-12,1600
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2026-01,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2026-02,1600
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2026-03,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2026-04,1900
+2026-06,formats,NL,"Netherlands","PSD","Photoshop",2026-05,1900
+2026-06,formats,TR,"Turkey","PDF","Document",2025-06,74000
+2026-06,formats,TR,"Turkey","PDF","Document",2025-07,74000
+2026-06,formats,TR,"Turkey","PDF","Document",2025-08,74000
+2026-06,formats,TR,"Turkey","PDF","Document",2025-09,90500
+2026-06,formats,TR,"Turkey","PDF","Document",2025-10,110000
+2026-06,formats,TR,"Turkey","PDF","Document",2025-11,90500
+2026-06,formats,TR,"Turkey","PDF","Document",2025-12,110000
+2026-06,formats,TR,"Turkey","PDF","Document",2026-01,90500
+2026-06,formats,TR,"Turkey","PDF","Document",2026-02,90500
+2026-06,formats,TR,"Turkey","PDF","Document",2026-03,90500
+2026-06,formats,TR,"Turkey","PDF","Document",2026-04,90500
+2026-06,formats,TR,"Turkey","PDF","Document",2026-05,74000
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-06,8100
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-07,8100
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-08,8100
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-09,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-10,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-11,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2025-12,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2026-01,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2026-02,8100
+2026-06,formats,TR,"Turkey","JPG","Raster image",2026-03,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2026-04,9900
+2026-06,formats,TR,"Turkey","JPG","Raster image",2026-05,9900
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-06,14800
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-07,14800
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-08,14800
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-09,14800
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-10,18100
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-11,18100
+2026-06,formats,TR,"Turkey","PNG","Raster image",2025-12,22200
+2026-06,formats,TR,"Turkey","PNG","Raster image",2026-01,14800
+2026-06,formats,TR,"Turkey","PNG","Raster image",2026-02,18100
+2026-06,formats,TR,"Turkey","PNG","Raster image",2026-03,18100
+2026-06,formats,TR,"Turkey","PNG","Raster image",2026-04,18100
+2026-06,formats,TR,"Turkey","PNG","Raster image",2026-05,14800
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-06,27100
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-07,27100
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-08,27100
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-09,33100
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-10,40500
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-11,40500
+2026-06,formats,TR,"Turkey","GIF","Animation",2025-12,40500
+2026-06,formats,TR,"Turkey","GIF","Animation",2026-01,49500
+2026-06,formats,TR,"Turkey","GIF","Animation",2026-02,60500
+2026-06,formats,TR,"Turkey","GIF","Animation",2026-03,60500
+2026-06,formats,TR,"Turkey","GIF","Animation",2026-04,49500
+2026-06,formats,TR,"Turkey","GIF","Animation",2026-05,40500
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-06,1900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-07,2400
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-08,2400
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-09,2400
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-10,2900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-11,2400
+2026-06,formats,TR,"Turkey","SVG","Vector image",2025-12,2900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2026-01,2900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2026-02,2900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2026-03,2900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2026-04,2900
+2026-06,formats,TR,"Turkey","SVG","Vector image",2026-05,2400
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-06,1000
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-07,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-08,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-09,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-10,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-11,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2025-12,1600
+2026-06,formats,TR,"Turkey","WebP","Raster image",2026-01,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2026-02,1300
+2026-06,formats,TR,"Turkey","WebP","Raster image",2026-03,1600
+2026-06,formats,TR,"Turkey","WebP","Raster image",2026-04,1600
+2026-06,formats,TR,"Turkey","WebP","Raster image",2026-05,1300
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-06,720
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-07,880
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-08,720
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-09,880
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-10,880
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-11,880
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2025-12,880
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2026-01,720
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2026-02,720
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2026-03,720
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2026-04,720
+2026-06,formats,TR,"Turkey","HEIC","Raster image",2026-05,590
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-06,260
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-07,260
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-08,260
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-09,320
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-10,320
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-11,320
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2025-12,390
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2026-01,320
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2026-02,320
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2026-03,320
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2026-04,260
+2026-06,formats,TR,"Turkey","AVIF","Raster image",2026-05,320
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-06,1000
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-07,1000
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-08,1000
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-09,1300
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-10,1300
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-11,1600
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2025-12,1600
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2026-01,1300
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2026-02,1300
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2026-03,1300
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2026-04,1000
+2026-06,formats,TR,"Turkey","TIFF","Raster image",2026-05,1000
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-06,720
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-07,720
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-08,720
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-09,720
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-10,880
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-11,880
+2026-06,formats,TR,"Turkey","BMP","Raster image",2025-12,880
+2026-06,formats,TR,"Turkey","BMP","Raster image",2026-01,880
+2026-06,formats,TR,"Turkey","BMP","Raster image",2026-02,720
+2026-06,formats,TR,"Turkey","BMP","Raster image",2026-03,880
+2026-06,formats,TR,"Turkey","BMP","Raster image",2026-04,880
+2026-06,formats,TR,"Turkey","BMP","Raster image",2026-05,720
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-06,1900
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-07,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-08,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-09,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-10,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-11,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2025-12,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2026-01,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2026-02,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2026-03,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2026-04,2400
+2026-06,formats,TR,"Turkey","ICO","Icon",2026-05,2400
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-06,2400
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-07,2400
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-08,1900
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-09,2900
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-10,2900
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-11,2900
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2025-12,2900
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2026-01,2400
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2026-02,2400
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2026-03,2900
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2026-04,3600
+2026-06,formats,TR,"Turkey","PSD","Photoshop",2026-05,2900
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-06,49500
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-07,40500
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-08,40500
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-09,49500
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-10,60500
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-11,49500
+2026-06,formats,VN,"Vietnam","PDF","Document",2025-12,60500
+2026-06,formats,VN,"Vietnam","PDF","Document",2026-01,49500
+2026-06,formats,VN,"Vietnam","PDF","Document",2026-02,27100
+2026-06,formats,VN,"Vietnam","PDF","Document",2026-03,49500
+2026-06,formats,VN,"Vietnam","PDF","Document",2026-04,49500
+2026-06,formats,VN,"Vietnam","PDF","Document",2026-05,60500
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-06,2900
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-07,2900
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-08,2900
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-09,2900
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-10,3600
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-11,3600
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2025-12,5400
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2026-01,5400
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2026-02,2400
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2026-03,3600
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2026-04,4400
+2026-06,formats,VN,"Vietnam","JPG","Raster image",2026-05,3600
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-06,14800
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-07,14800
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-08,14800
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-09,14800
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-10,18100
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-11,18100
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2025-12,18100
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2026-01,18100
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2026-02,12100
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2026-03,14800
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2026-04,12100
+2026-06,formats,VN,"Vietnam","PNG","Raster image",2026-05,12100
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-06,22200
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-07,22200
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-08,22200
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-09,22200
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-10,33100
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-11,40500
+2026-06,formats,VN,"Vietnam","GIF","Animation",2025-12,33100
+2026-06,formats,VN,"Vietnam","GIF","Animation",2026-01,33100
+2026-06,formats,VN,"Vietnam","GIF","Animation",2026-02,18100
+2026-06,formats,VN,"Vietnam","GIF","Animation",2026-03,60500
+2026-06,formats,VN,"Vietnam","GIF","Animation",2026-04,33100
+2026-06,formats,VN,"Vietnam","GIF","Animation",2026-05,33100
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-06,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-07,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-08,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-09,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-10,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-11,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2025-12,2900
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2026-01,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2026-02,1600
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2026-03,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2026-04,2400
+2026-06,formats,VN,"Vietnam","SVG","Vector image",2026-05,2400
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-06,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-07,1300
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-08,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-09,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-10,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-11,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2025-12,1300
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2026-01,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2026-02,720
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2026-03,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2026-04,1000
+2026-06,formats,VN,"Vietnam","WebP","Raster image",2026-05,1300
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-06,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-07,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-08,720
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-09,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-10,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-11,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2025-12,720
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2026-01,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2026-02,590
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2026-03,880
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2026-04,720
+2026-06,formats,VN,"Vietnam","HEIC","Raster image",2026-05,720
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-06,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-07,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-08,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-09,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-10,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-11,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2025-12,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2026-01,390
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2026-02,260
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2026-03,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2026-04,320
+2026-06,formats,VN,"Vietnam","AVIF","Raster image",2026-05,390
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-06,390
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-07,480
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-08,590
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-09,480
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-10,390
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-11,590
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2025-12,480
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2026-01,480
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2026-02,260
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2026-03,390
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2026-04,320
+2026-06,formats,VN,"Vietnam","TIFF","Raster image",2026-05,390
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-06,2900
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-07,2900
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-08,2400
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-09,2400
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-10,3600
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-11,3600
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2025-12,4400
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2026-01,3600
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2026-02,2400
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2026-03,4400
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2026-04,5400
+2026-06,formats,VN,"Vietnam","BMP","Raster image",2026-05,4400
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-06,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-07,2400
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-08,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-09,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-10,2900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-11,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2025-12,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2026-01,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2026-02,1300
+2026-06,formats,VN,"Vietnam","ICO","Icon",2026-03,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2026-04,1900
+2026-06,formats,VN,"Vietnam","ICO","Icon",2026-05,1900
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-06,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-07,2900
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-08,2900
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-09,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-10,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-11,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2025-12,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2026-01,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2026-02,1900
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2026-03,2900
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2026-04,2400
+2026-06,formats,VN,"Vietnam","PSD","Photoshop",2026-05,2400
+2026-06,formats,PL,"Poland","PDF","Document",2025-06,40500
+2026-06,formats,PL,"Poland","PDF","Document",2025-07,40500
+2026-06,formats,PL,"Poland","PDF","Document",2025-08,40500
+2026-06,formats,PL,"Poland","PDF","Document",2025-09,49500
+2026-06,formats,PL,"Poland","PDF","Document",2025-10,49500
+2026-06,formats,PL,"Poland","PDF","Document",2025-11,49500
+2026-06,formats,PL,"Poland","PDF","Document",2025-12,40500
+2026-06,formats,PL,"Poland","PDF","Document",2026-01,49500
+2026-06,formats,PL,"Poland","PDF","Document",2026-02,49500
+2026-06,formats,PL,"Poland","PDF","Document",2026-03,49500
+2026-06,formats,PL,"Poland","PDF","Document",2026-04,40500
+2026-06,formats,PL,"Poland","PDF","Document",2026-05,40500
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-06,9900
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-07,9900
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-08,9900
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-09,12100
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-10,12100
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-11,12100
+2026-06,formats,PL,"Poland","JPG","Raster image",2025-12,14800
+2026-06,formats,PL,"Poland","JPG","Raster image",2026-01,12100
+2026-06,formats,PL,"Poland","JPG","Raster image",2026-02,9900
+2026-06,formats,PL,"Poland","JPG","Raster image",2026-03,9900
+2026-06,formats,PL,"Poland","JPG","Raster image",2026-04,9900
+2026-06,formats,PL,"Poland","JPG","Raster image",2026-05,9900
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-06,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-07,6600
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-08,6600
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-09,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-10,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-11,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2025-12,6600
+2026-06,formats,PL,"Poland","PNG","Raster image",2026-01,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2026-02,6600
+2026-06,formats,PL,"Poland","PNG","Raster image",2026-03,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2026-04,8100
+2026-06,formats,PL,"Poland","PNG","Raster image",2026-05,8100
+2026-06,formats,PL,"Poland","GIF","Animation",2025-06,40500
+2026-06,formats,PL,"Poland","GIF","Animation",2025-07,40500
+2026-06,formats,PL,"Poland","GIF","Animation",2025-08,40500
+2026-06,formats,PL,"Poland","GIF","Animation",2025-09,40500
+2026-06,formats,PL,"Poland","GIF","Animation",2025-10,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2025-11,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2025-12,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2026-01,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2026-02,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2026-03,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2026-04,49500
+2026-06,formats,PL,"Poland","GIF","Animation",2026-05,49500
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-06,3600
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-07,3600
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-08,2900
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-09,3600
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-10,4400
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-11,4400
+2026-06,formats,PL,"Poland","SVG","Vector image",2025-12,3600
+2026-06,formats,PL,"Poland","SVG","Vector image",2026-01,4400
+2026-06,formats,PL,"Poland","SVG","Vector image",2026-02,3600
+2026-06,formats,PL,"Poland","SVG","Vector image",2026-03,4400
+2026-06,formats,PL,"Poland","SVG","Vector image",2026-04,3600
+2026-06,formats,PL,"Poland","SVG","Vector image",2026-05,3600
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-06,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-07,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-08,1600
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-09,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-10,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-11,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2025-12,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2026-01,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2026-02,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2026-03,2400
+2026-06,formats,PL,"Poland","WebP","Raster image",2026-04,1900
+2026-06,formats,PL,"Poland","WebP","Raster image",2026-05,1900
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-06,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-07,2900
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-08,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-09,2900
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-10,2900
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-11,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2025-12,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2026-01,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2026-02,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2026-03,2400
+2026-06,formats,PL,"Poland","HEIC","Raster image",2026-04,1900
+2026-06,formats,PL,"Poland","HEIC","Raster image",2026-05,1900
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-06,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-07,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-08,720
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-09,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-10,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-11,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2025-12,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2026-01,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2026-02,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2026-03,1000
+2026-06,formats,PL,"Poland","AVIF","Raster image",2026-04,880
+2026-06,formats,PL,"Poland","AVIF","Raster image",2026-05,880
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-06,2400
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-07,1300
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-08,1000
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-09,1600
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-10,1300
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-11,2400
+2026-06,formats,PL,"Poland","TIFF","Raster image",2025-12,1000
+2026-06,formats,PL,"Poland","TIFF","Raster image",2026-01,1600
+2026-06,formats,PL,"Poland","TIFF","Raster image",2026-02,1000
+2026-06,formats,PL,"Poland","TIFF","Raster image",2026-03,1300
+2026-06,formats,PL,"Poland","TIFF","Raster image",2026-04,1300
+2026-06,formats,PL,"Poland","TIFF","Raster image",2026-05,1900
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-06,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-07,2900
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-08,2900
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-09,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-10,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-11,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2025-12,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2026-01,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2026-02,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2026-03,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2026-04,3600
+2026-06,formats,PL,"Poland","BMP","Raster image",2026-05,3600
+2026-06,formats,PL,"Poland","ICO","Icon",2025-06,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2025-07,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2025-08,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2025-09,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2025-10,2400
+2026-06,formats,PL,"Poland","ICO","Icon",2025-11,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2025-12,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2026-01,2400
+2026-06,formats,PL,"Poland","ICO","Icon",2026-02,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2026-03,2400
+2026-06,formats,PL,"Poland","ICO","Icon",2026-04,1900
+2026-06,formats,PL,"Poland","ICO","Icon",2026-05,1900
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-06,6600
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-07,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-08,4400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-09,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-10,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-11,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2025-12,4400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2026-01,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2026-02,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2026-03,5400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2026-04,4400
+2026-06,formats,PL,"Poland","PSD","Photoshop",2026-05,4400
+2026-06,formats,SG,"Singapore","PDF","Document",2025-06,12100
+2026-06,formats,SG,"Singapore","PDF","Document",2025-07,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2025-08,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2025-09,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2025-10,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2025-11,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2025-12,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2026-01,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2026-02,12100
+2026-06,formats,SG,"Singapore","PDF","Document",2026-03,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2026-04,14800
+2026-06,formats,SG,"Singapore","PDF","Document",2026-05,14800
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-06,1600
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-07,1900
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-08,1900
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-09,1900
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-10,1600
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-11,2400
+2026-06,formats,SG,"Singapore","JPG","Raster image",2025-12,3600
+2026-06,formats,SG,"Singapore","JPG","Raster image",2026-01,2400
+2026-06,formats,SG,"Singapore","JPG","Raster image",2026-02,1600
+2026-06,formats,SG,"Singapore","JPG","Raster image",2026-03,1900
+2026-06,formats,SG,"Singapore","JPG","Raster image",2026-04,1900
+2026-06,formats,SG,"Singapore","JPG","Raster image",2026-05,1900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-06,2400
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-07,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-08,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-09,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-10,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-11,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2025-12,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2026-01,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2026-02,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2026-03,3600
+2026-06,formats,SG,"Singapore","PNG","Raster image",2026-04,2900
+2026-06,formats,SG,"Singapore","PNG","Raster image",2026-05,2900
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-06,6600
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-07,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-08,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-09,8100
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-10,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-11,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2025-12,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2026-01,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2026-02,8100
+2026-06,formats,SG,"Singapore","GIF","Animation",2026-03,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2026-04,9900
+2026-06,formats,SG,"Singapore","GIF","Animation",2026-05,9900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-06,1600
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-07,1900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-08,1600
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-09,2400
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-10,1900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-11,1900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2025-12,1600
+2026-06,formats,SG,"Singapore","SVG","Vector image",2026-01,1600
+2026-06,formats,SG,"Singapore","SVG","Vector image",2026-02,1900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2026-03,1900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2026-04,1900
+2026-06,formats,SG,"Singapore","SVG","Vector image",2026-05,1900
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-06,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-07,720
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-08,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-09,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-10,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-11,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2025-12,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2026-01,590
+2026-06,formats,SG,"Singapore","WebP","Raster image",2026-02,480
+2026-06,formats,SG,"Singapore","WebP","Raster image",2026-03,720
+2026-06,formats,SG,"Singapore","WebP","Raster image",2026-04,720
+2026-06,formats,SG,"Singapore","WebP","Raster image",2026-05,590
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-06,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-07,590
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-08,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-09,590
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-10,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-11,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2025-12,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2026-01,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2026-02,390
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2026-03,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2026-04,480
+2026-06,formats,SG,"Singapore","HEIC","Raster image",2026-05,480
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-06,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-07,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-08,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-09,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-10,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-11,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2025-12,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2026-01,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2026-02,210
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2026-03,320
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2026-04,260
+2026-06,formats,SG,"Singapore","AVIF","Raster image",2026-05,210
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-06,590
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-07,590
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-08,590
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-09,720
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-10,480
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-11,1600
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2025-12,480
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2026-01,480
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2026-02,390
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2026-03,390
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2026-04,480
+2026-06,formats,SG,"Singapore","TIFF","Raster image",2026-05,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-06,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-07,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-08,390
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-09,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-10,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-11,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2025-12,390
+2026-06,formats,SG,"Singapore","BMP","Raster image",2026-01,390
+2026-06,formats,SG,"Singapore","BMP","Raster image",2026-02,390
+2026-06,formats,SG,"Singapore","BMP","Raster image",2026-03,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2026-04,480
+2026-06,formats,SG,"Singapore","BMP","Raster image",2026-05,480
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-06,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-07,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-08,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-09,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-10,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-11,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2025-12,590
+2026-06,formats,SG,"Singapore","ICO","Icon",2026-01,880
+2026-06,formats,SG,"Singapore","ICO","Icon",2026-02,590
+2026-06,formats,SG,"Singapore","ICO","Icon",2026-03,880
+2026-06,formats,SG,"Singapore","ICO","Icon",2026-04,720
+2026-06,formats,SG,"Singapore","ICO","Icon",2026-05,720
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-06,2900
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-07,2900
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-08,2400
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-09,2400
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-10,2400
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-11,4400
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2025-12,1900
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2026-01,2400
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2026-02,2900
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2026-03,2900
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2026-04,2900
+2026-06,formats,SG,"Singapore","PSD","Photoshop",2026-05,2900
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-06,40500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-07,49500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-08,49500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-09,60500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-10,74000
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-11,60500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2025-12,74000
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2026-01,60500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2026-02,60500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2026-03,40500
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2026-04,74000
+2026-06,formats,SA,"Saudi Arabia","PDF","Document",2026-05,60500
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-06,2400
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-07,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-08,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-09,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-10,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-11,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2025-12,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2026-01,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2026-02,2900
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2026-03,2900
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2026-04,3600
+2026-06,formats,SA,"Saudi Arabia","JPG","Raster image",2026-05,3600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-06,5400
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-07,5400
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-08,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-09,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-10,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-11,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2025-12,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2026-01,5400
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2026-02,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2026-03,5400
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2026-04,6600
+2026-06,formats,SA,"Saudi Arabia","PNG","Raster image",2026-05,5400
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-06,12100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-07,12100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-08,12100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-09,14800
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-10,12100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-11,12100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2025-12,14800
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2026-01,14800
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2026-02,12100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2026-03,33100
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2026-04,49500
+2026-06,formats,SA,"Saudi Arabia","GIF","Animation",2026-05,18100
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-06,880
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-07,1000
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-08,1000
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-09,1300
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-10,1300
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-11,1000
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2025-12,1000
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2026-01,1000
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2026-02,1000
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2026-03,880
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2026-04,1300
+2026-06,formats,SA,"Saudi Arabia","SVG","Vector image",2026-05,1300
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-06,260
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-07,320
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-08,260
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-09,320
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-10,320
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-11,320
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2025-12,320
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2026-01,390
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2026-02,390
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2026-03,320
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2026-04,390
+2026-06,formats,SA,"Saudi Arabia","WebP","Raster image",2026-05,390
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-06,170
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-07,170
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-08,170
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-09,320
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-10,210
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-11,210
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2025-12,210
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2026-01,260
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2026-02,170
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2026-03,170
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2026-04,210
+2026-06,formats,SA,"Saudi Arabia","HEIC","Raster image",2026-05,170
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-06,70
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-07,90
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-08,70
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-09,90
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-10,110
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-11,70
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2025-12,70
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2026-01,70
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2026-02,90
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2026-03,50
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2026-04,70
+2026-06,formats,SA,"Saudi Arabia","AVIF","Raster image",2026-05,90
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-06,210
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-07,210
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-08,260
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-09,480
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-10,320
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-11,390
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2025-12,210
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2026-01,260
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2026-02,210
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2026-03,170
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2026-04,170
+2026-06,formats,SA,"Saudi Arabia","TIFF","Raster image",2026-05,140
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-06,480
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-07,590
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-08,480
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-09,880
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-10,880
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-11,720
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2025-12,720
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2026-01,720
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2026-02,720
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2026-03,480
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2026-04,720
+2026-06,formats,SA,"Saudi Arabia","BMP","Raster image",2026-05,720
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-06,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-07,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-08,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-09,720
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-10,720
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-11,720
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2025-12,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2026-01,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2026-02,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2026-03,720
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2026-04,880
+2026-06,formats,SA,"Saudi Arabia","ICO","Icon",2026-05,880
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-06,1900
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-07,3600
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-08,1900
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-09,1600
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-10,1900
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-11,1300
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2025-12,1300
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2026-01,1300
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2026-02,1000
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2026-03,880
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2026-04,1300
+2026-06,formats,SA,"Saudi Arabia","PSD","Photoshop",2026-05,1000
