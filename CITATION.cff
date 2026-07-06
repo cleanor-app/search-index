@@ -2,6 +2,11 @@ cff-version: 1.2.0
 title: "Cleanor Search Index: an open monthly index of category popularity from Google search demand"
 message: "If you use this dataset or software, please cite it as below."
 type: dataset
+doi: 10.5281/zenodo.21225547
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21225547
+    description: "Concept DOI (always resolves to the latest release)"
 authors:
   - name: "Cleanor Labs"
     orcid: "https://orcid.org/0009-0005-4623-961X"

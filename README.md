@@ -6,6 +6,7 @@
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](data/LICENSE)
 [![Read the index](https://img.shields.io/badge/read%20it-cleanor.app%2Ftrends-0a7cff.svg)](https://cleanor.app/trends)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21225547.svg)](https://doi.org/10.5281/zenodo.21225547)
 
 > 📈 Human-readable charts and write-ups live at [cleanor.app/trends](https://cleanor.app/trends). This repository is the raw data and the harness behind them.
 
@@ -63,7 +64,7 @@ New categories, additional countries, keyword-mapping corrections, and analysis 
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Authored by Cleanor Labs, [ORCID 0009-0005-4623-961X](https://orcid.org/0009-0005-4623-961X). Archived, citable releases are deposited on Zenodo.
+See [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Authored by Cleanor Labs, [ORCID 0009-0005-4623-961X](https://orcid.org/0009-0005-4623-961X). The archived, citable version has DOI [10.5281/zenodo.21225547](https://doi.org/10.5281/zenodo.21225547) (this concept DOI always resolves to the latest release).
 
 ## License
 

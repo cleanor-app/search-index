@@ -23,6 +23,11 @@
       "relation": "isDerivedFrom",
       "identifier": "https://cleanor.app/trends",
       "scheme": "url"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/cleanor-app/search-index",
+      "scheme": "url"
     }
   ]
 }
