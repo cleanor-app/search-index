@@ -8,7 +8,7 @@
 [![Read the index](https://img.shields.io/badge/read%20it-cleanor.app%2Ftrends-0a7cff.svg)](https://cleanor.app/trends)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21225547.svg)](https://doi.org/10.5281/zenodo.21225547)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20dataset-cleanorlabs%2Fcleanor--search--index-ff9d00.svg)](https://huggingface.co/datasets/cleanorlabs/cleanor-search-index)
-[![Kaggle](https://img.shields.io/badge/Kaggle-cleanorlabs%2Fcleanor--search--index-20beff.svg?logo=kaggle)](https://www.kaggle.com/datasets/cleanorlabs/cleanor-search-index)
+[![Kaggle](https://img.shields.io/badge/Kaggle-dataset%20%2B%20DOI-20beff.svg?logo=kaggle)](https://www.kaggle.com/datasets/cleanorlabs/cleanor-search-index)
 
 > 📈 Human-readable charts and write-ups live at [cleanor.app/trends](https://cleanor.app/trends). This repository is the raw data and the harness behind them.
 
@@ -66,7 +66,10 @@ New categories, additional countries, keyword-mapping corrections, and analysis 
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Authored by Cleanor Labs, [ORCID 0009-0005-4623-961X](https://orcid.org/0009-0005-4623-961X). The archived, citable version has DOI [10.5281/zenodo.21225547](https://doi.org/10.5281/zenodo.21225547) (this concept DOI always resolves to the latest release).
+See [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Authored by Cleanor Labs, [ORCID 0009-0005-4623-961X](https://orcid.org/0009-0005-4623-961X). Two citable DOIs are available:
+
+- **Zenodo** (this repository): [10.5281/zenodo.21225547](https://doi.org/10.5281/zenodo.21225547) — concept DOI, always resolves to the latest release.
+- **Kaggle** (dataset mirror): [10.34740/kaggle/dsv/17721131](https://doi.org/10.34740/kaggle/dsv/17721131) — [kaggle.com/datasets/cleanorlabs/cleanor-search-index](https://www.kaggle.com/datasets/cleanorlabs/cleanor-search-index).
 
 ## License
 
