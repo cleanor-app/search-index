@@ -134,59 +134,51 @@ function monthNum(mo) {
 }
 const ym = (y, mo) => `${y}-${String(monthNum(mo)).padStart(2, '0')}`;
 
-async function runCategory(token, catKey) {
-  const cat = cfg.categories[catKey];
-  const keywords = [...new Set(cat.brands.flatMap((b) => b.keys))];
-  console.log(
-    `\nCleanor Search Index · ${cat.label} · ${keywords.length} keys × ${codes.length} countries · snapshot ${MONTH}`,
-  );
-
-  const snapData = {};
-  let i = 0;
-  for (const code of codes) {
-    const [name, geoId] = cfg.countries[code];
-    const results = await historicalMetrics(token, geoId, keywords);
-    const byKey = new Map();
-    for (const res of results) {
-      const m = res.keywordMetrics || {};
-      byKey.set((res.text || '').toLowerCase(), {
-        avg: m.avgMonthlySearches != null ? Number(m.avgMonthlySearches) : 0,
-        comp: compMap[m.competition] ?? (m.competition || ''),
-        monthly: (m.monthlySearchVolumes || []).map((mv) => ({
-          ym: ym(mv.year, mv.month),
-          v: mv.monthlySearches != null ? Number(mv.monthlySearches) : 0,
-        })),
-      });
-    }
-    const brands = {};
-    for (const b of cat.brands) {
-      let avg = 0;
-      let comp = '';
-      const monthlyMap = new Map();
-      for (const k of b.keys) {
-        const row = byKey.get(k.toLowerCase());
-        if (!row) continue;
-        avg += row.avg;
-        if (!comp || ['low', 'medium', 'high'].indexOf(row.comp) > ['low', 'medium', 'high'].indexOf(comp))
-          comp = row.comp || comp;
-        for (const mv of row.monthly) monthlyMap.set(mv.ym, (monthlyMap.get(mv.ym) || 0) + mv.v);
-      }
-      brands[b.name] = {
-        avg,
-        competition: comp,
-        monthly: [...monthlyMap.entries()].sort((a, z) => a[0].localeCompare(z[0])).map(([mo, v]) => ({ ym: mo, v })),
-      };
-    }
-    snapData[code] = { name, geoId, brands };
-    process.stdout.write(`\r  ${++i}/${codes.length} · ${name.padEnd(20)}  `);
-    await sleep(1500);
+// Parse one Keyword Planner response into a keyword -> metrics map.
+function toByKey(results) {
+  const byKey = new Map();
+  for (const res of results) {
+    const m = res.keywordMetrics || {};
+    byKey.set((res.text || '').toLowerCase(), {
+      avg: m.avgMonthlySearches != null ? Number(m.avgMonthlySearches) : 0,
+      comp: compMap[m.competition] ?? (m.competition || ''),
+      monthly: (m.monthlySearchVolumes || []).map((mv) => ({
+        ym: ym(mv.year, mv.month),
+        v: mv.monthlySearches != null ? Number(mv.monthlySearches) : 0,
+      })),
+    });
   }
-  console.log('');
+  return byKey;
+}
 
-  // persist the immutable raw snapshot (the published dataset source)
+// Aggregate a category's brands out of one country's keyword map.
+function brandsFromByKey(cat, byKey) {
+  const brands = {};
+  for (const b of cat.brands) {
+    let avg = 0;
+    let comp = '';
+    const monthlyMap = new Map();
+    for (const k of b.keys) {
+      const row = byKey.get(k.toLowerCase());
+      if (!row) continue;
+      avg += row.avg;
+      if (!comp || ['low', 'medium', 'high'].indexOf(row.comp) > ['low', 'medium', 'high'].indexOf(comp))
+        comp = row.comp || comp;
+      for (const mv of row.monthly) monthlyMap.set(mv.ym, (monthlyMap.get(mv.ym) || 0) + mv.v);
+    }
+    brands[b.name] = {
+      avg,
+      competition: comp,
+      monthly: [...monthlyMap.entries()].sort((a, z) => a[0].localeCompare(z[0])).map(([mo, v]) => ({ ym: mo, v })),
+    };
+  }
+  return brands;
+}
+
+function persistCategory(catKey, snapData, generatedAt) {
+  const cat = cfg.categories[catKey];
   const rawDir = path.join(ROOT, 'data', 'popularity', catKey);
   fs.mkdirSync(rawDir, { recursive: true });
-  const generatedAt = new Date().toISOString();
   const raw = {
     category: catKey,
     label: cat.label,
@@ -234,6 +226,35 @@ async function runCategory(token, catKey) {
 
 (async () => {
   const token = await accessToken();
-  for (const catKey of wantCats) await runCategory(token, catKey);
+  const generatedAt = new Date().toISOString();
+  // One request per country covering EVERY tracked category's keywords, then
+  // split by keyword. Cost is O(countries), not O(categories × countries), so
+  // adding topics stays free on the Keyword Planner quota.
+  const allKeywords = [
+    ...new Set(wantCats.flatMap((c) => cfg.categories[c].brands.flatMap((b) => b.keys))),
+  ];
+  console.log(
+    `\nCleanor Search Index · ${wantCats.length} categor${wantCats.length === 1 ? 'y' : 'ies'} · ` +
+      `${allKeywords.length} keys × ${codes.length} countries · snapshot ${MONTH}`,
+  );
+
+  const snapByCat = Object.fromEntries(wantCats.map((c) => [c, {}]));
+  let i = 0;
+  for (const code of codes) {
+    const [name, geoId] = cfg.countries[code];
+    const byKey = toByKey(await historicalMetrics(token, geoId, allKeywords));
+    for (const catKey of wantCats) {
+      snapByCat[catKey][code] = {
+        name,
+        geoId,
+        brands: brandsFromByKey(cfg.categories[catKey], byKey),
+      };
+    }
+    process.stdout.write(`\r  ${++i}/${codes.length} · ${name.padEnd(20)}  `);
+    await sleep(1500);
+  }
+  console.log('');
+
+  for (const catKey of wantCats) persistCategory(catKey, snapByCat[catKey], generatedAt);
   console.log('\nDone.\n');
 })();

@@ -36,6 +36,8 @@ export function computeOutputs({ catKey, cat, codes, countries, snapData, month,
   ].sort();
   const months = axis.slice(-12);
 
+  const mean = (a) => (a.length ? a.reduce((s, v) => s + v, 0) / a.length : 0);
+
   function seriesForScope(getBrand) {
     const rows = brandMeta.map((bm) => {
       const src = getBrand(bm.name);
@@ -46,6 +48,10 @@ export function computeOutputs({ catKey, cat, codes, countries, snapData, month,
       const last = monthly[monthly.length - 1] || 0;
       const prev = monthly[monthly.length - 2] || 0;
       const first = monthly.find((v) => v > 0) || monthly[0] || 0;
+      // momentum = smoothed 3-month change (mean of last 3 vs the prior 3),
+      // far less jumpy than raw MoM on Keyword Planner's rounded bands.
+      const last3 = mean(monthly.slice(-3));
+      const prev3 = mean(monthly.slice(-6, -3));
       return {
         name: bm.name,
         vendor: bm.vendor,
@@ -53,14 +59,20 @@ export function computeOutputs({ catKey, cat, codes, countries, snapData, month,
         avg,
         monthly,
         mom: prev ? Math.round(((last - prev) / prev) * 1000) / 10 : null,
+        momentum: prev3 ? Math.round(((last3 - prev3) / prev3) * 1000) / 10 : null,
         yoy: first ? Math.round(((last - first) / first) * 1000) / 10 : null,
       };
     });
     const total = rows.reduce((a, r) => a + r.avg, 0) || 1;
+    const leaderAvg = rows.reduce((m, r) => Math.max(m, r.avg), 0);
+    // a mover is "reliable" only above a volume floor, so tiny-base % swings
+    // (e.g. a format at 0.02% jumping 55%) never headline the risers.
+    const floor = Math.max(20000, leaderAvg * 0.005);
     rows.sort((a, z) => z.avg - a.avg);
     rows.forEach((r, idx) => {
       r.rank = idx + 1;
       r.share = Math.round((r.avg / total) * 1000) / 10;
+      r.reliable = r.avg >= floor;
     });
     return rows;
   }
@@ -87,6 +99,20 @@ export function computeOutputs({ catKey, cat, codes, countries, snapData, month,
   for (const code of codes)
     series[code] = seriesForScope((brandName) => snapData[code]?.brands[brandName]);
 
+  // per-scope concentration: HHI = sum of squared shares (0..1). 1 = a monopoly,
+  // ~1/N = perfectly even. A single headline number for "how dominated is this".
+  const stats = {};
+  for (const [scope, rows] of Object.entries(series)) {
+    const total = rows.reduce((a, r) => a + r.avg, 0) || 1;
+    const hhi = Math.round(rows.reduce((a, r) => a + (r.avg / total) ** 2, 0) * 1000) / 1000;
+    stats[scope] = {
+      hhi,
+      total,
+      leader: rows[0]?.name ?? null,
+      leaderShare: rows[0]?.share ?? null,
+    };
+  }
+
   const compact = {
     category: catKey,
     label: cat.label,
@@ -101,6 +127,7 @@ export function computeOutputs({ catKey, cat, codes, countries, snapData, month,
       ...codes.map((c) => ({ code: c, name: countries[c][0] })),
     ],
     brands: brandMeta,
+    stats,
     series,
   };
 
