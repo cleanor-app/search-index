@@ -122,6 +122,29 @@
         { "name": "Nextcloud", "vendor": "Nextcloud", "keys": ["nextcloud"] },
         { "name": "Backblaze", "vendor": "Backblaze", "keys": ["backblaze"] }
       ]
+    },
+    "crypto": {
+      "_note": "Crypto EXCHANGES + WALLETS, not coins. Google Keyword Planner withholds historical volume for cryptocurrency asset names (bitcoin/ethereum/xrp/solana/... all return null metrics), so a coin leaderboard is impossible from this source. Platform/app names are not restricted and return real volumes, so we track the exchanges and wallets people actually search for. Multi-asset brokers (Robinhood, eToro) excluded to keep it crypto-native. Dotted names stored without the dot because the KP API echoes them dot-stripped (match is on the echoed text).",
+      "label": "Crypto exchanges & wallets",
+      "unit": "crypto exchange or wallet",
+      "brands": [
+        { "name": "MEXC", "vendor": "Exchange", "keys": ["mexc"] },
+        { "name": "Coinbase", "vendor": "Exchange", "keys": ["coinbase"] },
+        { "name": "Kraken", "vendor": "Exchange", "keys": ["kraken"] },
+        { "name": "Binance", "vendor": "Exchange", "keys": ["binance"] },
+        { "name": "MetaMask", "vendor": "Wallet", "keys": ["metamask"] },
+        { "name": "Trust Wallet", "vendor": "Wallet", "keys": ["trust wallet"] },
+        { "name": "OKX", "vendor": "Exchange", "keys": ["okx"] },
+        { "name": "Bybit", "vendor": "Exchange", "keys": ["bybit"] },
+        { "name": "Phantom", "vendor": "Wallet", "keys": ["phantom wallet"] },
+        { "name": "Crypto.com", "vendor": "Exchange", "keys": ["crypto com"] },
+        { "name": "KuCoin", "vendor": "Exchange", "keys": ["kucoin"] },
+        { "name": "Bitget", "vendor": "Exchange", "keys": ["bitget"] },
+        { "name": "Exodus", "vendor": "Wallet", "keys": ["exodus wallet"] },
+        { "name": "Ledger", "vendor": "Wallet", "keys": ["ledger wallet"] },
+        { "name": "Gemini", "vendor": "Exchange", "keys": ["gemini exchange"] },
+        { "name": "Blockchain.com", "vendor": "Wallet", "keys": ["blockchain com"] }
+      ]
     }
   }
 }
