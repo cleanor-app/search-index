@@ -145,6 +145,29 @@
         { "name": "Gemini", "vendor": "Exchange", "keys": ["gemini exchange"] },
         { "name": "Blockchain.com", "vendor": "Wallet", "keys": ["blockchain com"] }
       ]
+    },
+    "coding": {
+      "_note": "AI coding tools + code editors/IDEs. Disambiguated head terms where the bare word is a common word (cursor=mouse cursor -> 'cursor ai'; windsurf=the sport -> 'windsurf ai'; zed/eclipse -> 'zed editor'/'eclipse ide'). Mixes AI-native tools with traditional IDEs on purpose so the leaderboard shows the AI-vs-established split.",
+      "label": "AI coding tools & IDEs",
+      "unit": "coding tool or IDE",
+      "brands": [
+        { "name": "Claude Code", "vendor": "AI coding agent", "keys": ["claude code"] },
+        { "name": "VS Code", "vendor": "Editor", "keys": ["vs code"] },
+        { "name": "Replit", "vendor": "Cloud IDE", "keys": ["replit"] },
+        { "name": "Cursor", "vendor": "AI editor", "keys": ["cursor ai"] },
+        { "name": "GitHub Copilot", "vendor": "AI assistant", "keys": ["github copilot"] },
+        { "name": "Visual Studio", "vendor": "IDE", "keys": ["visual studio"] },
+        { "name": "PyCharm", "vendor": "IDE", "keys": ["pycharm"] },
+        { "name": "Android Studio", "vendor": "IDE", "keys": ["android studio"] },
+        { "name": "IntelliJ IDEA", "vendor": "IDE", "keys": ["intellij"] },
+        { "name": "Xcode", "vendor": "IDE", "keys": ["xcode"] },
+        { "name": "Sublime Text", "vendor": "Editor", "keys": ["sublime text"] },
+        { "name": "Neovim", "vendor": "Editor", "keys": ["neovim"] },
+        { "name": "Amazon Q", "vendor": "AI assistant", "keys": ["amazon q"] },
+        { "name": "Windsurf", "vendor": "AI editor", "keys": ["windsurf ai"] },
+        { "name": "Zed", "vendor": "Editor", "keys": ["zed editor"] },
+        { "name": "Eclipse", "vendor": "IDE", "keys": ["eclipse ide"] }
+      ]
     }
   }
 }

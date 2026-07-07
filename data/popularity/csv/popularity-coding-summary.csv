@@ -1,0 +1,337 @@
+snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
+2026-06,coding,WW,1,"Claude Code","AI coding agent",1947800,25.6,-20.3,269.7
+2026-06,coding,WW,2,"VS Code","Editor",1704100,22.4,-4.7,10.6
+2026-06,coding,WW,3,"Replit","Cloud IDE",1039900,13.7,-0.2,27.1
+2026-06,coding,WW,4,"Cursor","AI editor",533000,7,-26.3,-37.1
+2026-06,coding,WW,5,"GitHub Copilot","AI assistant",512400,6.7,-22.4,54
+2026-06,coding,WW,6,"Visual Studio","IDE",473800,6.2,-12.4,-18.4
+2026-06,coding,WW,7,"Android Studio","IDE",395000,5.2,-5,3.1
+2026-06,coding,WW,8,"PyCharm","IDE",300500,3.9,-10.1,-25.2
+2026-06,coding,WW,9,"IntelliJ IDEA","IDE",203900,2.7,-13.9,-26.4
+2026-06,coding,WW,10,"Sublime Text","Editor",147280,1.9,-6.4,-24.1
+2026-06,coding,WW,11,"Xcode","IDE",110400,1.4,-8.3,-4.1
+2026-06,coding,WW,12,"Neovim","Editor",82760,1.1,-10.5,-1
+2026-06,coding,WW,13,"Windsurf","AI editor",48340,0.6,-2.1,-58.2
+2026-06,coding,WW,14,"Amazon Q","AI assistant",44650,0.6,-13.1,-58.2
+2026-06,coding,WW,15,"Eclipse","IDE",40950,0.5,-17.3,-31.8
+2026-06,coding,WW,16,"Zed","Editor",30950,0.4,17.6,113.4
+2026-06,coding,US,1,"Claude Code","AI coding agent",450000,30.1,-18.2,173.6
+2026-06,coding,US,2,"VS Code","Editor",246000,16.4,-18.3,22.4
+2026-06,coding,US,3,"Replit","Cloud IDE",246000,16.4,0,22.4
+2026-06,coding,US,4,"Cursor","AI editor",110000,7.4,-33,-45.2
+2026-06,coding,US,5,"GitHub Copilot","AI assistant",110000,7.4,-32.9,82.3
+2026-06,coding,US,6,"Visual Studio","IDE",74000,4.9,-18.2,-18.2
+2026-06,coding,US,7,"PyCharm","IDE",60500,4,-18.2,-33.1
+2026-06,coding,US,8,"Android Studio","IDE",40500,2.7,0,0
+2026-06,coding,US,9,"IntelliJ IDEA","IDE",33100,2.2,-18.1,-32.9
+2026-06,coding,US,10,"Xcode","IDE",33100,2.2,0,0
+2026-06,coding,US,11,"Sublime Text","Editor",27100,1.8,-18.1,-18.1
+2026-06,coding,US,12,"Neovim","Editor",22200,1.5,-18.5,0
+2026-06,coding,US,13,"Amazon Q","AI assistant",14800,1,-18.5,-70.3
+2026-06,coding,US,14,"Windsurf","AI editor",12100,0.8,-18.2,-75.7
+2026-06,coding,US,15,"Zed","Editor",8100,0.5,22.2,124.1
+2026-06,coding,US,16,"Eclipse","IDE",8100,0.5,-18.5,-63.6
+2026-06,coding,IN,1,"VS Code","Editor",450000,26.5,0,-18.2
+2026-06,coding,IN,2,"Replit","Cloud IDE",368000,21.7,0,49.5
+2026-06,coding,IN,3,"Claude Code","AI coding agent",201000,11.8,-18.2,643.4
+2026-06,coding,IN,4,"Cursor","AI editor",201000,11.8,-32.8,-32.8
+2026-06,coding,IN,5,"GitHub Copilot","AI assistant",110000,6.5,-17.9,50
+2026-06,coding,IN,6,"Android Studio","IDE",110000,6.5,-17.7,-17.7
+2026-06,coding,IN,7,"Visual Studio","IDE",74000,4.4,-18.2,-45.3
+2026-06,coding,IN,8,"PyCharm","IDE",60500,3.6,0,-33.1
+2026-06,coding,IN,9,"IntelliJ IDEA","IDE",40500,2.4,-18.1,-45.3
+2026-06,coding,IN,10,"Sublime Text","Editor",22200,1.3,-18.2,-45.4
+2026-06,coding,IN,11,"Windsurf","AI editor",14800,0.9,0,-18.2
+2026-06,coding,IN,12,"Xcode","IDE",12100,0.7,-18.2,-18.2
+2026-06,coding,IN,13,"Eclipse","IDE",12100,0.7,-18.2,-33.1
+2026-06,coding,IN,14,"Amazon Q","AI assistant",9900,0.6,0,-33.1
+2026-06,coding,IN,15,"Neovim","Editor",8100,0.5,0,-18.5
+2026-06,coding,IN,16,"Zed","Editor",2900,0.2,-18.2,50
+2026-06,coding,GB,1,"Claude Code","AI coding agent",90500,29.6,-18.5,171.6
+2026-06,coding,GB,2,"Replit","Cloud IDE",60500,19.8,0,-33.1
+2026-06,coding,GB,3,"VS Code","Editor",49500,16.2,0,0
+2026-06,coding,GB,4,"Cursor","AI editor",18100,5.9,-45.4,-45.4
+2026-06,coding,GB,5,"GitHub Copilot","AI assistant",18100,5.9,-33.2,0
+2026-06,coding,GB,6,"Visual Studio","IDE",18100,5.9,0,-18.2
+2026-06,coding,GB,7,"PyCharm","IDE",12100,4,-18.2,-33.1
+2026-06,coding,GB,8,"Android Studio","IDE",9900,3.2,0,0
+2026-06,coding,GB,9,"IntelliJ IDEA","IDE",6600,2.2,-18.5,-33.3
+2026-06,coding,GB,10,"Xcode","IDE",5400,1.8,0,0
+2026-06,coding,GB,11,"Sublime Text","Editor",5400,1.8,0,-33.3
+2026-06,coding,GB,12,"Neovim","Editor",4400,1.4,0,-18.2
+2026-06,coding,GB,13,"Amazon Q","AI assistant",2400,0.8,-18.7,-55.2
+2026-06,coding,GB,14,"Windsurf","AI editor",1900,0.6,0,-70.5
+2026-06,coding,GB,15,"Zed","Editor",1600,0.5,26.3,84.6
+2026-06,coding,GB,16,"Eclipse","IDE",1300,0.4,-12,-12
+2026-06,coding,CA,1,"Claude Code","AI coding agent",74000,31,-33,173.4
+2026-06,coding,CA,2,"VS Code","Editor",40500,17,22.2,49.5
+2026-06,coding,CA,3,"Replit","Cloud IDE",33100,13.9,22.4,22.4
+2026-06,coding,CA,4,"Cursor","AI editor",18100,7.6,-18.2,-33.3
+2026-06,coding,CA,5,"GitHub Copilot","AI assistant",18100,7.6,22.4,234.7
+2026-06,coding,CA,6,"Visual Studio","IDE",12100,5.1,0,-18.2
+2026-06,coding,CA,7,"PyCharm","IDE",9900,4.1,0,-18.5
+2026-06,coding,CA,8,"Android Studio","IDE",8100,3.4,22.7,22.7
+2026-06,coding,CA,9,"IntelliJ IDEA","IDE",6600,2.8,0,-18.5
+2026-06,coding,CA,10,"Xcode","IDE",4400,1.8,0,0
+2026-06,coding,CA,11,"Sublime Text","Editor",4400,1.8,0,-18.2
+2026-06,coding,CA,12,"Neovim","Editor",3600,1.5,0,-19.4
+2026-06,coding,CA,13,"Windsurf","AI editor",1600,0.7,-12,-69.7
+2026-06,coding,CA,14,"Eclipse","IDE",1600,0.7,-23.1,-23.1
+2026-06,coding,CA,15,"Amazon Q","AI assistant",1300,0.5,-18.2,-62.1
+2026-06,coding,CA,16,"Zed","Editor",1300,0.5,18.8,90
+2026-06,coding,AU,1,"Claude Code","AI coding agent",40500,28.3,-18.2,233.3
+2026-06,coding,AU,2,"VS Code","Editor",27100,18.9,0,22.1
+2026-06,coding,AU,3,"Replit","Cloud IDE",22200,15.5,22.1,0
+2026-06,coding,AU,4,"GitHub Copilot","AI assistant",12100,8.5,0,124.2
+2026-06,coding,AU,5,"Cursor","AI editor",9900,6.9,-18.2,-33.1
+2026-06,coding,AU,6,"Visual Studio","IDE",8100,5.7,0,-18.5
+2026-06,coding,AU,7,"PyCharm","IDE",5400,3.8,0,-33.3
+2026-06,coding,AU,8,"Android Studio","IDE",4400,3.1,22.7,22.7
+2026-06,coding,AU,9,"IntelliJ IDEA","IDE",2900,2,-20.8,-34.5
+2026-06,coding,AU,10,"Xcode","IDE",2900,2,0,0
+2026-06,coding,AU,11,"Sublime Text","Editor",2400,1.7,0,-33.3
+2026-06,coding,AU,12,"Neovim","Editor",1900,1.3,0,-20.8
+2026-06,coding,AU,13,"Amazon Q","AI assistant",1000,0.7,0,-68.9
+2026-06,coding,AU,14,"Windsurf","AI editor",880,0.6,0,-74.7
+2026-06,coding,AU,15,"Zed","Editor",880,0.6,23.1,122.2
+2026-06,coding,AU,16,"Eclipse","IDE",590,0.4,23.1,-18.6
+2026-06,coding,DE,1,"Claude Code","AI coding agent",110000,29.5,-17.9,307.4
+2026-06,coding,DE,2,"VS Code","Editor",90500,24.3,0,22.3
+2026-06,coding,DE,3,"GitHub Copilot","AI assistant",27100,7.3,-18.3,49.1
+2026-06,coding,DE,4,"Visual Studio","IDE",27100,7.3,-33.2,-18.5
+2026-06,coding,DE,5,"Replit","Cloud IDE",22200,6,22.1,22.1
+2026-06,coding,DE,6,"Cursor","AI editor",22200,6,-18.1,-32.9
+2026-06,coding,DE,7,"PyCharm","IDE",18100,4.9,-18.2,-18.2
+2026-06,coding,DE,8,"Android Studio","IDE",14800,4,0,0
+2026-06,coding,DE,9,"IntelliJ IDEA","IDE",14800,4,-18.2,-18.2
+2026-06,coding,DE,10,"Neovim","Editor",6600,1.8,-18.2,0
+2026-06,coding,DE,11,"Xcode","IDE",5400,1.4,-18.2,0
+2026-06,coding,DE,12,"Sublime Text","Editor",5400,1.4,0,-33.3
+2026-06,coding,DE,13,"Zed","Editor",2900,0.8,50,184.2
+2026-06,coding,DE,14,"Windsurf","AI editor",2400,0.6,-18.7,-75.9
+2026-06,coding,DE,15,"Amazon Q","AI assistant",1600,0.4,0,-62.1
+2026-06,coding,DE,16,"Eclipse","IDE",1600,0.4,-18.7,-18.7
+2026-06,coding,FR,1,"Claude Code","AI coding agent",90500,33.8,-18.2,398.2
+2026-06,coding,FR,2,"VS Code","Editor",60500,22.6,0,22.2
+2026-06,coding,FR,3,"Replit","Cloud IDE",22200,8.3,0,22.7
+2026-06,coding,FR,4,"GitHub Copilot","AI assistant",14800,5.5,-33.2,22.3
+2026-06,coding,FR,5,"Visual Studio","IDE",14800,5.5,0,-18.2
+2026-06,coding,FR,6,"Cursor","AI editor",12100,4.5,-18.2,-33.1
+2026-06,coding,FR,7,"Android Studio","IDE",12100,4.5,0,22.2
+2026-06,coding,FR,8,"PyCharm","IDE",9900,3.7,-18.5,-33.3
+2026-06,coding,FR,9,"IntelliJ IDEA","IDE",9900,3.7,-18.5,-18.5
+2026-06,coding,FR,10,"Sublime Text","Editor",8100,3,0,-33.3
+2026-06,coding,FR,11,"Xcode","IDE",4400,1.6,-18.2,-18.2
+2026-06,coding,FR,12,"Neovim","Editor",3600,1.3,-19.4,-19.4
+2026-06,coding,FR,13,"Windsurf","AI editor",1900,0.7,13.6,-81.5
+2026-06,coding,FR,14,"Zed","Editor",1300,0.5,0,60
+2026-06,coding,FR,15,"Eclipse","IDE",1300,0.5,-12,-12
+2026-06,coding,FR,16,"Amazon Q","AI assistant",720,0.3,-33.3,-63.6
+2026-06,coding,BR,1,"VS Code","Editor",165000,28.6,0,0
+2026-06,coding,BR,2,"Claude Code","AI coding agent",135000,23.4,-18.2,1257.9
+2026-06,coding,BR,3,"Replit","Cloud IDE",60500,10.5,-18.2,22.3
+2026-06,coding,BR,4,"Android Studio","IDE",40500,7,0,22.4
+2026-06,coding,BR,5,"Visual Studio","IDE",33100,5.7,0,0
+2026-06,coding,BR,6,"Cursor","AI editor",27100,4.7,-18.1,-32.9
+2026-06,coding,BR,7,"GitHub Copilot","AI assistant",27100,4.7,-33.1,49.1
+2026-06,coding,BR,8,"PyCharm","IDE",27100,4.7,0,0
+2026-06,coding,BR,9,"IntelliJ IDEA","IDE",27100,4.7,0,0
+2026-06,coding,BR,10,"Sublime Text","Editor",12100,2.1,0,-18.2
+2026-06,coding,BR,11,"Neovim","Editor",6600,1.1,-18.5,0
+2026-06,coding,BR,12,"Eclipse","IDE",5400,0.9,-18.5,0
+2026-06,coding,BR,13,"Xcode","IDE",4400,0.8,-18.5,-18.5
+2026-06,coding,BR,14,"Windsurf","AI editor",2900,0.5,26.3,-55.6
+2026-06,coding,BR,15,"Amazon Q","AI assistant",2400,0.4,-18.7,-45.8
+2026-06,coding,BR,16,"Zed","Editor",1600,0.3,0,84.6
+2026-06,coding,MX,1,"VS Code","Editor",74000,37.1,22.3,22.3
+2026-06,coding,MX,2,"Claude Code","AI coding agent",27100,13.6,-18.2,646.9
+2026-06,coding,MX,3,"Visual Studio","IDE",22200,11.1,0,0
+2026-06,coding,MX,4,"Android Studio","IDE",18100,9.1,22.7,22.7
+2026-06,coding,MX,5,"Replit","Cloud IDE",14800,7.4,0,22.3
+2026-06,coding,MX,6,"Sublime Text","Editor",9900,5,22.2,-18.2
+2026-06,coding,MX,7,"GitHub Copilot","AI assistant",8100,4.1,-45.3,22.7
+2026-06,coding,MX,8,"PyCharm","IDE",6600,3.3,0,-18.2
+2026-06,coding,MX,9,"Cursor","AI editor",5400,2.7,-18.2,-18.2
+2026-06,coding,MX,10,"IntelliJ IDEA","IDE",4400,2.2,0,-18.2
+2026-06,coding,MX,11,"Xcode","IDE",3600,1.8,0,-18.2
+2026-06,coding,MX,12,"Eclipse","IDE",1900,1,-18.7,-31.6
+2026-06,coding,MX,13,"Neovim","Editor",1300,0.7,23.1,23.1
+2026-06,coding,MX,14,"Windsurf","AI editor",880,0.4,22,-55
+2026-06,coding,MX,15,"Amazon Q","AI assistant",720,0.4,0,-45.8
+2026-06,coding,MX,16,"Zed","Editor",390,0.2,0,84.4
+2026-06,coding,ID,1,"VS Code","Editor",90500,36.5,-18.2,22.3
+2026-06,coding,ID,2,"Replit","Cloud IDE",33100,13.4,0,49.4
+2026-06,coding,ID,3,"Claude Code","AI coding agent",27100,10.9,0,647.5
+2026-06,coding,ID,4,"Android Studio","IDE",27100,10.9,-18.1,22.1
+2026-06,coding,ID,5,"Cursor","AI editor",14800,6,22.3,22.3
+2026-06,coding,ID,6,"GitHub Copilot","AI assistant",14800,6,0,83.5
+2026-06,coding,ID,7,"Visual Studio","IDE",12100,4.9,-18.2,0
+2026-06,coding,ID,8,"Sublime Text","Editor",9900,4,0,0
+2026-06,coding,ID,9,"PyCharm","IDE",6600,2.7,-18.5,-33.3
+2026-06,coding,ID,10,"Xcode","IDE",2900,1.2,0,0
+2026-06,coding,ID,11,"Neovim","Editor",2900,1.2,0,0
+2026-06,coding,ID,12,"IntelliJ IDEA","IDE",2400,1,0,-20.8
+2026-06,coding,ID,13,"Windsurf","AI editor",1000,0.4,23.1,23.1
+2026-06,coding,ID,14,"Zed","Editor",1000,0.4,23.1,171.2
+2026-06,coding,ID,15,"Amazon Q","AI assistant",720,0.3,-18.7,-45.8
+2026-06,coding,ID,16,"Eclipse","IDE",720,0.3,-28,50
+2026-06,coding,JP,1,"Claude Code","AI coding agent",301000,54.8,-33.1,82.9
+2026-06,coding,JP,2,"VS Code","Editor",60500,11,-18.2,22.3
+2026-06,coding,JP,3,"GitHub Copilot","AI assistant",60500,11,-18.2,22.3
+2026-06,coding,JP,4,"Visual Studio","IDE",40500,7.4,-18.3,-18.3
+2026-06,coding,JP,5,"Android Studio","IDE",22200,4,0,0
+2026-06,coding,JP,6,"Replit","Cloud IDE",14800,2.7,0,-18.2
+2026-06,coding,JP,7,"Xcode","IDE",9900,1.8,-18.2,0
+2026-06,coding,JP,8,"PyCharm","IDE",8100,1.5,-18.2,-18.2
+2026-06,coding,JP,9,"Cursor","AI editor",6600,1.2,-18.5,-33.3
+2026-06,coding,JP,10,"Neovim","Editor",6600,1.2,0,50
+2026-06,coding,JP,11,"IntelliJ IDEA","IDE",5400,1,-33.3,-33.3
+2026-06,coding,JP,12,"Sublime Text","Editor",5400,1,0,0
+2026-06,coding,JP,13,"Amazon Q","AI assistant",4400,0.8,-17.2,-63.6
+2026-06,coding,JP,14,"Zed","Editor",2900,0.5,22.2,238.5
+2026-06,coding,JP,15,"Windsurf","AI editor",480,0.1,23.1,-75.4
+2026-06,coding,JP,16,"Eclipse","IDE",480,0.1,-18.6,-18.6
+2026-06,coding,KR,1,"Claude Code","AI coding agent",60500,26.4,-32.7,123.6
+2026-06,coding,KR,2,"VS Code","Editor",49500,21.6,-18.2,22.2
+2026-06,coding,KR,3,"Cursor","AI editor",22200,9.7,-18.2,-70.1
+2026-06,coding,KR,4,"Visual Studio","IDE",22200,9.7,-18.5,-18.5
+2026-06,coding,KR,5,"Replit","Cloud IDE",18100,7.9,0,-33.2
+2026-06,coding,KR,6,"IntelliJ IDEA","IDE",14800,6.5,-18.2,-33.1
+2026-06,coding,KR,7,"GitHub Copilot","AI assistant",9900,4.3,-33.1,0
+2026-06,coding,KR,8,"PyCharm","IDE",9900,4.3,-18.5,-33.3
+2026-06,coding,KR,9,"Android Studio","IDE",9900,4.3,0,0
+2026-06,coding,KR,10,"Sublime Text","Editor",4400,1.9,-18.2,-18.2
+2026-06,coding,KR,11,"Xcode","IDE",3600,1.6,-19.4,-19.4
+2026-06,coding,KR,12,"Neovim","Editor",1900,0.8,-33.3,-15.8
+2026-06,coding,KR,13,"Amazon Q","AI assistant",880,0.4,-33.3,-80
+2026-06,coding,KR,14,"Zed","Editor",720,0.3,0,83.3
+2026-06,coding,KR,15,"Windsurf","AI editor",480,0.2,-18.7,-80
+2026-06,coding,KR,16,"Eclipse","IDE",390,0.2,-33.3,-33.3
+2026-06,coding,IT,1,"Claude Code","AI coding agent",40500,25.4,21.5,1011.1
+2026-06,coding,IT,2,"VS Code","Editor",40500,25.4,0,82.7
+2026-06,coding,IT,3,"Replit","Cloud IDE",18100,11.4,22.1,49.7
+2026-06,coding,IT,4,"Visual Studio","IDE",12100,7.6,0,0
+2026-06,coding,IT,5,"GitHub Copilot","AI assistant",9900,6.2,-33.1,49.4
+2026-06,coding,IT,6,"Android Studio","IDE",8100,5.1,-18.2,0
+2026-06,coding,IT,7,"Cursor","AI editor",6600,4.1,0,22.7
+2026-06,coding,IT,8,"PyCharm","IDE",6600,4.1,-18.5,-18.5
+2026-06,coding,IT,9,"IntelliJ IDEA","IDE",5400,3.4,0,0
+2026-06,coding,IT,10,"Sublime Text","Editor",3600,2.3,0,0
+2026-06,coding,IT,11,"Xcode","IDE",2400,1.5,-20.8,-20.8
+2026-06,coding,IT,12,"Neovim","Editor",1900,1.2,0,18.8
+2026-06,coding,IT,13,"Windsurf","AI editor",1300,0.8,0,-31.6
+2026-06,coding,IT,14,"Zed","Editor",880,0.6,30,120.3
+2026-06,coding,IT,15,"Eclipse","IDE",720,0.5,0,0
+2026-06,coding,IT,16,"Amazon Q","AI assistant",590,0.4,-33.3,-63.9
+2026-06,coding,ES,1,"Claude Code","AI coding agent",60500,28.3,-18.5,643.2
+2026-06,coding,ES,2,"VS Code","Editor",60500,28.3,0,49.4
+2026-06,coding,ES,3,"Replit","Cloud IDE",14800,6.9,0,49.6
+2026-06,coding,ES,4,"GitHub Copilot","AI assistant",14800,6.9,-18.5,82.8
+2026-06,coding,ES,5,"Visual Studio","IDE",12100,5.7,-18.2,-18.2
+2026-06,coding,ES,6,"Android Studio","IDE",12100,5.7,0,22.2
+2026-06,coding,ES,7,"Cursor","AI editor",8100,3.8,0,-33.1
+2026-06,coding,ES,8,"IntelliJ IDEA","IDE",8100,3.8,-18.2,-18.2
+2026-06,coding,ES,9,"PyCharm","IDE",6600,3.1,-18.5,-33.3
+2026-06,coding,ES,10,"Sublime Text","Editor",5400,2.5,0,-18.5
+2026-06,coding,ES,11,"Xcode","IDE",2900,1.4,0,20.8
+2026-06,coding,ES,12,"Eclipse","IDE",2400,1.1,-15.8,23.1
+2026-06,coding,ES,13,"Neovim","Editor",1900,0.9,26.3,26.3
+2026-06,coding,ES,14,"Windsurf","AI editor",1900,0.9,0,-56.8
+2026-06,coding,ES,15,"Zed","Editor",880,0.4,0,47.7
+2026-06,coding,ES,16,"Amazon Q","AI assistant",720,0.3,-18.7,-61
+2026-06,coding,NL,1,"Claude Code","AI coding agent",40500,31.3,-18.2,308.8
+2026-06,coding,NL,2,"VS Code","Editor",27100,20.9,0,22.1
+2026-06,coding,NL,3,"Replit","Cloud IDE",12100,9.3,-18.2,0
+2026-06,coding,NL,4,"Cursor","AI editor",9900,7.6,0,-33.1
+2026-06,coding,NL,5,"GitHub Copilot","AI assistant",8100,6.3,-18.2,22.2
+2026-06,coding,NL,6,"Visual Studio","IDE",8100,6.3,0,0
+2026-06,coding,NL,7,"PyCharm","IDE",6600,5.1,-18.5,-18.5
+2026-06,coding,NL,8,"Android Studio","IDE",5400,4.2,0,22.7
+2026-06,coding,NL,9,"IntelliJ IDEA","IDE",2900,2.2,-17.2,-17.2
+2026-06,coding,NL,10,"Sublime Text","Editor",2400,1.9,0,-34.5
+2026-06,coding,NL,11,"Xcode","IDE",1900,1.5,0,0
+2026-06,coding,NL,12,"Neovim","Editor",1900,1.5,-15.8,0
+2026-06,coding,NL,13,"Windsurf","AI editor",1000,0.8,0,-75.4
+2026-06,coding,NL,14,"Zed","Editor",880,0.7,30,120.3
+2026-06,coding,NL,15,"Eclipse","IDE",390,0.3,0,0
+2026-06,coding,NL,16,"Amazon Q","AI assistant",320,0.2,-19,-56.4
+2026-06,coding,TR,1,"VS Code","Editor",49500,22.5,0,22.2
+2026-06,coding,TR,2,"Claude Code","AI coding agent",40500,18.4,-18.2,308.8
+2026-06,coding,TR,3,"Visual Studio","IDE",33100,15,0,0
+2026-06,coding,TR,4,"Replit","Cloud IDE",27100,12.3,0,49.1
+2026-06,coding,TR,5,"Android Studio","IDE",18100,8.2,0,22.3
+2026-06,coding,TR,6,"PyCharm","IDE",14800,6.7,-18.2,-33.1
+2026-06,coding,TR,7,"Cursor","AI editor",12100,5.5,-18.2,-33.1
+2026-06,coding,TR,8,"GitHub Copilot","AI assistant",12100,5.5,-18.2,22.2
+2026-06,coding,TR,9,"Sublime Text","Editor",3600,1.6,0,-19.4
+2026-06,coding,TR,10,"IntelliJ IDEA","IDE",2900,1.3,-20.8,-20.8
+2026-06,coding,TR,11,"Xcode","IDE",2900,1.3,-17.2,0
+2026-06,coding,TR,12,"Neovim","Editor",1300,0.6,0,0
+2026-06,coding,TR,13,"Windsurf","AI editor",1000,0.5,-18.2,-55
+2026-06,coding,TR,14,"Zed","Editor",590,0.3,22,84.6
+2026-06,coding,TR,15,"Eclipse","IDE",480,0.2,-33.3,-33.3
+2026-06,coding,TR,16,"Amazon Q","AI assistant",320,0.1,-46.9,-19
+2026-06,coding,VN,1,"VS Code","Editor",49500,25.4,0,22.2
+2026-06,coding,VN,2,"Claude Code","AI coding agent",40500,20.8,-18.2,647.5
+2026-06,coding,VN,3,"Visual Studio","IDE",22200,11.4,0,-18.5
+2026-06,coding,VN,4,"GitHub Copilot","AI assistant",14800,7.6,-18.5,0
+2026-06,coding,VN,5,"Android Studio","IDE",14800,7.6,22.3,0
+2026-06,coding,VN,6,"Replit","Cloud IDE",12100,6.2,-18.2,0
+2026-06,coding,VN,7,"Cursor","AI editor",9900,5.1,-18.5,-55.4
+2026-06,coding,VN,8,"Sublime Text","Editor",9900,5.1,-18.2,-18.2
+2026-06,coding,VN,9,"PyCharm","IDE",8100,4.2,0,-18.5
+2026-06,coding,VN,10,"IntelliJ IDEA","IDE",6600,3.4,0,-18.5
+2026-06,coding,VN,11,"Xcode","IDE",2900,1.5,0,0
+2026-06,coding,VN,12,"Neovim","Editor",1600,0.8,-15.8,0
+2026-06,coding,VN,13,"Zed","Editor",720,0.4,38.9,108.3
+2026-06,coding,VN,14,"Amazon Q","AI assistant",590,0.3,-18.7,-55.7
+2026-06,coding,VN,15,"Eclipse","IDE",480,0.2,23.1,0
+2026-06,coding,VN,16,"Windsurf","AI editor",390,0.2,0,-55.6
+2026-06,coding,PL,1,"Claude Code","AI coding agent",49500,27.6,-18.2,400
+2026-06,coding,PL,2,"VS Code","Editor",40500,22.6,-18.2,22.4
+2026-06,coding,PL,3,"Visual Studio","IDE",18100,10.1,-18.2,0
+2026-06,coding,PL,4,"GitHub Copilot","AI assistant",12100,6.7,0,49.6
+2026-06,coding,PL,5,"PyCharm","IDE",12100,6.7,0,0
+2026-06,coding,PL,6,"Replit","Cloud IDE",9900,5.5,0,0
+2026-06,coding,PL,7,"Cursor","AI editor",9900,5.5,0,-33.1
+2026-06,coding,PL,8,"Android Studio","IDE",9900,5.5,0,22.2
+2026-06,coding,PL,9,"IntelliJ IDEA","IDE",6600,3.7,-18.2,-18.2
+2026-06,coding,PL,10,"Sublime Text","Editor",2900,1.6,-17.2,-33.3
+2026-06,coding,PL,11,"Neovim","Editor",2900,1.6,0,0
+2026-06,coding,PL,12,"Xcode","IDE",2400,1.3,-17.2,0
+2026-06,coding,PL,13,"Zed","Editor",1000,0.6,23.1,81.8
+2026-06,coding,PL,14,"Windsurf","AI editor",720,0.4,0,-33
+2026-06,coding,PL,15,"Amazon Q","AI assistant",480,0.3,0,-33.3
+2026-06,coding,PL,16,"Eclipse","IDE",480,0.3,-18.7,-18.7
+2026-06,coding,SG,1,"Claude Code","AI coding agent",60500,49.6,-18.5,507.7
+2026-06,coding,SG,2,"VS Code","Editor",14800,12.1,0,82.8
+2026-06,coding,SG,3,"Replit","Cloud IDE",8100,6.6,-18.2,22.2
+2026-06,coding,SG,4,"GitHub Copilot","AI assistant",8100,6.6,-33.1,124.1
+2026-06,coding,SG,5,"PyCharm","IDE",6600,5.4,-18.2,-18.2
+2026-06,coding,SG,6,"Cursor","AI editor",5400,4.4,-18.5,-33.3
+2026-06,coding,SG,7,"Android Studio","IDE",5400,4.4,-18.2,22.7
+2026-06,coding,SG,8,"Visual Studio","IDE",4400,3.6,0,0
+2026-06,coding,SG,9,"IntelliJ IDEA","IDE",1900,1.6,0,-15.8
+2026-06,coding,SG,10,"Xcode","IDE",1900,1.6,0,50
+2026-06,coding,SG,11,"Sublime Text","Editor",1900,1.6,0,0
+2026-06,coding,SG,12,"Neovim","Editor",1300,1.1,-37.5,0
+2026-06,coding,SG,13,"Amazon Q","AI assistant",720,0.6,-33.3,-63.6
+2026-06,coding,SG,14,"Windsurf","AI editor",390,0.3,0,-45.8
+2026-06,coding,SG,15,"Zed","Editor",320,0.3,50,242.9
+2026-06,coding,SG,16,"Eclipse","IDE",260,0.2,0,-19.2
+2026-06,coding,SA,1,"Replit","Cloud IDE",22200,31.2,0,173.6
+2026-06,coding,SA,2,"VS Code","Editor",18100,25.4,0,124
+2026-06,coding,SA,3,"Claude Code","AI coding agent",8100,11.4,0,1031.3
+2026-06,coding,SA,4,"Visual Studio","IDE",5400,7.6,-18.5,22.2
+2026-06,coding,SA,5,"PyCharm","IDE",4400,6.2,0,24.1
+2026-06,coding,SA,6,"Cursor","AI editor",3600,5.1,-45.5,0
+2026-06,coding,SA,7,"Android Studio","IDE",3600,5.1,-18.2,24.1
+2026-06,coding,SA,8,"GitHub Copilot","AI assistant",1900,2.7,-20.8,18.8
+2026-06,coding,SA,9,"IntelliJ IDEA","IDE",1000,1.4,-32.3,0
+2026-06,coding,SA,10,"Xcode","IDE",1000,1.4,0,13.6
+2026-06,coding,SA,11,"Sublime Text","Editor",880,1.2,0,-18.6
+2026-06,coding,SA,12,"Windsurf","AI editor",320,0.4,0,-19.2
+2026-06,coding,SA,13,"Neovim","Editor",260,0.4,0,-18.7
+2026-06,coding,SA,14,"Eclipse","IDE",260,0.4,-34.6,54.5
+2026-06,coding,SA,15,"Zed","Editor",90,0.1,0,57.1
+2026-06,coding,SA,16,"Amazon Q","AI assistant",70,0.1,0,-28.6
