@@ -1,0 +1,337 @@
+snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
+2026-06,nocode,WW,1,"n8n","Automation",1392000,32.2,-6.1,-25.8
+2026-06,nocode,WW,2,"Zapier","Automation",520100,12,-12.7,-21.1
+2026-06,nocode,WW,3,"Airtable","Database",435300,10.1,-0.9,-1.9
+2026-06,nocode,WW,4,"Framer","No-code web",406900,9.4,0.2,24.6
+2026-06,nocode,WW,5,"Webflow","No-code web",311500,7.2,-6.1,-23.6
+2026-06,nocode,WW,6,"Typeform","Forms",266600,6.2,-11.7,-18
+2026-06,nocode,WW,7,"Carrd","No-code web",249700,5.8,-4.9,-11.8
+2026-06,nocode,WW,8,"AppSheet","Internal tools",236500,5.5,-11.8,23.8
+2026-06,nocode,WW,9,"Power Apps","Internal tools",164880,3.8,-5.1,-10.2
+2026-06,nocode,WW,10,"FlutterFlow","App builder",118160,2.7,-1.7,16.1
+2026-06,nocode,WW,11,"Retool","Internal tools",72080,1.7,-11.6,-8
+2026-06,nocode,WW,12,"Adalo","App builder",42750,1,-29.4,-34.5
+2026-06,nocode,WW,13,"Glide","App builder",31540,0.7,-25.5,25.8
+2026-06,nocode,WW,14,"Make","Automation",29840,0.7,-0.2,0.8
+2026-06,nocode,WW,15,"OutSystems","Enterprise",27690,0.6,-6.7,-22.2
+2026-06,nocode,WW,16,"Bubble","App builder",24100,0.6,-13.1,-41.3
+2026-06,nocode,US,1,"n8n","Automation",201000,20.6,-18.2,-45.1
+2026-06,nocode,US,2,"Airtable","Database",165000,16.9,0,0
+2026-06,nocode,US,3,"Zapier","Automation",165000,16.9,-18.2,-18.2
+2026-06,nocode,US,4,"Webflow","No-code web",90500,9.3,0,-18.2
+2026-06,nocode,US,5,"Carrd","No-code web",90500,9.3,0,-17.7
+2026-06,nocode,US,6,"Typeform","Forms",74000,7.6,-18.2,-18.2
+2026-06,nocode,US,7,"Framer","No-code web",74000,7.6,-18.2,0
+2026-06,nocode,US,8,"Power Apps","Internal tools",27100,2.8,-18.1,-18.1
+2026-06,nocode,US,9,"Retool","Internal tools",22200,2.3,0,-18.1
+2026-06,nocode,US,10,"AppSheet","Internal tools",22200,2.3,-33.2,22.3
+2026-06,nocode,US,11,"FlutterFlow","App builder",14800,1.5,0,0
+2026-06,nocode,US,12,"Adalo","App builder",8100,0.8,-33.3,-55.6
+2026-06,nocode,US,13,"Glide","App builder",6600,0.7,-18.2,-18.2
+2026-06,nocode,US,14,"Bubble","App builder",4400,0.5,-19.4,-34.1
+2026-06,nocode,US,15,"Make","Automation",4400,0.5,-18.5,-18.5
+2026-06,nocode,US,16,"OutSystems","Enterprise",4400,0.5,0,0
+2026-06,nocode,IN,1,"n8n","Automation",301000,42.7,0,0
+2026-06,nocode,IN,2,"Framer","No-code web",110000,15.6,0,21.5
+2026-06,nocode,IN,3,"Zapier","Automation",74000,10.5,0,0
+2026-06,nocode,IN,4,"Webflow","No-code web",40500,5.7,-18.3,-33.1
+2026-06,nocode,IN,5,"Airtable","Database",33100,4.7,0,0
+2026-06,nocode,IN,6,"AppSheet","Internal tools",27100,3.8,-18.1,22.1
+2026-06,nocode,IN,7,"FlutterFlow","App builder",27100,3.8,0,22.1
+2026-06,nocode,IN,8,"Power Apps","Internal tools",22200,3.1,0,-18.5
+2026-06,nocode,IN,9,"Carrd","No-code web",14800,2.1,0,0
+2026-06,nocode,IN,10,"Typeform","Forms",14800,2.1,0,-18.2
+2026-06,nocode,IN,11,"Make","Automation",9900,1.4,0,0
+2026-06,nocode,IN,12,"Adalo","App builder",8100,1.1,-33.3,-18.2
+2026-06,nocode,IN,13,"Retool","Internal tools",6600,0.9,0,-33.3
+2026-06,nocode,IN,14,"Glide","App builder",6600,0.9,-45.3,84.1
+2026-06,nocode,IN,15,"Bubble","App builder",5400,0.8,0,-55.6
+2026-06,nocode,IN,16,"OutSystems","Enterprise",4400,0.6,0,-18.5
+2026-06,nocode,GB,1,"n8n","Automation",49500,20.4,-18.3,-45.3
+2026-06,nocode,GB,2,"Zapier","Automation",40500,16.7,0,-18.3
+2026-06,nocode,GB,3,"Airtable","Database",33100,13.6,0,-18.1
+2026-06,nocode,GB,4,"Typeform","Forms",27100,11.1,0,-18.1
+2026-06,nocode,GB,5,"Webflow","No-code web",22200,9.1,0,-33.2
+2026-06,nocode,GB,6,"Framer","No-code web",22200,9.1,0,22.1
+2026-06,nocode,GB,7,"Carrd","No-code web",18100,7.4,-18.5,-18.5
+2026-06,nocode,GB,8,"Power Apps","Internal tools",9900,4.1,0,-18.2
+2026-06,nocode,GB,9,"Retool","Internal tools",4400,1.8,22.2,-18.5
+2026-06,nocode,GB,10,"AppSheet","Internal tools",4400,1.8,-18.2,0
+2026-06,nocode,GB,11,"FlutterFlow","App builder",4400,1.8,0,22.7
+2026-06,nocode,GB,12,"Adalo","App builder",1900,0.8,-31.6,-45.8
+2026-06,nocode,GB,13,"Glide","App builder",1600,0.7,-31.6,-18.7
+2026-06,nocode,GB,14,"Make","Automation",1600,0.7,23.1,-15.8
+2026-06,nocode,GB,15,"OutSystems","Enterprise",1300,0.5,-23.1,-37.5
+2026-06,nocode,GB,16,"Bubble","App builder",1000,0.4,0,-55
+2026-06,nocode,CA,1,"n8n","Automation",40500,23.5,-18.1,-45.3
+2026-06,nocode,CA,2,"Zapier","Automation",27100,15.7,-18.1,-18.1
+2026-06,nocode,CA,3,"Airtable","Database",22200,12.9,0,0
+2026-06,nocode,CA,4,"Webflow","No-code web",18100,10.5,0,-18.2
+2026-06,nocode,CA,5,"Framer","No-code web",18100,10.5,0,22.3
+2026-06,nocode,CA,6,"Carrd","No-code web",14800,8.6,0,0
+2026-06,nocode,CA,7,"Typeform","Forms",12100,7,0,-18.2
+2026-06,nocode,CA,8,"Power Apps","Internal tools",6600,3.8,0,0
+2026-06,nocode,CA,9,"AppSheet","Internal tools",3600,2.1,0,51.7
+2026-06,nocode,CA,10,"FlutterFlow","App builder",2900,1.7,-19.4,0
+2026-06,nocode,CA,11,"Retool","Internal tools",2400,1.4,0,-17.2
+2026-06,nocode,CA,12,"Adalo","App builder",1300,0.8,-28,-44.6
+2026-06,nocode,CA,13,"Glide","App builder",1000,0.6,-12,-12
+2026-06,nocode,CA,14,"Make","Automation",880,0.5,0,0
+2026-06,nocode,CA,15,"Bubble","App builder",720,0.4,0,-45.5
+2026-06,nocode,CA,16,"OutSystems","Enterprise",390,0.2,0,-33.3
+2026-06,nocode,AU,1,"n8n","Automation",27100,22.6,-18.5,-45.3
+2026-06,nocode,AU,2,"Zapier","Automation",18100,15.1,0,-18.5
+2026-06,nocode,AU,3,"Airtable","Database",14800,12.3,0,0
+2026-06,nocode,AU,4,"Webflow","No-code web",12100,10.1,22.2,0
+2026-06,nocode,AU,5,"Typeform","Forms",12100,10.1,0,0
+2026-06,nocode,AU,6,"Framer","No-code web",12100,10.1,0,22.3
+2026-06,nocode,AU,7,"Carrd","No-code web",8100,6.8,0,-18.2
+2026-06,nocode,AU,8,"Power Apps","Internal tools",5400,4.5,22.7,0
+2026-06,nocode,AU,9,"AppSheet","Internal tools",2400,2,0,52.6
+2026-06,nocode,AU,10,"FlutterFlow","App builder",2400,2,0,20.8
+2026-06,nocode,AU,11,"Retool","Internal tools",1600,1.3,0,-31.6
+2026-06,nocode,AU,12,"Adalo","App builder",1000,0.8,0,-32.3
+2026-06,nocode,AU,13,"OutSystems","Enterprise",880,0.7,0,-28
+2026-06,nocode,AU,14,"Glide","App builder",720,0.6,-18.2,-28
+2026-06,nocode,AU,15,"Bubble","App builder",590,0.5,0,-33
+2026-06,nocode,AU,16,"Make","Automation",590,0.5,0,0
+2026-06,nocode,DE,1,"n8n","Automation",110000,46.4,21.5,21.5
+2026-06,nocode,DE,2,"Zapier","Automation",22200,9.4,-18.5,-33.2
+2026-06,nocode,DE,3,"Webflow","No-code web",22200,9.4,0,-18.5
+2026-06,nocode,DE,4,"Airtable","Database",18100,7.6,0,0
+2026-06,nocode,DE,5,"Framer","No-code web",18100,7.6,0,22.3
+2026-06,nocode,DE,6,"Typeform","Forms",12100,5.1,-18.2,-18.2
+2026-06,nocode,DE,7,"Carrd","No-code web",8100,3.4,0,0
+2026-06,nocode,DE,8,"Power Apps","Internal tools",8100,3.4,0,22.7
+2026-06,nocode,DE,9,"FlutterFlow","App builder",4400,1.9,0,50
+2026-06,nocode,DE,10,"AppSheet","Internal tools",3600,1.5,-18.5,83.3
+2026-06,nocode,DE,11,"Retool","Internal tools",2900,1.2,-17.2,-17.2
+2026-06,nocode,DE,12,"Make","Automation",2400,1,0,0
+2026-06,nocode,DE,13,"Adalo","App builder",1600,0.7,-23.1,-47.4
+2026-06,nocode,DE,14,"OutSystems","Enterprise",1300,0.5,-12,-32.3
+2026-06,nocode,DE,15,"Bubble","App builder",1000,0.4,-18.1,-41
+2026-06,nocode,DE,16,"Glide","App builder",880,0.4,-12,0
+2026-06,nocode,FR,1,"n8n","Automation",74000,27.6,-18.2,-33.1
+2026-06,nocode,FR,2,"Airtable","Database",40500,15.1,-18.3,-18.3
+2026-06,nocode,FR,3,"Zapier","Automation",27100,10.1,-18.5,-33.2
+2026-06,nocode,FR,4,"Webflow","No-code web",27100,10.1,-18.1,-32.9
+2026-06,nocode,FR,5,"Typeform","Forms",27100,10.1,-33.2,-33.2
+2026-06,nocode,FR,6,"Framer","No-code web",27100,10.1,0,22.1
+2026-06,nocode,FR,7,"Carrd","No-code web",9900,3.7,-18.2,0
+2026-06,nocode,FR,8,"Power Apps","Internal tools",9900,3.7,-18.2,0
+2026-06,nocode,FR,9,"FlutterFlow","App builder",8100,3,0,0
+2026-06,nocode,FR,10,"AppSheet","Internal tools",5400,2,-18.2,22.7
+2026-06,nocode,FR,11,"Adalo","App builder",3600,1.3,-17.2,-33.3
+2026-06,nocode,FR,12,"Retool","Internal tools",2900,1.1,-20.8,-34.5
+2026-06,nocode,FR,13,"Glide","App builder",1900,0.7,-20.8,0
+2026-06,nocode,FR,14,"Bubble","App builder",1300,0.5,-12,-45
+2026-06,nocode,FR,15,"Make","Automation",1300,0.5,0,23.1
+2026-06,nocode,FR,16,"OutSystems","Enterprise",480,0.2,-18.7,-33.9
+2026-06,nocode,BR,1,"n8n","Automation",165000,43.9,0,-32.8
+2026-06,nocode,BR,2,"Zapier","Automation",27100,7.2,-18.1,-32.9
+2026-06,nocode,BR,3,"AppSheet","Internal tools",27100,7.2,0,49.1
+2026-06,nocode,BR,4,"Carrd","No-code web",22200,5.9,-18.1,-18.1
+2026-06,nocode,BR,5,"Typeform","Forms",22200,5.9,0,0
+2026-06,nocode,BR,6,"Framer","No-code web",22200,5.9,0,22.1
+2026-06,nocode,BR,7,"Power Apps","Internal tools",22200,5.9,0,-18.1
+2026-06,nocode,BR,8,"FlutterFlow","App builder",22200,5.9,-18.1,-18.1
+2026-06,nocode,BR,9,"Airtable","Database",14800,3.9,0,0
+2026-06,nocode,BR,10,"Webflow","No-code web",12100,3.2,-18.2,-18.2
+2026-06,nocode,BR,11,"Glide","App builder",4400,1.2,0,50
+2026-06,nocode,BR,12,"Bubble","App builder",4400,1.2,-34.1,-46.3
+2026-06,nocode,BR,13,"Adalo","App builder",3600,1,-46.3,-19.4
+2026-06,nocode,BR,14,"Retool","Internal tools",2900,0.8,-17.2,-17.2
+2026-06,nocode,BR,15,"OutSystems","Enterprise",2400,0.6,26.3,-17.2
+2026-06,nocode,BR,16,"Make","Automation",1000,0.3,0,0
+2026-06,nocode,MX,1,"n8n","Automation",33100,26.5,0,-33.1
+2026-06,nocode,MX,2,"AppSheet","Internal tools",22200,17.8,-18.1,0
+2026-06,nocode,MX,3,"Airtable","Database",12100,9.7,0,0
+2026-06,nocode,MX,4,"Zapier","Automation",12100,9.7,-18.2,-18.2
+2026-06,nocode,MX,5,"Typeform","Forms",8100,6.5,-18.2,-33.1
+2026-06,nocode,MX,6,"Power Apps","Internal tools",8100,6.5,0,0
+2026-06,nocode,MX,7,"Webflow","No-code web",6600,5.3,0,-18.5
+2026-06,nocode,MX,8,"Carrd","No-code web",6600,5.3,0,0
+2026-06,nocode,MX,9,"Framer","No-code web",6600,5.3,0,50
+2026-06,nocode,MX,10,"FlutterFlow","App builder",4400,3.5,22.7,50
+2026-06,nocode,MX,11,"Adalo","App builder",1600,1.3,-17.2,0
+2026-06,nocode,MX,12,"Glide","App builder",1300,1,-33.3,23.1
+2026-06,nocode,MX,13,"Retool","Internal tools",1000,0.8,0,0
+2026-06,nocode,MX,14,"Make","Automation",480,0.4,0,0
+2026-06,nocode,MX,15,"Bubble","App builder",390,0.3,-18.7,0
+2026-06,nocode,MX,16,"OutSystems","Enterprise",320,0.3,-33.3,-33.3
+2026-06,nocode,ID,1,"n8n","Automation",49500,28.8,22.2,-33.1
+2026-06,nocode,ID,2,"AppSheet","Internal tools",49500,28.8,0,22.2
+2026-06,nocode,ID,3,"Framer","No-code web",18100,10.5,49.1,123.6
+2026-06,nocode,ID,4,"Carrd","No-code web",14800,8.6,0,-18.2
+2026-06,nocode,ID,5,"Airtable","Database",8100,4.7,0,0
+2026-06,nocode,ID,6,"Zapier","Automation",8100,4.7,0,-18.2
+2026-06,nocode,ID,7,"Webflow","No-code web",6600,3.8,0,-33.3
+2026-06,nocode,ID,8,"Typeform","Forms",5400,3.1,-18.2,-18.2
+2026-06,nocode,ID,9,"Power Apps","Internal tools",2900,1.7,-17.2,-17.2
+2026-06,nocode,ID,10,"FlutterFlow","App builder",2900,1.7,0,24.1
+2026-06,nocode,ID,11,"Glide","App builder",1900,1.1,-19.4,52.6
+2026-06,nocode,ID,12,"Adalo","App builder",1300,0.8,23.1,0
+2026-06,nocode,ID,13,"Bubble","App builder",1000,0.6,0,30
+2026-06,nocode,ID,14,"Retool","Internal tools",880,0.5,0,-12
+2026-06,nocode,ID,15,"Make","Automation",590,0.3,0,22.2
+2026-06,nocode,ID,16,"OutSystems","Enterprise",590,0.3,0,-18.6
+2026-06,nocode,JP,1,"n8n","Automation",40500,28.2,-18.1,-45.3
+2026-06,nocode,JP,2,"AppSheet","Internal tools",27100,18.9,-18.1,0
+2026-06,nocode,JP,3,"Zapier","Automation",22200,15.5,-18.2,-45.4
+2026-06,nocode,JP,4,"Power Apps","Internal tools",14800,10.3,-18.2,-33.1
+2026-06,nocode,JP,5,"Airtable","Database",8100,5.6,0,0
+2026-06,nocode,JP,6,"Framer","No-code web",5400,3.8,0,50
+2026-06,nocode,JP,7,"OutSystems","Enterprise",5400,3.8,-18.5,-33.3
+2026-06,nocode,JP,8,"Webflow","No-code web",4400,3.1,-18.2,-33.3
+2026-06,nocode,JP,9,"Carrd","No-code web",4400,3.1,0,-18.2
+2026-06,nocode,JP,10,"FlutterFlow","App builder",2900,2,22.2,51.7
+2026-06,nocode,JP,11,"Adalo","App builder",2900,2,-33.3,-44.8
+2026-06,nocode,JP,12,"Typeform","Forms",2400,1.7,-17.2,-17.2
+2026-06,nocode,JP,13,"Retool","Internal tools",1900,1.3,-15.8,-15.8
+2026-06,nocode,JP,14,"Make","Automation",480,0.3,0,50
+2026-06,nocode,JP,15,"Bubble","App builder",320,0.2,-19.2,-46.2
+2026-06,nocode,JP,16,"Glide","App builder",260,0.2,-18.7,23.8
+2026-06,nocode,KR,1,"n8n","Automation",40500,49.1,-18.1,0
+2026-06,nocode,KR,2,"Framer","No-code web",9900,12,0,0
+2026-06,nocode,KR,3,"Zapier","Automation",8100,9.8,-18.5,-33.3
+2026-06,nocode,KR,4,"Airtable","Database",4400,5.3,0,-18.5
+2026-06,nocode,KR,5,"Carrd","No-code web",4400,5.3,0,0
+2026-06,nocode,KR,6,"Webflow","No-code web",2900,3.5,0,-33.3
+2026-06,nocode,KR,7,"AppSheet","Internal tools",2900,3.5,-19.4,20.8
+2026-06,nocode,KR,8,"Typeform","Forms",2400,2.9,-20.8,-34.5
+2026-06,nocode,KR,9,"FlutterFlow","App builder",2400,2.9,0,20.8
+2026-06,nocode,KR,10,"Retool","Internal tools",1000,1.2,0,-45
+2026-06,nocode,KR,11,"Power Apps","Internal tools",880,1.1,0,-32.3
+2026-06,nocode,KR,12,"Make","Automation",720,0.9,-18.1,-41
+2026-06,nocode,KR,13,"OutSystems","Enterprise",720,0.9,0,0
+2026-06,nocode,KR,14,"Bubble","App builder",590,0.7,0,-63.6
+2026-06,nocode,KR,15,"Adalo","App builder",480,0.6,-33.3,-55.9
+2026-06,nocode,KR,16,"Glide","App builder",170,0.2,-19.2,50
+2026-06,nocode,IT,1,"n8n","Automation",33100,30.6,0,-18.1
+2026-06,nocode,IT,2,"Airtable","Database",12100,11.2,0,22.2
+2026-06,nocode,IT,3,"Zapier","Automation",12100,11.2,-18.2,-33.1
+2026-06,nocode,IT,4,"Framer","No-code web",9900,9.1,0,49.4
+2026-06,nocode,IT,5,"Webflow","No-code web",8100,7.5,-18.5,-18.5
+2026-06,nocode,IT,6,"Typeform","Forms",8100,7.5,-18.2,-18.2
+2026-06,nocode,IT,7,"Carrd","No-code web",6600,6.1,0,22.7
+2026-06,nocode,IT,8,"AppSheet","Internal tools",6600,6.1,-18.5,50
+2026-06,nocode,IT,9,"Power Apps","Internal tools",3600,3.3,0,22.2
+2026-06,nocode,IT,10,"FlutterFlow","App builder",2900,2.7,0,50
+2026-06,nocode,IT,11,"Adalo","App builder",1600,1.5,-18.7,-18.7
+2026-06,nocode,IT,12,"Retool","Internal tools",1000,0.9,0,-23.1
+2026-06,nocode,IT,13,"Glide","App builder",1000,0.9,-18.7,30
+2026-06,nocode,IT,14,"Make","Automation",720,0.7,0,69.5
+2026-06,nocode,IT,15,"Bubble","App builder",390,0.4,21.9,21.9
+2026-06,nocode,IT,16,"OutSystems","Enterprise",390,0.4,52.4,-33.3
+2026-06,nocode,ES,1,"n8n","Automation",60500,34.7,-18.2,-33.1
+2026-06,nocode,ES,2,"Airtable","Database",18100,10.4,22.7,22.7
+2026-06,nocode,ES,3,"Zapier","Automation",18100,10.4,0,-18.5
+2026-06,nocode,ES,4,"Typeform","Forms",18100,10.4,0,-18.5
+2026-06,nocode,ES,5,"Framer","No-code web",14800,8.5,22.3,49.6
+2026-06,nocode,ES,6,"Webflow","No-code web",9900,5.7,-18.2,-18.2
+2026-06,nocode,ES,7,"AppSheet","Internal tools",9900,5.7,0,50
+2026-06,nocode,ES,8,"Carrd","No-code web",8100,4.6,0,0
+2026-06,nocode,ES,9,"Power Apps","Internal tools",6600,3.8,22.7,22.7
+2026-06,nocode,ES,10,"FlutterFlow","App builder",3600,2.1,0,22.2
+2026-06,nocode,ES,11,"Retool","Internal tools",1600,0.9,0,0
+2026-06,nocode,ES,12,"Adalo","App builder",1600,0.9,-37.5,-47.4
+2026-06,nocode,ES,13,"Make","Automation",1300,0.7,0,0
+2026-06,nocode,ES,14,"Glide","App builder",1000,0.6,-15.8,81.8
+2026-06,nocode,ES,15,"OutSystems","Enterprise",720,0.4,0,-18.2
+2026-06,nocode,ES,16,"Bubble","App builder",480,0.3,-18.7,-18.7
+2026-06,nocode,NL,1,"n8n","Automation",33100,33.9,-18.1,-45.2
+2026-06,nocode,NL,2,"Zapier","Automation",12100,12.4,-18.2,-45.3
+2026-06,nocode,NL,3,"Framer","No-code web",12100,12.4,22.2,22.2
+2026-06,nocode,NL,4,"Typeform","Forms",9900,10.1,0,-18.2
+2026-06,nocode,NL,5,"Airtable","Database",8100,8.3,0,0
+2026-06,nocode,NL,6,"Webflow","No-code web",8100,8.3,0,-18.5
+2026-06,nocode,NL,7,"Carrd","No-code web",3600,3.7,0,0
+2026-06,nocode,NL,8,"Power Apps","Internal tools",2900,3,-17.2,0
+2026-06,nocode,NL,9,"FlutterFlow","App builder",1600,1.6,18.8,18.8
+2026-06,nocode,NL,10,"OutSystems","Enterprise",1600,1.6,-18.7,-18.7
+2026-06,nocode,NL,11,"Retool","Internal tools",1300,1.3,0,-23.1
+2026-06,nocode,NL,12,"AppSheet","Internal tools",1300,1.3,50,172.7
+2026-06,nocode,NL,13,"Adalo","App builder",590,0.6,-33.9,-45.8
+2026-06,nocode,NL,14,"Make","Automation",590,0.6,-18.6,-33.3
+2026-06,nocode,NL,15,"Glide","App builder",390,0.4,-18.7,0
+2026-06,nocode,NL,16,"Bubble","App builder",320,0.3,23.5,-34.4
+2026-06,nocode,TR,1,"n8n","Automation",40500,43.2,-18.1,-18.1
+2026-06,nocode,TR,2,"Retool","Internal tools",14800,15.8,-33.3,124.2
+2026-06,nocode,TR,3,"Framer","No-code web",6600,7,0,50
+2026-06,nocode,TR,4,"Zapier","Automation",5400,5.8,-18.5,-18.5
+2026-06,nocode,TR,5,"FlutterFlow","App builder",5400,5.8,0,127.6
+2026-06,nocode,TR,6,"Airtable","Database",4400,4.7,-18.2,-18.2
+2026-06,nocode,TR,7,"Webflow","No-code web",4400,4.7,0,-33.3
+2026-06,nocode,TR,8,"AppSheet","Internal tools",2900,3.1,-34.1,81.3
+2026-06,nocode,TR,9,"Carrd","No-code web",2400,2.6,0,20.8
+2026-06,nocode,TR,10,"Typeform","Forms",1900,2,-15.8,-15.8
+2026-06,nocode,TR,11,"Power Apps","Internal tools",1900,2,-33.3,23.1
+2026-06,nocode,TR,12,"Adalo","App builder",1300,1.4,-32.3,-12
+2026-06,nocode,TR,13,"Bubble","App builder",720,0.8,0,-18.1
+2026-06,nocode,TR,14,"Glide","App builder",590,0.6,-28,125
+2026-06,nocode,TR,15,"Make","Automation",480,0.5,0,84.6
+2026-06,nocode,TR,16,"OutSystems","Enterprise",140,0.1,-22.2,-58.8
+2026-06,nocode,VN,1,"n8n","Automation",27100,38.8,-18.1,-18.1
+2026-06,nocode,VN,2,"AppSheet","Internal tools",12100,17.3,0,22.2
+2026-06,nocode,VN,3,"Framer","No-code web",6600,9.5,0,50
+2026-06,nocode,VN,4,"Airtable","Database",4400,6.3,0,0
+2026-06,nocode,VN,5,"Zapier","Automation",4400,6.3,-18.5,-18.5
+2026-06,nocode,VN,6,"Webflow","No-code web",3600,5.2,0,-34.1
+2026-06,nocode,VN,7,"Carrd","No-code web",3600,5.2,-18.2,-18.2
+2026-06,nocode,VN,8,"Power Apps","Internal tools",2900,4.2,20.8,20.8
+2026-06,nocode,VN,9,"Typeform","Forms",1600,2.3,0,0
+2026-06,nocode,VN,10,"FlutterFlow","App builder",880,1.3,30,30
+2026-06,nocode,VN,11,"Retool","Internal tools",720,1,-18.6,-33.3
+2026-06,nocode,VN,12,"Make","Automation",590,0.8,-18.1,-41
+2026-06,nocode,VN,13,"OutSystems","Enterprise",480,0.7,-18.7,-18.7
+2026-06,nocode,VN,14,"Adalo","App builder",390,0.6,-19.2,-56.2
+2026-06,nocode,VN,15,"Glide","App builder",260,0.4,0,182.4
+2026-06,nocode,VN,16,"Bubble","App builder",140,0.2,-22.2,-58.8
+2026-06,nocode,PL,1,"n8n","Automation",33100,40.4,0,-18.1
+2026-06,nocode,PL,2,"Zapier","Automation",8100,9.9,-18.5,-33.3
+2026-06,nocode,PL,3,"Webflow","No-code web",8100,9.9,0,-18.5
+2026-06,nocode,PL,4,"Airtable","Database",6600,8.1,0,0
+2026-06,nocode,PL,5,"Framer","No-code web",6600,8.1,0,22.7
+2026-06,nocode,PL,6,"Carrd","No-code web",4400,5.4,0,0
+2026-06,nocode,PL,7,"Power Apps","Internal tools",4400,5.4,0,22.2
+2026-06,nocode,PL,8,"Typeform","Forms",2900,3.5,0,0
+2026-06,nocode,PL,9,"AppSheet","Internal tools",1900,2.3,0,50
+2026-06,nocode,PL,10,"FlutterFlow","App builder",1600,2,-20.8,46.2
+2026-06,nocode,PL,11,"Make","Automation",1300,1.6,90,90
+2026-06,nocode,PL,12,"Retool","Internal tools",1000,1.2,-12,-12
+2026-06,nocode,PL,13,"Adalo","App builder",590,0.7,-18.6,-33.3
+2026-06,nocode,PL,14,"Bubble","App builder",590,0.7,0,-18.6
+2026-06,nocode,PL,15,"OutSystems","Enterprise",390,0.5,-17.9,-17.9
+2026-06,nocode,PL,16,"Glide","App builder",260,0.3,-18.7,23.8
+2026-06,nocode,SG,1,"n8n","Automation",18100,38,0,-18.2
+2026-06,nocode,SG,2,"Zapier","Automation",5400,11.3,-18.5,-18.5
+2026-06,nocode,SG,3,"Airtable","Database",4400,9.2,0,0
+2026-06,nocode,SG,4,"Framer","No-code web",3600,7.6,22.2,51.7
+2026-06,nocode,SG,5,"Power Apps","Internal tools",2900,6.1,0,0
+2026-06,nocode,SG,6,"Webflow","No-code web",2400,5,0,-17.2
+2026-06,nocode,SG,7,"Carrd","No-code web",2400,5,-17.2,-17.2
+2026-06,nocode,SG,8,"Typeform","Forms",2400,5,-20.8,-34.5
+2026-06,nocode,SG,9,"AppSheet","Internal tools",2400,5,-17.2,0
+2026-06,nocode,SG,10,"OutSystems","Enterprise",1000,2.1,-12,-32.3
+2026-06,nocode,SG,11,"FlutterFlow","App builder",880,1.8,0,0
+2026-06,nocode,SG,12,"Retool","Internal tools",720,1.5,-18.1,-18.1
+2026-06,nocode,SG,13,"Adalo","App builder",320,0.7,-46.2,-56.2
+2026-06,nocode,SG,14,"Glide","App builder",320,0.7,-33.3,-33.3
+2026-06,nocode,SG,15,"Make","Automation",260,0.5,0,23.1
+2026-06,nocode,SG,16,"Bubble","App builder",140,0.3,-35.7,-47.1
+2026-06,nocode,SA,1,"n8n","Automation",14800,39.8,0,0
+2026-06,nocode,SA,2,"Airtable","Database",2900,7.8,0,20.8
+2026-06,nocode,SA,3,"Zapier","Automation",2900,7.8,-17.2,-17.2
+2026-06,nocode,SA,4,"Framer","No-code web",2900,7.8,0,50
+2026-06,nocode,SA,5,"FlutterFlow","App builder",2400,6.5,22.2,175
+2026-06,nocode,SA,6,"Carrd","No-code web",1900,5.1,-20.8,0
+2026-06,nocode,SA,7,"Typeform","Forms",1900,5.1,-15.8,0
+2026-06,nocode,SA,8,"AppSheet","Internal tools",1900,5.1,0,84.6
+2026-06,nocode,SA,9,"Webflow","No-code web",1600,4.3,-18.7,-18.7
+2026-06,nocode,SA,10,"Power Apps","Internal tools",1600,4.3,0,23.1
+2026-06,nocode,SA,11,"Adalo","App builder",880,2.4,-41,-18.1
+2026-06,nocode,SA,12,"Glide","App builder",390,1,-33,181
+2026-06,nocode,SA,13,"OutSystems","Enterprise",390,1,-33.3,-33.3
+2026-06,nocode,SA,14,"Retool","Internal tools",260,0.7,-34.4,-34.4
+2026-06,nocode,SA,15,"Make","Automation",260,0.7,23.1,84.6
+2026-06,nocode,SA,16,"Bubble","App builder",210,0.6,23.5,0

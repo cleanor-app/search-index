@@ -191,6 +191,29 @@
         { "name": "Rank Math", "vendor": "WordPress plugin", "keys": ["rank math"] },
         { "name": "Mangools", "vendor": "Keyword research", "keys": ["mangools"] }
       ]
+    },
+    "nocode": {
+      "_note": "No-code app/automation/web builders. Scope excludes mass-market website builders (Wix) and productivity docs (Notion, Coda) -> those get their own studies. Softr excluded: 'softr' returns ~368k, clearly polluted (a niche tool cannot outrank Webflow 4x), and no clean disambiguation exists. Common-word brands disambiguated: bubble->'bubble io', make->'make com', glide->'glide apps' (bare terms are the soap bubble / the verb / the sport-glide); these heavily undercount two top tools (Bubble, Make) but stay honest per the method note.",
+      "label": "No-code tools",
+      "unit": "no-code tool",
+      "brands": [
+        { "name": "n8n", "vendor": "Automation", "keys": ["n8n"] },
+        { "name": "Airtable", "vendor": "Database", "keys": ["airtable"] },
+        { "name": "Zapier", "vendor": "Automation", "keys": ["zapier"] },
+        { "name": "Webflow", "vendor": "No-code web", "keys": ["webflow"] },
+        { "name": "Carrd", "vendor": "No-code web", "keys": ["carrd"] },
+        { "name": "Typeform", "vendor": "Forms", "keys": ["typeform"] },
+        { "name": "Framer", "vendor": "No-code web", "keys": ["framer"] },
+        { "name": "Power Apps", "vendor": "Internal tools", "keys": ["power apps"] },
+        { "name": "Retool", "vendor": "Internal tools", "keys": ["retool"] },
+        { "name": "AppSheet", "vendor": "Internal tools", "keys": ["appsheet"] },
+        { "name": "FlutterFlow", "vendor": "App builder", "keys": ["flutterflow"] },
+        { "name": "Adalo", "vendor": "App builder", "keys": ["adalo"] },
+        { "name": "Glide", "vendor": "App builder", "keys": ["glide apps"] },
+        { "name": "Bubble", "vendor": "App builder", "keys": ["bubble io"] },
+        { "name": "Make", "vendor": "Automation", "keys": ["make com"] },
+        { "name": "OutSystems", "vendor": "Enterprise", "keys": ["outsystems"] }
+      ]
     }
   }
 }
