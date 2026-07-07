@@ -168,6 +168,29 @@
         { "name": "Zed", "vendor": "Editor", "keys": ["zed editor"] },
         { "name": "Eclipse", "vendor": "IDE", "keys": ["eclipse ide"] }
       ]
+    },
+    "seo": {
+      "_note": "SEO tools by search demand. Google Search Console (free, Google's own) is the most-searched, so it leads; the paid all-in-one war (Semrush vs Ahrefs vs Moz) sits below. 'moz' kept bare (the SEO brand dominates the exact string; Mozilla is searched as 'mozilla'/'firefox'). Includes SEO-adjacent staples people actually use in the workflow (Similarweb, GTmetrix).",
+      "label": "SEO tools",
+      "unit": "SEO tool",
+      "brands": [
+        { "name": "Google Search Console", "vendor": "Free · Google", "keys": ["google search console"] },
+        { "name": "Semrush", "vendor": "All-in-one", "keys": ["semrush"] },
+        { "name": "Ahrefs", "vendor": "All-in-one", "keys": ["ahrefs"] },
+        { "name": "Similarweb", "vendor": "Traffic analytics", "keys": ["similarweb"] },
+        { "name": "Ubersuggest", "vendor": "Keyword research", "keys": ["ubersuggest"] },
+        { "name": "AnswerThePublic", "vendor": "Keyword research", "keys": ["answerthepublic"] },
+        { "name": "Screaming Frog", "vendor": "Crawler", "keys": ["screaming frog"] },
+        { "name": "Moz", "vendor": "All-in-one", "keys": ["moz"] },
+        { "name": "GTmetrix", "vendor": "Page speed", "keys": ["gtmetrix"] },
+        { "name": "SE Ranking", "vendor": "Rank tracking", "keys": ["se ranking"] },
+        { "name": "SpyFu", "vendor": "Competitor research", "keys": ["spyfu"] },
+        { "name": "Surfer SEO", "vendor": "Content SEO", "keys": ["surfer seo"] },
+        { "name": "BrightEdge", "vendor": "Enterprise", "keys": ["brightedge"] },
+        { "name": "Yoast", "vendor": "WordPress plugin", "keys": ["yoast"] },
+        { "name": "Rank Math", "vendor": "WordPress plugin", "keys": ["rank math"] },
+        { "name": "Mangools", "vendor": "Keyword research", "keys": ["mangools"] }
+      ]
     }
   }
 }
