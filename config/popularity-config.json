@@ -80,6 +80,28 @@
         { "name": "SQL", "vendor": "Data", "keys": ["sql"] },
         { "name": "R", "vendor": "Data / stats", "keys": ["r programming"] }
       ]
+    },
+    "apps": {
+      "label": "Consumer apps",
+      "unit": "app",
+      "brands": [
+        { "name": "WhatsApp", "vendor": "Meta", "keys": ["whatsapp"] },
+        { "name": "Instagram", "vendor": "Meta", "keys": ["instagram"] },
+        { "name": "TikTok", "vendor": "ByteDance", "keys": ["tiktok"] },
+        { "name": "Facebook", "vendor": "Meta", "keys": ["facebook"] },
+        { "name": "YouTube", "vendor": "Google", "keys": ["youtube"] },
+        { "name": "Telegram", "vendor": "Telegram", "keys": ["telegram"] },
+        { "name": "Snapchat", "vendor": "Snap", "keys": ["snapchat"] },
+        { "name": "Spotify", "vendor": "Spotify", "keys": ["spotify"] },
+        { "name": "Netflix", "vendor": "Netflix", "keys": ["netflix"] },
+        { "name": "Discord", "vendor": "Discord", "keys": ["discord"] },
+        { "name": "Roblox", "vendor": "Roblox", "keys": ["roblox"] },
+        { "name": "Pinterest", "vendor": "Pinterest", "keys": ["pinterest"] },
+        { "name": "Reddit", "vendor": "Reddit", "keys": ["reddit"] },
+        { "name": "Twitter", "vendor": "X Corp", "keys": ["twitter"] },
+        { "name": "Temu", "vendor": "PDD", "keys": ["temu"] },
+        { "name": "CapCut", "vendor": "ByteDance", "keys": ["capcut"] }
+      ]
     }
   }
 }
