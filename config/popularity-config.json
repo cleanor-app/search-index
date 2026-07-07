@@ -214,6 +214,29 @@
         { "name": "Make", "vendor": "Automation", "keys": ["make com"] },
         { "name": "OutSystems", "vendor": "Enterprise", "keys": ["outsystems"] }
       ]
+    },
+    "design": {
+      "_note": "Design tools by search demand. Canva dominates (~24.9M US alone) so it takes a huge share; that IS the story. Disambiguated common-word brands: sketch->'sketch app' (sketch=drawing), illustrator->'adobe illustrator' (illustrator=the profession). Excluded because their bare term is unrecoverable pollution: Spline (spline=math curve), Whimsical (=the adjective, 135k). Framer lives in the nocode study, not here. Photoshop kept bare (unambiguous); head-term split means Photopea can edge it.",
+      "label": "Design tools",
+      "unit": "design tool",
+      "brands": [
+        { "name": "Canva", "vendor": "All-in-one", "keys": ["canva"] },
+        { "name": "Figma", "vendor": "UI/UX", "keys": ["figma"] },
+        { "name": "Photopea", "vendor": "Photo editor", "keys": ["photopea"] },
+        { "name": "Photoshop", "vendor": "Image editing", "keys": ["photoshop"] },
+        { "name": "GIMP", "vendor": "Image editing", "keys": ["gimp"] },
+        { "name": "Miro", "vendor": "Whiteboard", "keys": ["miro"] },
+        { "name": "Adobe Illustrator", "vendor": "Vector", "keys": ["adobe illustrator"] },
+        { "name": "Procreate", "vendor": "Illustration", "keys": ["procreate"] },
+        { "name": "Zeplin", "vendor": "Handoff", "keys": ["zeplin"] },
+        { "name": "FigJam", "vendor": "Whiteboard", "keys": ["figjam"] },
+        { "name": "Affinity Designer", "vendor": "Vector", "keys": ["affinity designer"] },
+        { "name": "InVision", "vendor": "Prototyping", "keys": ["invision"] },
+        { "name": "Lunacy", "vendor": "UI/UX", "keys": ["lunacy"] },
+        { "name": "Adobe XD", "vendor": "UI/UX", "keys": ["adobe xd"] },
+        { "name": "Sketch", "vendor": "UI/UX", "keys": ["sketch app"] },
+        { "name": "Penpot", "vendor": "UI/UX", "keys": ["penpot"] }
+      ]
     }
   }
 }

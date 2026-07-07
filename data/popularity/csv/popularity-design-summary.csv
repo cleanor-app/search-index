@@ -1,0 +1,337 @@
+snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
+2026-06,design,WW,1,"Canva","All-in-one",116573000,91.9,3.8,32.3
+2026-06,design,WW,2,"Figma","UI/UX",3563600,2.8,-6.1,11.4
+2026-06,design,WW,3,"Photopea","Photo editor",2253100,1.8,-0.5,2
+2026-06,design,WW,4,"Photoshop","Image editing",1321300,1,-8.3,-16.8
+2026-06,design,WW,5,"Miro","Whiteboard",1064800,0.8,-7.4,-3.7
+2026-06,design,WW,6,"GIMP","Image editing",661500,0.5,-7.1,-18.9
+2026-06,design,WW,7,"Adobe Illustrator","Vector",362900,0.3,-9.2,-13.7
+2026-06,design,WW,8,"Procreate","Illustration",349200,0.3,0.6,-11.1
+2026-06,design,WW,9,"Zeplin","Handoff",287590,0.2,4.1,-3.3
+2026-06,design,WW,10,"FigJam","Whiteboard",113860,0.1,-6,-26
+2026-06,design,WW,11,"Affinity Designer","Vector",90880,0.1,-7.4,-22.9
+2026-06,design,WW,12,"Adobe XD","UI/UX",47670,0,-16.7,-62.4
+2026-06,design,WW,13,"Penpot","UI/UX",43850,0,-6,30.8
+2026-06,design,WW,14,"Lunacy","UI/UX",26650,0,-9.8,6.3
+2026-06,design,WW,15,"InVision","Prototyping",25980,0,-16.6,-41.5
+2026-06,design,WW,16,"Sketch","UI/UX",20640,0,0,-18.8
+2026-06,design,US,1,"Canva","All-in-one",24900000,92.6,0,123.5
+2026-06,design,US,2,"Figma","UI/UX",550000,2,-18.2,22.3
+2026-06,design,US,3,"Photopea","Photo editor",450000,1.7,0,22.3
+2026-06,design,US,4,"Photoshop","Image editing",301000,1.1,-18.3,0
+2026-06,design,US,5,"GIMP","Image editing",165000,0.6,0,-18.2
+2026-06,design,US,6,"Miro","Whiteboard",135000,0.5,0,0
+2026-06,design,US,7,"Adobe Illustrator","Vector",110000,0.4,-17.7,0
+2026-06,design,US,8,"Procreate","Illustration",110000,0.4,0,0
+2026-06,design,US,9,"Zeplin","Handoff",74000,0.3,0,0
+2026-06,design,US,10,"FigJam","Whiteboard",40500,0.2,0,-18.1
+2026-06,design,US,11,"Affinity Designer","Vector",22200,0.1,0,-18.2
+2026-06,design,US,12,"InVision","Prototyping",12100,0,-18.2,-33.1
+2026-06,design,US,13,"Lunacy","UI/UX",9900,0,-18.2,0
+2026-06,design,US,14,"Adobe XD","UI/UX",8100,0,-33.3,-63.6
+2026-06,design,US,15,"Sketch","UI/UX",6600,0,0,22.2
+2026-06,design,US,16,"Penpot","UI/UX",5400,0,-18.2,22.7
+2026-06,design,IN,1,"Canva","All-in-one",11100000,86.4,-17.7,0
+2026-06,design,IN,2,"Figma","UI/UX",823000,6.4,-18.2,-18.2
+2026-06,design,IN,3,"Photopea","Photo editor",450000,3.5,0,-18.2
+2026-06,design,IN,4,"Photoshop","Image editing",246000,1.9,0,-18.3
+2026-06,design,IN,5,"Miro","Whiteboard",60500,0.5,-18.2,-18.2
+2026-06,design,IN,6,"GIMP","Image editing",40500,0.3,0,-33.1
+2026-06,design,IN,7,"Adobe Illustrator","Vector",40500,0.3,0,-33.1
+2026-06,design,IN,8,"Procreate","Illustration",27100,0.2,0,0
+2026-06,design,IN,9,"Zeplin","Handoff",12100,0.1,0,-18.2
+2026-06,design,IN,10,"FigJam","Whiteboard",9900,0.1,0,-33.3
+2026-06,design,IN,11,"Adobe XD","UI/UX",9900,0.1,0,-70.3
+2026-06,design,IN,12,"Penpot","UI/UX",8100,0.1,-18.5,22.2
+2026-06,design,IN,13,"Sketch","UI/UX",5400,0,0,-45.7
+2026-06,design,IN,14,"Affinity Designer","Vector",4400,0,-20.8,-47.2
+2026-06,design,IN,15,"InVision","Prototyping",2900,0,-20.8,-56.8
+2026-06,design,IN,16,"Lunacy","UI/UX",2900,0,0,0
+2026-06,design,GB,1,"Canva","All-in-one",2740000,82.3,0,0
+2026-06,design,GB,2,"Photopea","Photo editor",201000,6,0,-18.3
+2026-06,design,GB,3,"Figma","UI/UX",110000,3.3,0,0
+2026-06,design,GB,4,"Photoshop","Image editing",74000,2.2,-18.2,-33.1
+2026-06,design,GB,5,"Miro","Whiteboard",74000,2.2,-18.2,-18.2
+2026-06,design,GB,6,"GIMP","Image editing",49500,1.5,0,-18.2
+2026-06,design,GB,7,"Procreate","Illustration",22200,0.7,0,-18.5
+2026-06,design,GB,8,"Adobe Illustrator","Vector",18100,0.5,0,-18.2
+2026-06,design,GB,9,"Zeplin","Handoff",12100,0.4,0,-18.2
+2026-06,design,GB,10,"FigJam","Whiteboard",9900,0.3,-18.2,-45.5
+2026-06,design,GB,11,"Affinity Designer","Vector",6600,0.2,0,-33.3
+2026-06,design,GB,12,"Penpot","UI/UX",6600,0.2,0,0
+2026-06,design,GB,13,"InVision","Prototyping",1900,0.1,-18.7,-45.8
+2026-06,design,GB,14,"Adobe XD","UI/UX",1900,0.1,-32.3,-69.7
+2026-06,design,GB,15,"Lunacy","UI/UX",1300,0,0,0
+2026-06,design,GB,16,"Sketch","UI/UX",1300,0,0,-37.5
+2026-06,design,CA,1,"Canva","All-in-one",4090000,92.4,0,22.2
+2026-06,design,CA,2,"Figma","UI/UX",90500,2,-18.2,0
+2026-06,design,CA,3,"Photopea","Photo editor",90500,2,0,22.3
+2026-06,design,CA,4,"Photoshop","Image editing",40500,0.9,0,0
+2026-06,design,CA,5,"Miro","Whiteboard",40500,0.9,0,0
+2026-06,design,CA,6,"GIMP","Image editing",22200,0.5,-18.5,-18.5
+2026-06,design,CA,7,"Procreate","Illustration",14800,0.3,0,-18.2
+2026-06,design,CA,8,"Adobe Illustrator","Vector",12100,0.3,0,0
+2026-06,design,CA,9,"Zeplin","Handoff",8100,0.2,-18.5,-33.3
+2026-06,design,CA,10,"FigJam","Whiteboard",6600,0.1,0,0
+2026-06,design,CA,11,"Affinity Designer","Vector",4400,0.1,-17.2,-17.2
+2026-06,design,CA,12,"InVision","Prototyping",1300,0,0,-37.5
+2026-06,design,CA,13,"Adobe XD","UI/UX",1300,0,-18.2,-55
+2026-06,design,CA,14,"Penpot","UI/UX",1300,0,-37.5,0
+2026-06,design,CA,15,"Lunacy","UI/UX",880,0,-12,0
+2026-06,design,CA,16,"Sketch","UI/UX",720,0,0,0
+2026-06,design,AU,1,"Canva","All-in-one",3350000,93.8,49.3,0
+2026-06,design,AU,2,"Figma","UI/UX",60500,1.7,0,22.3
+2026-06,design,AU,3,"Photopea","Photo editor",40500,1.1,22.2,22.2
+2026-06,design,AU,4,"Miro","Whiteboard",33100,0.9,0,-18.3
+2026-06,design,AU,5,"Photoshop","Image editing",27100,0.8,0,-18.1
+2026-06,design,AU,6,"GIMP","Image editing",18100,0.5,22.3,0
+2026-06,design,AU,7,"Adobe Illustrator","Vector",12100,0.3,22.3,0
+2026-06,design,AU,8,"Procreate","Illustration",12100,0.3,22.2,-18.2
+2026-06,design,AU,9,"FigJam","Whiteboard",6600,0.2,-18.2,0
+2026-06,design,AU,10,"Zeplin","Handoff",5400,0.2,0,-18.2
+2026-06,design,AU,11,"Affinity Designer","Vector",2900,0.1,-15.8,-15.8
+2026-06,design,AU,12,"Adobe XD","UI/UX",1300,0,13.6,-47.4
+2026-06,design,AU,13,"Penpot","UI/UX",1300,0,30,47.7
+2026-06,design,AU,14,"InVision","Prototyping",880,0,0,-44.6
+2026-06,design,AU,15,"Sketch","UI/UX",720,0,50,-18.2
+2026-06,design,AU,16,"Lunacy","UI/UX",590,0,0,-18.1
+2026-06,design,DE,1,"Canva","All-in-one",1500000,76.4,0,22
+2026-06,design,DE,2,"Figma","UI/UX",110000,5.6,0,21.5
+2026-06,design,DE,3,"Miro","Whiteboard",90500,4.6,-18.2,0
+2026-06,design,DE,4,"Photopea","Photo editor",60500,3.1,0,0
+2026-06,design,DE,5,"GIMP","Image editing",60500,3.1,-18.2,-33.1
+2026-06,design,DE,6,"Zeplin","Handoff",49500,2.5,22.2,0
+2026-06,design,DE,7,"Photoshop","Image editing",40500,2.1,0,-33.1
+2026-06,design,DE,8,"Procreate","Illustration",18100,0.9,0,-18.2
+2026-06,design,DE,9,"Adobe Illustrator","Vector",12100,0.6,-18.2,-33.1
+2026-06,design,DE,10,"Affinity Designer","Vector",8100,0.4,-18.5,-18.5
+2026-06,design,DE,11,"FigJam","Whiteboard",2900,0.1,0,-17.2
+2026-06,design,DE,12,"Penpot","UI/UX",2900,0.1,0,20.8
+2026-06,design,DE,13,"Lunacy","UI/UX",2400,0.1,-20.8,18.8
+2026-06,design,DE,14,"Adobe XD","UI/UX",2400,0.1,-18.7,-63.9
+2026-06,design,DE,15,"InVision","Prototyping",1300,0.1,-18.2,-55
+2026-06,design,DE,16,"Sketch","UI/UX",720,0,0,-33
+2026-06,design,FR,1,"Canva","All-in-one",7480000,94.2,0,22.2
+2026-06,design,FR,2,"Figma","UI/UX",135000,1.7,-18.2,0
+2026-06,design,FR,3,"Photopea","Photo editor",90500,1.1,0,0
+2026-06,design,FR,4,"Miro","Whiteboard",74000,0.9,0,0
+2026-06,design,FR,5,"Photoshop","Image editing",60500,0.8,0,-18.2
+2026-06,design,FR,6,"GIMP","Image editing",40500,0.5,0,-18.3
+2026-06,design,FR,7,"Procreate","Illustration",18100,0.2,0,-18.2
+2026-06,design,FR,8,"Zeplin","Handoff",18100,0.2,22.3,-45.4
+2026-06,design,FR,9,"Adobe Illustrator","Vector",9900,0.1,-18.5,-33.3
+2026-06,design,FR,10,"Affinity Designer","Vector",4400,0.1,-17.2,-17.2
+2026-06,design,FR,11,"FigJam","Whiteboard",3600,0,-17.2,-33.3
+2026-06,design,FR,12,"Penpot","UI/UX",2900,0,0,0
+2026-06,design,FR,13,"Adobe XD","UI/UX",2400,0,-23.1,-65.5
+2026-06,design,FR,14,"InVision","Prototyping",880,0,-18.1,-41
+2026-06,design,FR,15,"Lunacy","UI/UX",590,0,-18.6,0
+2026-06,design,FR,16,"Sketch","UI/UX",390,0,0,-33.3
+2026-06,design,BR,1,"Canva","All-in-one",13600000,93.7,0,0
+2026-06,design,BR,2,"Figma","UI/UX",368000,2.5,0,22.3
+2026-06,design,BR,3,"Photopea","Photo editor",165000,1.1,0,0
+2026-06,design,BR,4,"Miro","Whiteboard",165000,1.1,-18.2,-18.2
+2026-06,design,BR,5,"Photoshop","Image editing",110000,0.8,0,-18.5
+2026-06,design,BR,6,"GIMP","Image editing",40500,0.3,-18.1,-33.1
+2026-06,design,BR,7,"Procreate","Illustration",18100,0.1,0,-18.2
+2026-06,design,BR,8,"Adobe Illustrator","Vector",14800,0.1,0,0
+2026-06,design,BR,9,"Zeplin","Handoff",14800,0.1,-18.2,-18.2
+2026-06,design,BR,10,"Affinity Designer","Vector",5400,0,-17.2,0
+2026-06,design,BR,11,"FigJam","Whiteboard",4400,0,0,0
+2026-06,design,BR,12,"Penpot","UI/UX",3600,0,0,125
+2026-06,design,BR,13,"Adobe XD","UI/UX",2900,0,-34.5,-56.8
+2026-06,design,BR,14,"InVision","Prototyping",1000,0,-18.2,-44.6
+2026-06,design,BR,15,"Lunacy","UI/UX",720,0,0,22.2
+2026-06,design,BR,16,"Sketch","UI/UX",590,0,-18.1,-18.1
+2026-06,design,MX,1,"Canva","All-in-one",9140000,96.1,0,0
+2026-06,design,MX,2,"Figma","UI/UX",90500,1,0,48.6
+2026-06,design,MX,3,"Photopea","Photo editor",90500,1,0,0
+2026-06,design,MX,4,"Photoshop","Image editing",60500,0.6,-18.2,-33.1
+2026-06,design,MX,5,"Miro","Whiteboard",49500,0.5,0,0
+2026-06,design,MX,6,"GIMP","Image editing",22200,0.2,0,0
+2026-06,design,MX,7,"Adobe Illustrator","Vector",22200,0.2,0,-18.5
+2026-06,design,MX,8,"Procreate","Illustration",14800,0.2,0,-33.1
+2026-06,design,MX,9,"Zeplin","Handoff",9900,0.1,0,0
+2026-06,design,MX,10,"Affinity Designer","Vector",4400,0,-17.2,-17.2
+2026-06,design,MX,11,"Adobe XD","UI/UX",2400,0,0,-55.6
+2026-06,design,MX,12,"FigJam","Whiteboard",1900,0,0,-18.7
+2026-06,design,MX,13,"Penpot","UI/UX",1600,0,0,0
+2026-06,design,MX,14,"Sketch","UI/UX",590,0,0,-18.1
+2026-06,design,MX,15,"InVision","Prototyping",480,0,0,-45.8
+2026-06,design,MX,16,"Lunacy","UI/UX",480,0,0,22.9
+2026-06,design,ID,1,"Canva","All-in-one",11100000,94.6,0,21.4
+2026-06,design,ID,2,"Figma","UI/UX",368000,3.1,22.3,49.5
+2026-06,design,ID,3,"Photopea","Photo editor",110000,0.9,0,0
+2026-06,design,ID,4,"Photoshop","Image editing",60500,0.5,-18.2,-33.1
+2026-06,design,ID,5,"Miro","Whiteboard",27100,0.2,-18.1,0
+2026-06,design,ID,6,"Adobe Illustrator","Vector",27100,0.2,-18.1,-18.1
+2026-06,design,ID,7,"Procreate","Illustration",12100,0.1,0,-18.2
+2026-06,design,ID,8,"GIMP","Image editing",9900,0.1,0,-33.1
+2026-06,design,ID,9,"Zeplin","Handoff",6600,0.1,0,0
+2026-06,design,ID,10,"Affinity Designer","Vector",6600,0.1,0,-46.3
+2026-06,design,ID,11,"FigJam","Whiteboard",2900,0,0,-34.5
+2026-06,design,ID,12,"Adobe XD","UI/UX",2400,0,-18.7,-55.2
+2026-06,design,ID,13,"Penpot","UI/UX",1600,0,18.8,46.2
+2026-06,design,ID,14,"Lunacy","UI/UX",720,0,-12,22.2
+2026-06,design,ID,15,"Sketch","UI/UX",480,0,-18.7,-18.7
+2026-06,design,ID,16,"InVision","Prototyping",390,0,-18.7,-45.8
+2026-06,design,JP,1,"Canva","All-in-one",1830000,78.2,0,0
+2026-06,design,JP,2,"Figma","UI/UX",246000,10.5,0,0
+2026-06,design,JP,3,"Photoshop","Image editing",74000,3.2,0,-18.2
+2026-06,design,JP,4,"Miro","Whiteboard",49500,2.1,0,-18.2
+2026-06,design,JP,5,"GIMP","Image editing",40500,1.7,0,-33.1
+2026-06,design,JP,6,"Photopea","Photo editor",33100,1.4,0,22.4
+2026-06,design,JP,7,"Adobe Illustrator","Vector",18100,0.8,0,-18.2
+2026-06,design,JP,8,"Procreate","Illustration",18100,0.8,0,-18.2
+2026-06,design,JP,9,"FigJam","Whiteboard",12100,0.5,-18.2,-55.2
+2026-06,design,JP,10,"Affinity Designer","Vector",8100,0.3,-18.5,-33.3
+2026-06,design,JP,11,"Adobe XD","UI/UX",4400,0.2,-17.2,-63.6
+2026-06,design,JP,12,"Zeplin","Handoff",3600,0.2,0,0
+2026-06,design,JP,13,"Lunacy","UI/UX",1600,0.1,-18.7,30
+2026-06,design,JP,14,"Penpot","UI/UX",1000,0,0,122.2
+2026-06,design,JP,15,"InVision","Prototyping",390,0,-18.7,-33.3
+2026-06,design,JP,16,"Sketch","UI/UX",110,0,0,-47.1
+2026-06,design,KR,1,"Canva","All-in-one",550000,76.4,0,22.4
+2026-06,design,KR,2,"Figma","UI/UX",110000,15.3,0,22.7
+2026-06,design,KR,3,"Photopea","Photo editor",18100,2.5,0,49.6
+2026-06,design,KR,4,"Miro","Whiteboard",12100,1.7,0,22.2
+2026-06,design,KR,5,"Photoshop","Image editing",8100,1.1,-18.5,-18.5
+2026-06,design,KR,6,"GIMP","Image editing",8100,1.1,0,-18.5
+2026-06,design,KR,7,"Adobe Illustrator","Vector",3600,0.5,-18.2,24.1
+2026-06,design,KR,8,"Procreate","Illustration",2900,0.4,-17.2,-17.2
+2026-06,design,KR,9,"Zeplin","Handoff",1900,0.3,-15.8,-33.3
+2026-06,design,KR,10,"FigJam","Whiteboard",1900,0.3,0,-15.8
+2026-06,design,KR,11,"Affinity Designer","Vector",720,0.1,-18.7,-18.7
+2026-06,design,KR,12,"Adobe XD","UI/UX",720,0.1,-17.9,-68
+2026-06,design,KR,13,"Penpot","UI/UX",720,0.1,0,83.3
+2026-06,design,KR,14,"Lunacy","UI/UX",390,0.1,-33.9,21.9
+2026-06,design,KR,15,"InVision","Prototyping",170,0,0,-57.7
+2026-06,design,KR,16,"Sketch","UI/UX",90,0,-44.4,-64.3
+2026-06,design,IT,1,"Canva","All-in-one",6120000,95.2,48.4,122
+2026-06,design,IT,2,"Figma","UI/UX",74000,1.2,0,22.3
+2026-06,design,IT,3,"Photopea","Photo editor",74000,1.2,0,22.3
+2026-06,design,IT,4,"Miro","Whiteboard",60500,0.9,0,0
+2026-06,design,IT,5,"Photoshop","Image editing",40500,0.6,-18.3,-18.3
+2026-06,design,IT,6,"GIMP","Image editing",27100,0.4,0,-18.1
+2026-06,design,IT,7,"Procreate","Illustration",9900,0.2,-18.5,-18.5
+2026-06,design,IT,8,"Adobe Illustrator","Vector",8100,0.1,0,0
+2026-06,design,IT,9,"Zeplin","Handoff",8100,0.1,0,22.7
+2026-06,design,IT,10,"Affinity Designer","Vector",2400,0,-18.7,-18.7
+2026-06,design,IT,11,"FigJam","Whiteboard",1600,0,-15.8,0
+2026-06,design,IT,12,"Adobe XD","UI/UX",1000,0,0,-55
+2026-06,design,IT,13,"Penpot","UI/UX",1000,0,0,47.7
+2026-06,design,IT,14,"Sketch","UI/UX",720,0,22,22
+2026-06,design,IT,15,"InVision","Prototyping",390,0,-18.7,-33.3
+2026-06,design,IT,16,"Lunacy","UI/UX",320,0,-33.3,23.8
+2026-06,design,ES,1,"Canva","All-in-one",9140000,95.8,21.4,21.4
+2026-06,design,ES,2,"Photopea","Photo editor",135000,1.4,0,22.7
+2026-06,design,ES,3,"Figma","UI/UX",90500,0.9,0,22.3
+2026-06,design,ES,4,"Miro","Whiteboard",60500,0.6,0,22.2
+2026-06,design,ES,5,"Photoshop","Image editing",40500,0.4,0,-18.3
+2026-06,design,ES,6,"GIMP","Image editing",33100,0.3,0,0
+2026-06,design,ES,7,"Zeplin","Handoff",14800,0.2,0,0
+2026-06,design,ES,8,"Procreate","Illustration",9900,0.1,0,-18.2
+2026-06,design,ES,9,"Adobe Illustrator","Vector",8100,0.1,-18.5,-18.5
+2026-06,design,ES,10,"Affinity Designer","Vector",2400,0,-18.7,-18.7
+2026-06,design,ES,11,"FigJam","Whiteboard",1900,0,0,-15.8
+2026-06,design,ES,12,"Penpot","UI/UX",1900,0,0,84.6
+2026-06,design,ES,13,"Adobe XD","UI/UX",1300,0,0,-55
+2026-06,design,ES,14,"Sketch","UI/UX",720,0,0,0
+2026-06,design,ES,15,"InVision","Prototyping",480,0,-17.9,-45.8
+2026-06,design,ES,16,"Lunacy","UI/UX",320,0,-33.3,23.1
+2026-06,design,NL,1,"Canva","All-in-one",1220000,88.1,22,0
+2026-06,design,NL,2,"Figma","UI/UX",49500,3.6,0,22.2
+2026-06,design,NL,3,"Miro","Whiteboard",33100,2.4,0,0
+2026-06,design,NL,4,"Photopea","Photo editor",27100,2,0,0
+2026-06,design,NL,5,"Photoshop","Image editing",14800,1.1,0,-18.2
+2026-06,design,NL,6,"GIMP","Image editing",12100,0.9,-18.2,-33.1
+2026-06,design,NL,7,"Zeplin","Handoff",8100,0.6,50,22.2
+2026-06,design,NL,8,"Adobe Illustrator","Vector",6600,0.5,-18.5,-33.3
+2026-06,design,NL,9,"Procreate","Illustration",6600,0.5,0,-33.3
+2026-06,design,NL,10,"Affinity Designer","Vector",1900,0.1,0,-37.5
+2026-06,design,NL,11,"FigJam","Whiteboard",1600,0.1,0,-37.5
+2026-06,design,NL,12,"Adobe XD","UI/UX",1000,0.1,-18.6,-63.1
+2026-06,design,NL,13,"Penpot","UI/UX",1000,0.1,-12,-12
+2026-06,design,NL,14,"InVision","Prototyping",390,0,0,-45.8
+2026-06,design,NL,15,"Lunacy","UI/UX",390,0,-18.7,21.9
+2026-06,design,NL,16,"Sketch","UI/UX",320,0,-19.2,-19.2
+2026-06,design,TR,1,"Canva","All-in-one",2740000,91.9,0,49.7
+2026-06,design,TR,2,"Figma","UI/UX",60500,2,-18.2,22.2
+2026-06,design,TR,3,"Photopea","Photo editor",60500,2,-18.2,0
+2026-06,design,TR,4,"Photoshop","Image editing",40500,1.4,0,-18.3
+2026-06,design,TR,5,"Zeplin","Handoff",27100,0.9,0,49.1
+2026-06,design,TR,6,"Miro","Whiteboard",18100,0.6,0,22.3
+2026-06,design,TR,7,"Adobe Illustrator","Vector",12100,0.4,-18.2,-33.1
+2026-06,design,TR,8,"Procreate","Illustration",9900,0.3,0,0
+2026-06,design,TR,9,"GIMP","Image editing",8100,0.3,-18.2,-33.3
+2026-06,design,TR,10,"Affinity Designer","Vector",1000,0,22,-18.2
+2026-06,design,TR,11,"Adobe XD","UI/UX",1000,0,-18.6,-70
+2026-06,design,TR,12,"FigJam","Whiteboard",880,0,-18.1,-18.1
+2026-06,design,TR,13,"Penpot","UI/UX",720,0,0,83.3
+2026-06,design,TR,14,"Lunacy","UI/UX",320,0,0,23.1
+2026-06,design,TR,15,"InVision","Prototyping",210,0,-21.4,-57.7
+2026-06,design,TR,16,"Sketch","UI/UX",210,0,0,-17.6
+2026-06,design,VN,1,"Canva","All-in-one",3350000,93.9,-18.2,49.7
+2026-06,design,VN,2,"Figma","UI/UX",90500,2.5,0,21.5
+2026-06,design,VN,3,"Photoshop","Image editing",40500,1.1,0,0
+2026-06,design,VN,4,"Photopea","Photo editor",27100,0.8,0,22.1
+2026-06,design,VN,5,"GIMP","Image editing",14800,0.4,-63.4,83.3
+2026-06,design,VN,6,"Miro","Whiteboard",14800,0.4,0,22.3
+2026-06,design,VN,7,"Adobe Illustrator","Vector",12100,0.3,0,0
+2026-06,design,VN,8,"Procreate","Illustration",9900,0.3,22.2,0
+2026-06,design,VN,9,"Lunacy","UI/UX",1900,0.1,52.6,0
+2026-06,design,VN,10,"FigJam","Whiteboard",1600,0,0,-18.7
+2026-06,design,VN,11,"Zeplin","Handoff",1300,0,0,-18.7
+2026-06,design,VN,12,"Affinity Designer","Vector",880,0,295.8,295.8
+2026-06,design,VN,13,"Adobe XD","UI/UX",880,0,-18.1,-41
+2026-06,design,VN,14,"Penpot","UI/UX",590,0,0,49.2
+2026-06,design,VN,15,"Sketch","UI/UX",260,0,-19,-46.9
+2026-06,design,VN,16,"InVision","Prototyping",210,0,-35.7,-65.4
+2026-06,design,PL,1,"Canva","All-in-one",1500000,83.2,22,22
+2026-06,design,PL,2,"Photopea","Photo editor",90500,5,0,0
+2026-06,design,PL,3,"Figma","UI/UX",60500,3.4,0,0
+2026-06,design,PL,4,"Miro","Whiteboard",49500,2.7,0,49.5
+2026-06,design,PL,5,"GIMP","Image editing",40500,2.2,0,0
+2026-06,design,PL,6,"Photoshop","Image editing",27100,1.5,0,-18.1
+2026-06,design,PL,7,"Zeplin","Handoff",9900,0.5,0,22.2
+2026-06,design,PL,8,"Adobe Illustrator","Vector",8100,0.4,0,-18.5
+2026-06,design,PL,9,"Procreate","Illustration",8100,0.4,0,-18.5
+2026-06,design,PL,10,"Affinity Designer","Vector",2900,0.2,0,-33.3
+2026-06,design,PL,11,"FigJam","Whiteboard",1600,0.1,0,0
+2026-06,design,PL,12,"Adobe XD","UI/UX",1300,0.1,22.2,-53.7
+2026-06,design,PL,13,"Penpot","UI/UX",880,0,0,13.6
+2026-06,design,PL,14,"Lunacy","UI/UX",590,0,-18.1,84.4
+2026-06,design,PL,15,"InVision","Prototyping",390,0,-19.2,-56.2
+2026-06,design,PL,16,"Sketch","UI/UX",390,0,0,0
+2026-06,design,SG,1,"Canva","All-in-one",673000,87.7,0,82.9
+2026-06,design,SG,2,"Figma","UI/UX",49500,6.5,0,82.8
+2026-06,design,SG,3,"Photopea","Photo editor",12100,1.6,-18.2,22.3
+2026-06,design,SG,4,"Miro","Whiteboard",12100,1.6,0,0
+2026-06,design,SG,5,"Photoshop","Image editing",6600,0.9,-18.5,0
+2026-06,design,SG,6,"Adobe Illustrator","Vector",3600,0.5,-18.2,0
+2026-06,design,SG,7,"GIMP","Image editing",2900,0.4,0,0
+2026-06,design,SG,8,"Procreate","Illustration",2900,0.4,0,0
+2026-06,design,SG,9,"Zeplin","Handoff",1600,0.2,0,-18.7
+2026-06,design,SG,10,"FigJam","Whiteboard",1000,0.1,0,0
+2026-06,design,SG,11,"Affinity Designer","Vector",590,0.1,-17.9,-33.3
+2026-06,design,SG,12,"Adobe XD","UI/UX",590,0.1,0,-55.6
+2026-06,design,SG,13,"Penpot","UI/UX",480,0.1,0,126.9
+2026-06,design,SG,14,"Lunacy","UI/UX",170,0,-19.2,23.5
+2026-06,design,SG,15,"Sketch","UI/UX",170,0,0,23.5
+2026-06,design,SG,16,"InVision","Prototyping",110,0,-22.2,-50
+2026-06,design,SA,1,"Canva","All-in-one",450000,84.4,-18.2,49.5
+2026-06,design,SA,2,"Figma","UI/UX",27100,5.1,-18.1,49.7
+2026-06,design,SA,3,"Photopea","Photo editor",27100,5.1,-18.1,0
+2026-06,design,SA,4,"Photoshop","Image editing",8100,1.5,-18.5,-18.5
+2026-06,design,SA,5,"GIMP","Image editing",5400,1,-34.1,0
+2026-06,design,SA,6,"Miro","Whiteboard",5400,1,-18.5,0
+2026-06,design,SA,7,"Adobe Illustrator","Vector",3600,0.7,0,0
+2026-06,design,SA,8,"Procreate","Illustration",3600,0.7,0,-19.4
+2026-06,design,SA,9,"Zeplin","Handoff",590,0.1,0,22.9
+2026-06,design,SA,10,"Affinity Designer","Vector",590,0.1,-33.3,-33.3
+2026-06,design,SA,11,"FigJam","Whiteboard",480,0.1,0,0
+2026-06,design,SA,12,"Adobe XD","UI/UX",480,0.1,-18.7,-33.3
+2026-06,design,SA,13,"Penpot","UI/UX",260,0,-19.2,50
+2026-06,design,SA,14,"Lunacy","UI/UX",170,0,0,-19
+2026-06,design,SA,15,"Sketch","UI/UX",140,0,-18.2,-18.2
+2026-06,design,SA,16,"InVision","Prototyping",110,0,22.2,-21.4
