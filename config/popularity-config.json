@@ -102,6 +102,26 @@
         { "name": "Temu", "vendor": "PDD", "keys": ["temu"] },
         { "name": "CapCut", "vendor": "ByteDance", "keys": ["capcut"] }
       ]
+    },
+    "storage": {
+      "label": "Cloud storage",
+      "unit": "cloud storage service",
+      "brands": [
+        { "name": "Google Drive", "vendor": "Google", "keys": ["google drive"] },
+        { "name": "iCloud", "vendor": "Apple", "keys": ["icloud"] },
+        { "name": "Dropbox", "vendor": "Dropbox", "keys": ["dropbox"] },
+        { "name": "OneDrive", "vendor": "Microsoft", "keys": ["onedrive"] },
+        { "name": "Terabox", "vendor": "Flextech", "keys": ["terabox"] },
+        { "name": "MEGA", "vendor": "MEGA", "keys": ["mega nz"] },
+        { "name": "MediaFire", "vendor": "MediaFire", "keys": ["mediafire"] },
+        { "name": "WeTransfer", "vendor": "Bending Spoons", "keys": ["wetransfer"] },
+        { "name": "pCloud", "vendor": "pCloud", "keys": ["pcloud"] },
+        { "name": "Proton Drive", "vendor": "Proton", "keys": ["proton drive"] },
+        { "name": "Amazon Photos", "vendor": "Amazon", "keys": ["amazon photos"] },
+        { "name": "iDrive", "vendor": "iDrive", "keys": ["idrive"] },
+        { "name": "Nextcloud", "vendor": "Nextcloud", "keys": ["nextcloud"] },
+        { "name": "Backblaze", "vendor": "Backblaze", "keys": ["backblaze"] }
+      ]
     }
   }
 }
