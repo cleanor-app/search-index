@@ -9,13 +9,16 @@ country independently.
 
 ## What we count per brand
 
-For each brand we sum **only** its single head query plus spelling and naming
-variants of the same name (for example `chatgpt` + `chat gpt`, or `claude` +
-`claude ai` + `claude.ai`). We deliberately do **not** add nested sub-queries
-(`chatgpt login`, `chatgpt app`, ...), because Keyword Planner's head-term volume
-already contains that demand; summing the children would double-count. This
-undercounts a product's long tail on purpose, a conscious tradeoff in exchange
-for comparability and no double counting.
+**Exactly one head keyword per tracked item**, and never its sub-queries. Search
+demand is nested: Keyword Planner's volume for `claude` already contains
+`claude ai`, `claude.ai` and `claude code`, and the volume for `chatgpt` already
+contains `chatgpt login` and `chatgpt app`. Adding variants or children to the
+head term would double-count that demand, so we do not. Sub-products that live
+inside a parent term (Claude Code inside `claude`) are not separate rows.
+
+This undercounts a product's long tail on purpose, a conscious tradeoff in
+exchange for comparability and no double counting. Every item's single key is
+listed in `config/popularity-config.json`.
 
 ### Disambiguation
 
@@ -44,14 +47,25 @@ non-zero month in the window).
 ## Known limitations
 
 - **Banded values.** Keyword Planner rounds volumes into bands, so figures are
-  directional, not exact. Treat small differences as noise.
+  directional, not exact. Treat small differences as noise. Across the 35,760
+  monthly rows in `data/popularity/csv/` there are only 81 distinct volume
+  values, which is the banding made visible.
+- **Withheld terms.** Keyword Planner returns null metrics for some keywords,
+  cryptocurrency asset names among them (`bitcoin`, `ethereum`, `xrp`,
+  `solana`). A coin leaderboard is impossible from this source, which is why the
+  `crypto` category tracks exchanges and wallets instead. A zero can mean "no
+  data", not "no demand".
 - **Search interest, not usage.** Demand to search for a term is a proxy for
   attention and intent, not a measurement of active users.
 - **Country set is fixed by config.** "Worldwide" reflects only the tracked
   countries. Adding countries changes the Worldwide series going forward; past
   snapshots remain immutable.
 - **Keyword attribution is a modeling choice.** The head-query rule undercounts
-  the long tail. This is documented and intentional.
+  the long tail, and disambiguated terms (`gemini ai`, `golang`) miss people who
+  search the bare word and mean the product. This is documented and intentional.
+
+Full detail, with the evidence, in
+[Keyword Planner data explained](keyword-planner-data-explained.md).
 
 ## Reproducibility
 
