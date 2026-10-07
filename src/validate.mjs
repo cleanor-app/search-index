@@ -73,6 +73,115 @@ for (const catKey of Object.keys(cfg.categories)) {
 }
 if (errors === 0) ok(`snapshots: ${snapshotCount} raw file(s) valid`);
 
+// --- derived CSV sanity ---
+const csvDir = path.join(ROOT, 'data', 'popularity', 'csv');
+let csvCount = 0;
+if (fs.existsSync(csvDir)) {
+  const summaryFiles = fs
+    .readdirSync(csvDir)
+    .filter((f) => /^popularity-.*-summary\.csv$/.test(f));
+
+  // Simple CSV line parser supporting quoted strings
+  function parseCsvLine(line) {
+    const fields = [];
+    let current = '';
+    let inQuotes = false;
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i];
+      if (char === '"') {
+        inQuotes = !inQuotes;
+      } else if (char === ',' && !inQuotes) {
+        fields.push(current);
+        current = '';
+      } else {
+        current += char;
+      }
+    }
+    fields.push(current);
+    return fields;
+  }
+
+  for (const file of summaryFiles) {
+    const filePath = path.join(csvDir, file);
+    const content = fs.readFileSync(filePath, 'utf8');
+    const lines = content.split(/\r?\n/).filter((l) => l.trim().length > 0);
+    if (lines.length <= 1) continue;
+
+    const header = parseCsvLine(lines[0]);
+    const snapshotIdx = header.indexOf('snapshot');
+    const categoryIdx = header.indexOf('category');
+    const scopeIdx = header.indexOf('scope');
+    const rankIdx = header.indexOf('rank');
+    const brandIdx = header.indexOf('brand');
+    const avgIdx = header.indexOf('avg_monthly_searches');
+    const shareIdx = header.indexOf('share_pct');
+
+    if (
+      snapshotIdx === -1 ||
+      categoryIdx === -1 ||
+      scopeIdx === -1 ||
+      rankIdx === -1 ||
+      brandIdx === -1 ||
+      avgIdx === -1 ||
+      shareIdx === -1
+    ) {
+      fail(`${file}: missing required headers`);
+      continue;
+    }
+
+    // Group rows by snapshot + category + scope
+    const groups = new Map();
+    for (let i = 1; i < lines.length; i++) {
+      const row = parseCsvLine(lines[i]);
+      if (row.length < header.length) continue;
+      const key = `${row[snapshotIdx]}::${row[categoryIdx]}::${row[scopeIdx]}`;
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push({
+        snapshot: row[snapshotIdx],
+        category: row[categoryIdx],
+        scope: row[scopeIdx],
+        rank: Number(row[rankIdx]),
+        brand: row[brandIdx],
+        avg: Number(row[avgIdx]),
+        share: Number(row[shareIdx]),
+      });
+    }
+
+    for (const [groupKey, rows] of groups) {
+      const { scope } = rows[0];
+
+      // 1. Shares add up: sum to about 100 (allow rounding 99.5 to 100.5)
+      const shareSum = rows.reduce((s, r) => s + r.share, 0);
+      const roundedSum = Math.round(shareSum * 10) / 10;
+      if (roundedSum < 99.5 || roundedSum > 100.5) {
+        fail(
+          `${file}: scope "${scope}" shares sum to ${roundedSum}% (expected 99.5% - 100.5%) across ${rows.length} brands`,
+        );
+      }
+
+      // 2. Rank matches demand: rank 1..n descending order of avg_monthly_searches (ties allowed)
+      rows.sort((a, b) => a.rank - b.rank);
+      for (let j = 0; j < rows.length; j++) {
+        const curr = rows[j];
+        if (curr.rank !== j + 1) {
+          fail(`${file}: scope "${scope}" brand "${curr.brand}" expected rank ${j + 1} but got ${curr.rank}`);
+        }
+        if (j > 0) {
+          const prev = rows[j - 1];
+          if (curr.avg > prev.avg) {
+            fail(
+              `${file}: scope "${scope}" brand "${curr.brand}" (rank ${curr.rank}, searches ${curr.avg}) has higher search demand than rank ${prev.rank} brand "${prev.brand}" (searches ${prev.avg})`,
+            );
+          }
+        }
+      }
+    }
+
+    csvCount++;
+  }
+}
+if (errors === 0) ok(`derived CSVs: ${csvCount} summary CSV file(s) valid`);
+
 if (errors) {
   console.error(`\n${errors} problem(s) found.`);
   process.exit(1);
