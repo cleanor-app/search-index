@@ -1,295 +1,295 @@
 snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
-2026-09,languages,WW,1,"Python","General purpose",2606400,40.2,-6,-18.1
-2026-09,languages,WW,2,"Java","General purpose",1289700,19.9,8.5,-13.2
-2026-09,languages,WW,3,"JavaScript","Web",748700,11.5,8.5,-26.6
-2026-09,languages,WW,4,"SQL","Data",565900,8.7,-4.8,-29.2
-2026-09,languages,WW,5,"C++","Systems",314700,4.9,41.3,-26.4
-2026-09,languages,WW,6,"PHP","Web",306300,4.7,5.2,-36.1
-2026-09,languages,WW,7,"TypeScript","Web",160380,2.5,-3.2,-28.2
-2026-09,languages,WW,8,"C#","General purpose",130170,2,7.5,-32.3
-2026-09,languages,WW,9,"Kotlin","JVM / mobile",122180,1.9,3,-29.9
-2026-09,languages,WW,10,"Go","Systems",109280,1.7,-10.7,6
-2026-09,languages,WW,11,"Rust","Systems",67710,1,17.1,-12.3
-2026-09,languages,WW,12,"R","Data / stats",56100,0.9,-6.5,-32
-2026-09,languages,WW,13,"Ruby","Web",3540,0.1,-3.8,-39.7
-2026-09,languages,WW,14,"Swift","Apple",1550,0,4.7,-42
-2026-09,languages,US,1,"Python","General purpose",450000,35.3,-18.2,0
-2026-09,languages,US,2,"Java","General purpose",246000,19.3,49.1,22.4
-2026-09,languages,US,3,"SQL","Data",165000,12.9,0,-45.2
-2026-09,languages,US,4,"JavaScript","Web",135000,10.6,50,0
-2026-09,languages,US,5,"PHP","Web",90500,7.1,22.2,-18.2
-2026-09,languages,US,6,"C++","Systems",49500,3.9,173.4,49.6
-2026-09,languages,US,7,"TypeScript","Web",33100,2.6,0,-18.1
-2026-09,languages,US,8,"C#","General purpose",22200,1.7,22.1,-18.1
-2026-09,languages,US,9,"Go","Systems",22200,1.7,172.5,172.5
-2026-09,languages,US,10,"Rust","Systems",22200,1.7,22.3,-18.5
-2026-09,languages,US,11,"Kotlin","JVM / mobile",22200,1.7,0,-18.5
-2026-09,languages,US,12,"R","Data / stats",14800,1.2,22.2,-33.1
-2026-09,languages,US,13,"Ruby","Web",1300,0.1,0,-45
-2026-09,languages,US,14,"Swift","Apple",590,0,23.1,-33.3
-2026-09,languages,IN,1,"Python","General purpose",673000,46.7,0,0
-2026-09,languages,IN,2,"Java","General purpose",246000,17.1,0,-18.3
-2026-09,languages,IN,3,"JavaScript","Web",165000,11.4,0,-32.8
-2026-09,languages,IN,4,"SQL","Data",135000,9.4,-18.2,-18.2
-2026-09,languages,IN,5,"C++","Systems",60500,4.2,0,-18.2
-2026-09,languages,IN,6,"PHP","Web",49500,3.4,0,-33.1
-2026-09,languages,IN,7,"TypeScript","Web",27100,1.9,0,-18.1
-2026-09,languages,IN,8,"R","Data / stats",22200,1.5,-18.1,-18.1
-2026-09,languages,IN,9,"Go","Systems",18100,1.3,-18.2,-18.2
-2026-09,languages,IN,10,"Kotlin","JVM / mobile",18100,1.3,0,-33.3
-2026-09,languages,IN,11,"C#","General purpose",14800,1,0,-33.3
-2026-09,languages,IN,12,"Rust","Systems",12100,0.8,22.3,22.3
-2026-09,languages,IN,13,"Ruby","Web",390,0,-17.9,-33.3
-2026-09,languages,IN,14,"Swift","Apple",210,0,0,-46.9
-2026-09,languages,GB,1,"Python","General purpose",90500,41.6,-33.1,-45
-2026-09,languages,GB,2,"JavaScript","Web",27100,12.4,0,-32.9
-2026-09,languages,GB,3,"Java","General purpose",27100,12.4,0,-18.1
-2026-09,languages,GB,4,"SQL","Data",22200,10.2,0,-33.3
-2026-09,languages,GB,5,"C#","General purpose",9900,4.5,-18.5,-45.5
-2026-09,languages,GB,6,"PHP","Web",9900,4.5,0,-33.1
-2026-09,languages,GB,7,"C++","Systems",8100,3.7,0,-45.5
-2026-09,languages,GB,8,"TypeScript","Web",6600,3,0,-33.3
-2026-09,languages,GB,9,"Go","Systems",4400,2,-34.1,-34.1
-2026-09,languages,GB,10,"Rust","Systems",4400,2,24.1,-18.2
-2026-09,languages,GB,11,"Kotlin","JVM / mobile",4400,2,0,-33.3
-2026-09,languages,GB,12,"R","Data / stats",2900,1.3,-15.8,-55.6
-2026-09,languages,GB,13,"Ruby","Web",210,0.1,0,-46.2
-2026-09,languages,GB,14,"Swift","Apple",90,0,-28.6,-64.3
-2026-09,languages,CA,1,"Python","General purpose",60500,37.3,-18.2,-33.1
-2026-09,languages,CA,2,"Java","General purpose",27100,16.7,22.3,-45.3
-2026-09,languages,CA,3,"JavaScript","Web",18100,11.2,0,-45.5
-2026-09,languages,CA,4,"SQL","Data",18100,11.2,0,-55.4
-2026-09,languages,CA,5,"PHP","Web",8100,5,0,-45.5
-2026-09,languages,CA,6,"TypeScript","Web",6600,4.1,0,-33.3
-2026-09,languages,CA,7,"C++","Systems",6600,4.1,0,-55.6
-2026-09,languages,CA,8,"Kotlin","JVM / mobile",4400,2.7,0,-45.5
-2026-09,languages,CA,9,"C#","General purpose",3600,2.2,0,-55.6
-2026-09,languages,CA,10,"Go","Systems",3600,2.2,-76.5,-47.2
-2026-09,languages,CA,11,"Rust","Systems",2900,1.8,0,-17.2
-2026-09,languages,CA,12,"R","Data / stats",2400,1.5,-18.7,-70.5
-2026-09,languages,CA,13,"Ruby","Web",210,0.1,0,-46.2
-2026-09,languages,CA,14,"Swift","Apple",90,0.1,40,-36.4
-2026-09,languages,AU,1,"Python","General purpose",40500,43.3,49.5,22.2
-2026-09,languages,AU,2,"Java","General purpose",14800,15.8,0,-18.2
-2026-09,languages,AU,3,"JavaScript","Web",9900,10.6,0,-18.2
-2026-09,languages,AU,4,"SQL","Data",8100,8.7,22.7,0
-2026-09,languages,AU,5,"PHP","Web",4400,4.7,0,-33.3
-2026-09,languages,AU,6,"C++","Systems",3600,3.8,24.1,0
-2026-09,languages,AU,7,"TypeScript","Web",2900,3.1,0,-19.4
-2026-09,languages,AU,8,"C#","General purpose",2400,2.6,26.3,-17.2
-2026-09,languages,AU,9,"Rust","Systems",1900,2,0,-15.8
-2026-09,languages,AU,10,"Kotlin","JVM / mobile",1900,2,0,-33.3
-2026-09,languages,AU,11,"Go","Systems",1600,1.7,0,-31.6
-2026-09,languages,AU,12,"R","Data / stats",1300,1.4,0,0
-2026-09,languages,AU,13,"Ruby","Web",140,0.1,27.3,-17.6
-2026-09,languages,AU,14,"Swift","Apple",70,0.1,0,-44.4
-2026-09,languages,DE,1,"Python","General purpose",90500,37,21.5,0
-2026-09,languages,DE,2,"Java","General purpose",49500,20.3,0,-33.1
-2026-09,languages,DE,3,"JavaScript","Web",27100,11.1,0,-32.9
-2026-09,languages,DE,4,"SQL","Data",18100,7.4,0,-18.2
-2026-09,languages,DE,5,"PHP","Web",12100,5,-18.2,-33.1
-2026-09,languages,DE,6,"TypeScript","Web",9900,4.1,-18.5,-33.3
-2026-09,languages,DE,7,"C++","Systems",9900,4.1,-18.5,-33.3
-2026-09,languages,DE,8,"C#","General purpose",9900,4.1,0,-33.1
-2026-09,languages,DE,9,"Kotlin","JVM / mobile",6600,2.7,0,-33.3
-2026-09,languages,DE,10,"Go","Systems",5400,2.2,-18.5,-33.3
-2026-09,languages,DE,11,"Rust","Systems",3600,1.5,0,-34.1
-2026-09,languages,DE,12,"R","Data / stats",1600,0.7,-18.7,-31.6
-2026-09,languages,DE,13,"Ruby","Web",140,0.1,0,-47.1
-2026-09,languages,DE,14,"Swift","Apple",70,0,-40,-57.1
-2026-09,languages,FR,1,"Python","General purpose",110000,45.1,0,-55.2
-2026-09,languages,FR,2,"Java","General purpose",49500,20.3,22.2,0
-2026-09,languages,FR,3,"JavaScript","Web",27100,11.1,-18.5,-45.3
-2026-09,languages,FR,4,"SQL","Data",14800,6.1,-18.2,-55.2
-2026-09,languages,FR,5,"PHP","Web",12100,5,-18.5,-63.5
-2026-09,languages,FR,6,"TypeScript","Web",6600,2.7,-18.2,-63.6
-2026-09,languages,FR,7,"C++","Systems",6600,2.7,0,-55.6
-2026-09,languages,FR,8,"C#","General purpose",4400,1.8,0,-55.6
-2026-09,languages,FR,9,"Kotlin","JVM / mobile",4400,1.8,-19.4,-46.3
-2026-09,languages,FR,10,"Go","Systems",3600,1.5,-47.2,-56.8
-2026-09,languages,FR,11,"Rust","Systems",2900,1.2,0,-34.5
-2026-09,languages,FR,12,"R","Data / stats",1900,0.8,0,-45.8
-2026-09,languages,FR,13,"Ruby","Web",210,0.1,-35.3,-47.6
-2026-09,languages,FR,14,"Swift","Apple",40,0,33.3,-20
-2026-09,languages,BR,1,"Python","General purpose",201000,36.5,0,-18.3
-2026-09,languages,BR,2,"Java","General purpose",165000,29.9,0,-18.2
-2026-09,languages,BR,3,"JavaScript","Web",60500,11,22.2,-18.2
-2026-09,languages,BR,4,"SQL","Data",33100,6,49.4,0
-2026-09,languages,BR,5,"PHP","Web",22200,4,22.3,-33.2
-2026-09,languages,BR,6,"C++","Systems",18100,3.3,49.6,0
-2026-09,languages,BR,7,"TypeScript","Web",12100,2.2,22.2,-18.2
-2026-09,languages,BR,8,"C#","General purpose",12100,2.2,22.2,-18.2
-2026-09,languages,BR,9,"Go","Systems",12100,2.2,-45.3,-18.2
-2026-09,languages,BR,10,"Kotlin","JVM / mobile",9900,1.8,22.2,-18.2
-2026-09,languages,BR,11,"Rust","Systems",3600,0.7,20.8,-19.4
-2026-09,languages,BR,12,"R","Data / stats",1000,0.2,38.9,0
-2026-09,languages,BR,13,"Ruby","Web",210,0,-17.6,-33.3
-2026-09,languages,BR,14,"Swift","Apple",40,0,200,-40
-2026-09,languages,MX,1,"Python","General purpose",110000,39.2,0,-45.2
-2026-09,languages,MX,2,"Java","General purpose",74000,26.4,0,-33.1
-2026-09,languages,MX,3,"JavaScript","Web",33100,11.8,22.7,-45.2
-2026-09,languages,MX,4,"C++","Systems",18100,6.5,50,-63.5
-2026-09,languages,MX,5,"SQL","Data",18100,6.5,22.3,-33.3
-2026-09,languages,MX,6,"PHP","Web",9900,3.5,22.2,-55.4
-2026-09,languages,MX,7,"Kotlin","JVM / mobile",5400,1.9,0,-45.5
-2026-09,languages,MX,8,"C#","General purpose",4400,1.6,83.3,-45.7
-2026-09,languages,MX,9,"TypeScript","Web",3600,1.3,50,-18.2
-2026-09,languages,MX,10,"Go","Systems",2400,0.9,-83.8,-33.3
-2026-09,languages,MX,11,"Rust","Systems",880,0.3,22.2,-12
-2026-09,languages,MX,12,"R","Data / stats",390,0.1,50,-18.7
-2026-09,languages,MX,13,"Ruby","Web",50,0,100,-42.9
-2026-09,languages,MX,14,"Swift","Apple",20,0,0,-75
-2026-09,languages,ID,1,"Python","General purpose",110000,34.9,22.7,-18.2
-2026-09,languages,ID,2,"JavaScript","Web",60500,19.2,0,-18.2
-2026-09,languages,ID,3,"Java","General purpose",49500,15.7,0,0
-2026-09,languages,ID,4,"C++","Systems",33100,10.5,123.8,-33.1
-2026-09,languages,ID,5,"PHP","Web",22200,7.1,0,-33.2
-2026-09,languages,ID,6,"SQL","Data",14800,4.7,0,-18.2
-2026-09,languages,ID,7,"Go","Systems",8100,2.6,0,-33.1
-2026-09,languages,ID,8,"TypeScript","Web",4400,1.4,22.2,0
-2026-09,languages,ID,9,"C#","General purpose",4400,1.4,22.2,-18.5
-2026-09,languages,ID,10,"Kotlin","JVM / mobile",4400,1.4,22.2,-33.3
-2026-09,languages,ID,11,"Rust","Systems",1900,0.6,18.8,-20.8
-2026-09,languages,ID,12,"R","Data / stats",1300,0.4,13.6,-47.4
-2026-09,languages,ID,13,"Ruby","Web",140,0,55.6,0
-2026-09,languages,ID,14,"Swift","Apple",50,0,66.7,-28.6
-2026-09,languages,JP,1,"Python","General purpose",165000,38.7,0,-18.2
-2026-09,languages,JP,2,"JavaScript","Web",74000,17.4,-18.2,-33.1
-2026-09,languages,JP,3,"Java","General purpose",60500,14.2,-18.2,-18.2
-2026-09,languages,JP,4,"SQL","Data",33100,7.8,-18.1,-33.1
-2026-09,languages,JP,5,"TypeScript","Web",22200,5.2,-18.2,-33.3
-2026-09,languages,JP,6,"PHP","Web",22200,5.2,0,-33.2
-2026-09,languages,JP,7,"C#","General purpose",18100,4.2,0,-18.2
-2026-09,languages,JP,8,"C++","Systems",14800,3.5,-18.2,-45.3
-2026-09,languages,JP,9,"Kotlin","JVM / mobile",8100,1.9,-18.5,-45.5
-2026-09,languages,JP,10,"Go","Systems",6600,1.5,50,-33.3
-2026-09,languages,JP,11,"Rust","Systems",1000,0.2,0,-12
-2026-09,languages,JP,12,"R","Data / stats",390,0.1,-18.7,-33.3
-2026-09,languages,JP,13,"Ruby","Web",50,0,-20,-42.9
-2026-09,languages,JP,14,"Swift","Apple",30,0,-50,-80
-2026-09,languages,KR,1,"Python","General purpose",60500,46,0,-33.1
-2026-09,languages,KR,2,"Java","General purpose",22200,16.9,0,-18.1
-2026-09,languages,KR,3,"JavaScript","Web",12100,9.2,-18.2,-45.3
-2026-09,languages,KR,4,"SQL","Data",12100,9.2,22.2,-18.2
-2026-09,languages,KR,5,"C++","Systems",6600,5,0,-55.6
-2026-09,languages,KR,6,"C#","General purpose",4400,3.3,0,-33.3
-2026-09,languages,KR,7,"PHP","Web",4400,3.3,24.1,-45.5
-2026-09,languages,KR,8,"TypeScript","Web",3600,2.7,0,-46.3
-2026-09,languages,KR,9,"Kotlin","JVM / mobile",2900,2.2,0,-56.8
-2026-09,languages,KR,10,"Go","Systems",1900,1.4,23.1,-33.3
-2026-09,languages,KR,11,"Rust","Systems",590,0.4,23.1,-18.6
-2026-09,languages,KR,12,"R","Data / stats",320,0.2,-19.2,-56.2
-2026-09,languages,KR,13,"Ruby","Web",30,0,-33.3,-33.3
-2026-09,languages,KR,14,"Swift","Apple",10,0,-50,0
-2026-09,languages,IT,1,"Python","General purpose",60500,41.1,-33.1,-55.3
-2026-09,languages,IT,2,"Java","General purpose",27100,18.4,-18.5,-45.3
-2026-09,languages,IT,3,"C++","Systems",18100,12.3,0,-70.3
-2026-09,languages,IT,4,"JavaScript","Web",14800,10.1,0,-33.1
-2026-09,languages,IT,5,"SQL","Data",8100,5.5,-33.3,-55.6
-2026-09,languages,IT,6,"PHP","Web",6600,4.5,-19.4,-64.2
-2026-09,languages,IT,7,"TypeScript","Web",2900,2,-33.3,-55.6
-2026-09,languages,IT,8,"C#","General purpose",2400,1.6,-18.7,-55.2
-2026-09,languages,IT,9,"Kotlin","JVM / mobile",2400,1.6,-15.8,-44.8
-2026-09,languages,IT,10,"Go","Systems",1900,1.3,-58.3,-47.4
-2026-09,languages,IT,11,"Rust","Systems",1600,1.1,13.6,-37.5
-2026-09,languages,IT,12,"R","Data / stats",720,0.5,0,-52
-2026-09,languages,IT,13,"Ruby","Web",50,0,0,-57.1
-2026-09,languages,IT,14,"Swift","Apple",20,0,0,-66.7
-2026-09,languages,ES,1,"Python","General purpose",60500,36.9,-18.3,-63.4
-2026-09,languages,ES,2,"Java","General purpose",49500,30.2,0,-33.1
-2026-09,languages,ES,3,"JavaScript","Web",18100,11,0,-55.4
-2026-09,languages,ES,4,"SQL","Data",9900,6,0,-55.4
-2026-09,languages,ES,5,"PHP","Web",6600,4,0,-70.7
-2026-09,languages,ES,6,"C++","Systems",5400,3.3,-20.8,-76.5
-2026-09,languages,ES,7,"TypeScript","Web",3600,2.2,-20.8,-56.8
-2026-09,languages,ES,8,"Kotlin","JVM / mobile",3600,2.2,-15.8,-75.8
-2026-09,languages,ES,9,"C#","General purpose",2400,1.5,-23.1,-72.2
-2026-09,languages,ES,10,"Go","Systems",2400,1.5,-55.2,-45.8
-2026-09,languages,ES,11,"Rust","Systems",1300,0.8,0,-23.1
-2026-09,languages,ES,12,"R","Data / stats",590,0.4,-33.3,-74
-2026-09,languages,ES,13,"Swift","Apple",50,0,-75,-80
-2026-09,languages,ES,14,"Ruby","Web",50,0,0,-42.9
-2026-09,languages,NL,1,"Python","General purpose",33100,38,0,-33.1
-2026-09,languages,NL,2,"Java","General purpose",18100,20.8,22.3,-18.5
-2026-09,languages,NL,3,"JavaScript","Web",9900,11.4,0,-45.5
-2026-09,languages,NL,4,"SQL","Data",6600,7.6,0,-45.7
-2026-09,languages,NL,5,"PHP","Web",4400,5,0,-46.3
-2026-09,languages,NL,6,"TypeScript","Web",2900,3.3,-20.8,-47.2
-2026-09,languages,NL,7,"C++","Systems",2900,3.3,18.8,-47.2
-2026-09,languages,NL,8,"C#","General purpose",2400,2.8,-18.7,-63.9
-2026-09,languages,NL,9,"Kotlin","JVM / mobile",2400,2.8,0,-44.8
-2026-09,languages,NL,10,"Go","Systems",1900,2.2,-18.7,-45.8
-2026-09,languages,NL,11,"Rust","Systems",1600,1.8,0,-47.4
-2026-09,languages,NL,12,"R","Data / stats",880,1,50,-55
-2026-09,languages,NL,13,"Ruby","Web",70,0.1,66.7,-44.4
-2026-09,languages,NL,14,"Swift","Apple",30,0,0,-33.3
-2026-09,languages,TR,1,"Python","General purpose",90500,41.8,-18.2,-33.1
-2026-09,languages,TR,2,"Java","General purpose",74000,34.2,0,-18.2
-2026-09,languages,TR,3,"JavaScript","Web",14800,6.8,-18.2,-33.1
-2026-09,languages,TR,4,"SQL","Data",12100,5.6,-18.2,-33.1
-2026-09,languages,TR,5,"C++","Systems",8100,3.7,0,-33.3
-2026-09,languages,TR,6,"C#","General purpose",4400,2,0,-46.3
-2026-09,languages,TR,7,"PHP","Web",4400,2,0,-56.1
-2026-09,languages,TR,8,"Kotlin","JVM / mobile",2400,1.1,0,-34.5
-2026-09,languages,TR,9,"TypeScript","Web",1900,0.9,0,-33.3
-2026-09,languages,TR,10,"Go","Systems",1900,0.9,-75.9,-31.6
-2026-09,languages,TR,11,"Rust","Systems",1300,0.6,47.7,30
-2026-09,languages,TR,12,"R","Data / stats",590,0.3,-18.7,-55.7
-2026-09,languages,TR,13,"Ruby","Web",40,0,-75,-66.7
-2026-09,languages,TR,14,"Swift","Apple",10,0,0,-50
-2026-09,languages,VN,1,"Python","General purpose",90500,45.2,-33.1,-33.1
-2026-09,languages,VN,2,"Java","General purpose",40500,20.2,22.2,22.2
-2026-09,languages,VN,3,"C++","Systems",18100,9,0,-45.4
-2026-09,languages,VN,4,"JavaScript","Web",14800,7.4,22.3,-18.2
-2026-09,languages,VN,5,"SQL","Data",14800,7.4,0,22.3
-2026-09,languages,VN,6,"PHP","Web",5400,2.7,0,-18.2
-2026-09,languages,VN,7,"Go","Systems",5400,2.7,-84,-46.3
-2026-09,languages,VN,8,"TypeScript","Web",3600,1.8,0,-34.1
-2026-09,languages,VN,9,"C#","General purpose",2900,1.4,20.8,-34.1
-2026-09,languages,VN,10,"Kotlin","JVM / mobile",2400,1.2,0,-34.5
-2026-09,languages,VN,11,"Rust","Systems",1000,0.5,13.6,13.6
-2026-09,languages,VN,12,"R","Data / stats",480,0.2,0,-45.8
-2026-09,languages,VN,13,"Ruby","Web",110,0.1,0,-18.2
-2026-09,languages,VN,14,"Swift","Apple",30,0,0,100
-2026-09,languages,PL,1,"Python","General purpose",60500,34.7,-18.2,-33.1
-2026-09,languages,PL,2,"Java","General purpose",33100,19,0,-18.1
-2026-09,languages,PL,3,"C++","Systems",18100,10.4,0,-75.7
-2026-09,languages,PL,4,"JavaScript","Web",14800,8.5,0,-45.3
-2026-09,languages,PL,5,"Kotlin","JVM / mobile",14800,8.5,22.3,22.3
-2026-09,languages,PL,6,"SQL","Data",12100,6.9,0,-33.1
-2026-09,languages,PL,7,"PHP","Web",6600,3.8,-18.2,-63.6
-2026-09,languages,PL,8,"TypeScript","Web",4400,2.5,-19.4,-34.1
-2026-09,languages,PL,9,"C#","General purpose",3600,2.1,-20.8,-56.8
-2026-09,languages,PL,10,"Go","Systems",2900,1.7,-34.5,-34.5
-2026-09,languages,PL,11,"Rust","Systems",1900,1.1,0,-15.8
-2026-09,languages,PL,12,"R","Data / stats",1300,0.7,-18.2,-28
-2026-09,languages,PL,13,"Ruby","Web",90,0.1,-28.6,-28.6
-2026-09,languages,PL,14,"Swift","Apple",70,0,-40,-40
-2026-09,languages,SG,1,"Python","General purpose",27100,46.7,0,-18.1
-2026-09,languages,SG,2,"Java","General purpose",8100,14,0,-18.5
-2026-09,languages,SG,3,"JavaScript","Web",5400,9.3,-18.5,-18.5
-2026-09,languages,SG,4,"SQL","Data",5400,9.3,0,-18.5
-2026-09,languages,SG,5,"PHP","Web",2400,4.1,-20.8,-34.5
-2026-09,languages,SG,6,"Go","Systems",2400,4.1,18.8,-47.2
-2026-09,languages,SG,7,"TypeScript","Web",1900,3.3,-15.8,-15.8
-2026-09,languages,SG,8,"C++","Systems",1900,3.3,0,0
-2026-09,languages,SG,9,"Kotlin","JVM / mobile",1000,1.7,-12,-32.3
-2026-09,languages,SG,10,"C#","General purpose",880,1.5,0,-12
-2026-09,languages,SG,11,"Rust","Systems",720,1.2,0,-18.2
-2026-09,languages,SG,12,"R","Data / stats",720,1.2,0,-18.2
-2026-09,languages,SG,13,"Ruby","Web",30,0.1,50,-25
-2026-09,languages,SG,14,"Swift","Apple",20,0,0,0
-2026-09,languages,SA,1,"Python","General purpose",22200,41.9,-18.5,-45.3
-2026-09,languages,SA,2,"Java","General purpose",8100,15.3,22.2,-33.3
-2026-09,languages,SA,3,"JavaScript","Web",6600,12.5,22.7,-33.3
-2026-09,languages,SA,4,"C++","Systems",6600,12.5,0,-76.5
-2026-09,languages,SA,5,"SQL","Data",4400,8.3,24.1,-45.5
-2026-09,languages,SA,6,"PHP","Web",2400,4.5,0,-33.3
-2026-09,languages,SA,7,"C#","General purpose",590,1.1,23.1,-33.3
-2026-09,languages,SA,8,"TypeScript","Web",480,0.9,-18.6,0
-2026-09,languages,SA,9,"Go","Systems",480,0.9,-86.7,23.1
-2026-09,languages,SA,10,"Kotlin","JVM / mobile",480,0.9,21.9,-55.7
-2026-09,languages,SA,11,"Rust","Systems",320,0.6,176.9,125
-2026-09,languages,SA,12,"R","Data / stats",320,0.6,0,-46.2
-2026-09,languages,SA,13,"Ruby","Web",20,0,0,0
-2026-09,languages,SA,14,"Swift","Apple",10,0,0,0
+2026-10,languages,WW,1,"Python","General purpose",2599000,40.4,4.2,-12.1
+2026-10,languages,WW,2,"Java","General purpose",1279200,19.9,6.2,-11
+2026-10,languages,WW,3,"JavaScript","Web",748700,11.6,5.4,-20.6
+2026-10,languages,WW,4,"SQL","Data",560600,8.7,9,-23.5
+2026-10,languages,WW,5,"C++","Systems",314700,4.9,33.8,-2.1
+2026-10,languages,WW,6,"PHP","Web",304600,4.7,15.1,-21.6
+2026-10,languages,WW,7,"TypeScript","Web",150280,2.3,1.8,-26.4
+2026-10,languages,WW,8,"C#","General purpose",127960,2,9.1,-21.4
+2026-10,languages,WW,9,"Kotlin","JVM / mobile",117380,1.8,11.2,-17.2
+2026-10,languages,WW,10,"Go","Systems",111680,1.7,-1.5,9.2
+2026-10,languages,WW,11,"Rust","Systems",63610,1,-3.1,-5.5
+2026-10,languages,WW,12,"R","Data / stats",55740,0.9,7.9,-21.1
+2026-10,languages,WW,13,"Ruby","Web",3220,0.1,14.3,-29.5
+2026-10,languages,WW,14,"Swift","Apple",1510,0,17,-26
+2026-10,languages,US,1,"Python","General purpose",450000,35.5,0,0
+2026-10,languages,US,2,"Java","General purpose",246000,19.4,0,22.4
+2026-10,languages,US,3,"SQL","Data",165000,13,22.3,-45.2
+2026-10,languages,US,4,"JavaScript","Web",135000,10.6,0,0
+2026-10,languages,US,5,"PHP","Web",90500,7.1,0,-18.2
+2026-10,languages,US,6,"C++","Systems",49500,3.9,0,82.8
+2026-10,languages,US,7,"TypeScript","Web",27100,2.1,0,-18.1
+2026-10,languages,US,8,"Go","Systems",27100,2.1,-18.2,123
+2026-10,languages,US,9,"C#","General purpose",22200,1.7,0,0
+2026-10,languages,US,10,"Kotlin","JVM / mobile",22200,1.7,22.7,0
+2026-10,languages,US,11,"Rust","Systems",18100,1.4,0,0
+2026-10,languages,US,12,"R","Data / stats",14800,1.2,22.3,-18.2
+2026-10,languages,US,13,"Ruby","Web",1000,0.1,13.6,-37.5
+2026-10,languages,US,14,"Swift","Apple",590,0,22.9,-18.1
+2026-10,languages,IN,1,"Python","General purpose",673000,46.8,-18.2,0
+2026-10,languages,IN,2,"Java","General purpose",246000,17.1,22.4,0
+2026-10,languages,IN,3,"JavaScript","Web",165000,11.5,0,-18.2
+2026-10,languages,IN,4,"SQL","Data",135000,9.4,0,0
+2026-10,languages,IN,5,"C++","Systems",60500,4.2,22.3,22.3
+2026-10,languages,IN,6,"PHP","Web",49500,3.4,0,-18.2
+2026-10,languages,IN,7,"TypeScript","Web",27100,1.9,0,0
+2026-10,languages,IN,8,"R","Data / stats",22200,1.5,-18.5,-18.5
+2026-10,languages,IN,9,"Go","Systems",18100,1.3,0,-18.2
+2026-10,languages,IN,10,"C#","General purpose",14800,1,0,-18.2
+2026-10,languages,IN,11,"Kotlin","JVM / mobile",14800,1,22.3,0
+2026-10,languages,IN,12,"Rust","Systems",12100,0.8,-18.2,22.2
+2026-10,languages,IN,13,"Ruby","Web",390,0,0,-17.9
+2026-10,languages,IN,14,"Swift","Apple",210,0,0,-19
+2026-10,languages,GB,1,"Python","General purpose",90500,42.3,49.6,-17.7
+2026-10,languages,GB,2,"JavaScript","Web",27100,12.7,22.1,-18.1
+2026-10,languages,GB,3,"Java","General purpose",27100,12.7,0,-18.1
+2026-10,languages,GB,4,"SQL","Data",18100,8.5,22.3,-33.2
+2026-10,languages,GB,5,"C#","General purpose",9900,4.6,50,-18.2
+2026-10,languages,GB,6,"PHP","Web",9900,4.6,0,-33.1
+2026-10,languages,GB,7,"C++","Systems",8100,3.8,83.3,0
+2026-10,languages,GB,8,"TypeScript","Web",6600,3.1,0,-33.3
+2026-10,languages,GB,9,"Go","Systems",4400,2.1,127.6,50
+2026-10,languages,GB,10,"Rust","Systems",4400,2.1,0,-18.2
+2026-10,languages,GB,11,"Kotlin","JVM / mobile",4400,2.1,22.2,-18.5
+2026-10,languages,GB,12,"R","Data / stats",2900,1.4,50,-45.5
+2026-10,languages,GB,13,"Ruby","Web",210,0.1,50,-46.2
+2026-10,languages,GB,14,"Swift","Apple",90,0,80,-18.2
+2026-10,languages,CA,1,"Python","General purpose",60500,37.3,22.2,-18.2
+2026-10,languages,CA,2,"Java","General purpose",27100,16.7,22.7,-32.9
+2026-10,languages,CA,3,"JavaScript","Web",18100,11.2,22.3,-33.3
+2026-10,languages,CA,4,"SQL","Data",18100,11.2,22.2,-55.4
+2026-10,languages,CA,5,"PHP","Web",8100,5,22.2,-33.3
+2026-10,languages,CA,6,"TypeScript","Web",6600,4.1,0,-33.3
+2026-10,languages,CA,7,"C++","Systems",6600,4.1,84.1,0
+2026-10,languages,CA,8,"Kotlin","JVM / mobile",4400,2.7,50,-18.2
+2026-10,languages,CA,9,"C#","General purpose",3600,2.2,50,-33.3
+2026-10,languages,CA,10,"Go","Systems",3600,2.2,26.3,-33.3
+2026-10,languages,CA,11,"Rust","Systems",2900,1.8,20.8,0
+2026-10,languages,CA,12,"R","Data / stats",2400,1.5,123.1,0
+2026-10,languages,CA,13,"Ruby","Web",210,0.1,21.4,-19
+2026-10,languages,CA,14,"Swift","Apple",90,0.1,0,-36.4
+2026-10,languages,AU,1,"Python","General purpose",33100,38.4,-33.1,-18.3
+2026-10,languages,AU,2,"Java","General purpose",14800,17.2,0,-18.2
+2026-10,languages,AU,3,"JavaScript","Web",9900,11.5,0,-18.2
+2026-10,languages,AU,4,"SQL","Data",8100,9.4,-18.5,-18.5
+2026-10,languages,AU,5,"PHP","Web",4400,5.1,22.2,-18.5
+2026-10,languages,AU,6,"C++","Systems",3600,4.2,-19.4,-19.4
+2026-10,languages,AU,7,"TypeScript","Web",2900,3.4,0,-19.4
+2026-10,languages,AU,8,"C#","General purpose",2400,2.8,-20.8,-34.5
+2026-10,languages,AU,9,"Rust","Systems",1900,2.2,0,0
+2026-10,languages,AU,10,"Kotlin","JVM / mobile",1900,2.2,18.8,0
+2026-10,languages,AU,11,"Go","Systems",1600,1.9,0,-31.6
+2026-10,languages,AU,12,"R","Data / stats",1300,1.5,-37.5,-37.5
+2026-10,languages,AU,13,"Ruby","Web",140,0.2,-21.4,-21.4
+2026-10,languages,AU,14,"Swift","Apple",50,0.1,0,-28.6
+2026-10,languages,DE,1,"Python","General purpose",90500,38.4,-17.7,-17.7
+2026-10,languages,DE,2,"Java","General purpose",40500,17.2,0,-45.3
+2026-10,languages,DE,3,"JavaScript","Web",27100,11.5,22.1,-18.1
+2026-10,languages,DE,4,"SQL","Data",18100,7.7,0,-33.3
+2026-10,languages,DE,5,"PHP","Web",12100,5.1,49.4,0
+2026-10,languages,DE,6,"TypeScript","Web",9900,4.2,0,-45.5
+2026-10,languages,DE,7,"C++","Systems",9900,4.2,50,-18.2
+2026-10,languages,DE,8,"C#","General purpose",9900,4.2,0,-33.1
+2026-10,languages,DE,9,"Kotlin","JVM / mobile",6600,2.8,0,-33.3
+2026-10,languages,DE,10,"Go","Systems",5400,2.3,-18.2,-45.5
+2026-10,languages,DE,11,"Rust","Systems",3600,1.5,0,-34.1
+2026-10,languages,DE,12,"R","Data / stats",1600,0.7,0,-45.8
+2026-10,languages,DE,13,"Ruby","Web",140,0.1,22.2,-35.3
+2026-10,languages,DE,14,"Swift","Apple",70,0,33.3,-42.9
+2026-10,languages,FR,1,"Python","General purpose",110000,45.3,81.8,-18.5
+2026-10,languages,FR,2,"Java","General purpose",49500,20.4,-18.2,-18.2
+2026-10,languages,FR,3,"JavaScript","Web",27100,11.1,22.7,-32.9
+2026-10,languages,FR,4,"SQL","Data",14800,6.1,82.7,-18.2
+2026-10,languages,FR,5,"PHP","Web",12100,5,83.3,-18.2
+2026-10,languages,FR,6,"TypeScript","Web",6600,2.7,50,-45.5
+2026-10,languages,FR,7,"C++","Systems",6600,2.7,83.3,-18.5
+2026-10,languages,FR,8,"Kotlin","JVM / mobile",4400,1.8,24.1,-33.3
+2026-10,languages,FR,9,"C#","General purpose",3600,1.5,50,-33.3
+2026-10,languages,FR,10,"Go","Systems",3600,1.5,26.3,-45.5
+2026-10,languages,FR,11,"Rust","Systems",2900,1.2,52.6,0
+2026-10,languages,FR,12,"R","Data / stats",1600,0.7,46.2,-20.8
+2026-10,languages,FR,13,"Ruby","Web",210,0.1,90.9,0
+2026-10,languages,FR,14,"Swift","Apple",40,0,-25,-40
+2026-10,languages,BR,1,"Python","General purpose",201000,36.6,0,-18.3
+2026-10,languages,BR,2,"Java","General purpose",165000,30.1,0,-18.2
+2026-10,languages,BR,3,"JavaScript","Web",60500,11,-18.2,-33.1
+2026-10,languages,BR,4,"SQL","Data",33100,6,-18.3,0
+2026-10,languages,BR,5,"PHP","Web",22200,4,22.7,0
+2026-10,languages,BR,6,"C++","Systems",18100,3.3,-18.2,-18.2
+2026-10,languages,BR,7,"TypeScript","Web",12100,2.2,0,-18.2
+2026-10,languages,BR,8,"C#","General purpose",12100,2.2,0,-18.2
+2026-10,languages,BR,9,"Go","Systems",9900,1.8,-18.2,-18.2
+2026-10,languages,BR,10,"Kotlin","JVM / mobile",9900,1.8,-18.2,-33.1
+2026-10,languages,BR,11,"Rust","Systems",3600,0.7,-17.2,-17.2
+2026-10,languages,BR,12,"R","Data / stats",1000,0.2,-12,-12
+2026-10,languages,BR,13,"Ruby","Web",210,0,0,-17.6
+2026-10,languages,BR,14,"Swift","Apple",30,0,-33.3,-60
+2026-10,languages,MX,1,"Python","General purpose",110000,39.2,49.2,0
+2026-10,languages,MX,2,"Java","General purpose",74000,26.4,22.3,-18.2
+2026-10,languages,MX,3,"JavaScript","Web",33100,11.8,22.1,-45.3
+2026-10,languages,MX,4,"C++","Systems",18100,6.5,82.8,-33.2
+2026-10,languages,MX,5,"SQL","Data",18100,6.5,22.3,-18.5
+2026-10,languages,MX,6,"PHP","Web",9900,3.5,50,-33.1
+2026-10,languages,MX,7,"Kotlin","JVM / mobile",5400,1.9,50,0
+2026-10,languages,MX,8,"C#","General purpose",4400,1.6,22.7,-18.2
+2026-10,languages,MX,9,"TypeScript","Web",3600,1.3,0,-18.2
+2026-10,languages,MX,10,"Go","Systems",2400,0.9,0,-15.8
+2026-10,languages,MX,11,"Rust","Systems",880,0.3,0,0
+2026-10,languages,MX,12,"R","Data / stats",390,0.1,0,0
+2026-10,languages,MX,13,"Ruby","Web",50,0,25,25
+2026-10,languages,MX,14,"Swift","Apple",10,0,100,100
+2026-10,languages,ID,1,"Python","General purpose",110000,34.9,22.2,0
+2026-10,languages,ID,2,"JavaScript","Web",60500,19.2,22.2,0
+2026-10,languages,ID,3,"Java","General purpose",49500,15.7,0,0
+2026-10,languages,ID,4,"C++","Systems",33100,10.5,49.4,0
+2026-10,languages,ID,5,"PHP","Web",22200,7.1,22.7,-18.1
+2026-10,languages,ID,6,"SQL","Data",14800,4.7,22.3,0
+2026-10,languages,ID,7,"Go","Systems",8100,2.6,0,-33.1
+2026-10,languages,ID,8,"TypeScript","Web",4400,1.4,0,-18.5
+2026-10,languages,ID,9,"C#","General purpose",4400,1.4,0,-18.5
+2026-10,languages,ID,10,"Kotlin","JVM / mobile",4400,1.4,22.7,0
+2026-10,languages,ID,11,"Rust","Systems",1900,0.6,0,0
+2026-10,languages,ID,12,"R","Data / stats",1300,0.4,90,0
+2026-10,languages,ID,13,"Ruby","Web",140,0,-21.4,0
+2026-10,languages,ID,14,"Swift","Apple",50,0,80,0
+2026-10,languages,JP,1,"Python","General purpose",165000,39.1,0,-32.8
+2026-10,languages,JP,2,"JavaScript","Web",74000,17.5,0,-33.1
+2026-10,languages,JP,3,"Java","General purpose",60500,14.3,0,-33.1
+2026-10,languages,JP,4,"SQL","Data",33100,7.8,0,-33.1
+2026-10,languages,JP,5,"PHP","Web",22200,5.3,0,-33.2
+2026-10,languages,JP,6,"TypeScript","Web",18100,4.3,-18.2,-45.5
+2026-10,languages,JP,7,"C#","General purpose",18100,4.3,0,-18.2
+2026-10,languages,JP,8,"C++","Systems",14800,3.5,49.5,-18.2
+2026-10,languages,JP,9,"Kotlin","JVM / mobile",8100,1.9,0,-33.3
+2026-10,languages,JP,10,"Go","Systems",6600,1.6,50,22.7
+2026-10,languages,JP,11,"Rust","Systems",1000,0.2,13.6,0
+2026-10,languages,JP,12,"R","Data / stats",390,0.1,0,-45.8
+2026-10,languages,JP,13,"Ruby","Web",50,0,0,-20
+2026-10,languages,JP,14,"Swift","Apple",30,0,100,0
+2026-10,languages,KR,1,"Python","General purpose",60500,46.1,22.2,0
+2026-10,languages,KR,2,"Java","General purpose",22200,16.9,-18.5,-33.2
+2026-10,languages,KR,3,"JavaScript","Web",12100,9.2,0,-45.3
+2026-10,languages,KR,4,"SQL","Data",12100,9.2,-18.2,-18.2
+2026-10,languages,KR,5,"C++","Systems",6600,5,50,0
+2026-10,languages,KR,6,"C#","General purpose",4400,3.4,0,-18.2
+2026-10,languages,KR,7,"PHP","Web",4400,3.4,0,-18.2
+2026-10,languages,KR,8,"TypeScript","Web",3600,2.7,0,-34.1
+2026-10,languages,KR,9,"Kotlin","JVM / mobile",2400,1.8,0,-34.5
+2026-10,languages,KR,10,"Go","Systems",1900,1.4,-18.7,-45.8
+2026-10,languages,KR,11,"Rust","Systems",590,0.4,-18.7,-33.9
+2026-10,languages,KR,12,"R","Data / stats",320,0.2,128.6,50
+2026-10,languages,KR,13,"Ruby","Web",30,0,-50,0
+2026-10,languages,KR,14,"Swift","Apple",10,0,0,0
+2026-10,languages,IT,1,"Python","General purpose",60500,41.5,82.8,-33.1
+2026-10,languages,IT,2,"Java","General purpose",27100,18.6,22.7,-45.2
+2026-10,languages,IT,3,"C++","Systems",18100,12.4,236.4,-45.4
+2026-10,languages,IT,4,"JavaScript","Web",14800,10.2,22.2,-18.2
+2026-10,languages,IT,5,"SQL","Data",8100,5.6,84.1,-18.2
+2026-10,languages,IT,6,"PHP","Web",5400,3.7,86.2,-33.3
+2026-10,languages,IT,7,"TypeScript","Web",2900,2,50,-33.3
+2026-10,languages,IT,8,"C#","General purpose",2400,1.6,46.2,-47.2
+2026-10,languages,IT,9,"Kotlin","JVM / mobile",2400,1.6,18.8,-34.5
+2026-10,languages,IT,10,"Go","Systems",1600,1.1,30,-31.6
+2026-10,languages,IT,11,"Rust","Systems",1600,1.1,0,-37.5
+2026-10,languages,IT,12,"R","Data / stats",720,0.5,83.3,-12
+2026-10,languages,IT,13,"Ruby","Web",50,0,33.3,-42.9
+2026-10,languages,IT,14,"Swift","Apple",20,0,0,-75
+2026-10,languages,ES,1,"Python","General purpose",60500,36.9,123.6,-18.2
+2026-10,languages,ES,2,"Java","General purpose",49500,30.2,22.4,-33.1
+2026-10,languages,ES,3,"JavaScript","Web",18100,11,49.5,-33.3
+2026-10,languages,ES,4,"SQL","Data",9900,6,83.3,-18.2
+2026-10,languages,ES,5,"PHP","Web",6600,4,127.6,-33.3
+2026-10,languages,ES,6,"C++","Systems",5400,3.3,184.2,-33.3
+2026-10,languages,ES,7,"TypeScript","Web",3600,2.2,89.5,-33.3
+2026-10,languages,ES,8,"Kotlin","JVM / mobile",3600,2.2,175,-18.5
+2026-10,languages,ES,9,"C#","General purpose",2400,1.5,140,-45.5
+2026-10,languages,ES,10,"Go","Systems",2400,1.5,23.1,-33.3
+2026-10,languages,ES,11,"Rust","Systems",1300,0.8,0,-37.5
+2026-10,languages,ES,12,"R","Data / stats",590,0.4,176.9,0
+2026-10,languages,ES,13,"Swift","Apple",50,0,200,-40
+2026-10,languages,ES,14,"Ruby","Web",50,0,75,0
+2026-10,languages,NL,1,"Python","General purpose",33100,39,22.1,-18.3
+2026-10,languages,NL,2,"Java","General purpose",18100,21.3,0,-18.5
+2026-10,languages,NL,3,"JavaScript","Web",9900,11.7,22.7,-33.1
+2026-10,languages,NL,4,"SQL","Data",5400,6.4,22.7,-18.2
+2026-10,languages,NL,5,"PHP","Web",4400,5.2,24.1,-33.3
+2026-10,languages,NL,6,"TypeScript","Web",2900,3.4,26.3,-33.3
+2026-10,languages,NL,7,"C++","Systems",2900,3.4,89.5,0
+2026-10,languages,NL,8,"C#","General purpose",1900,2.2,46.2,-34.5
+2026-10,languages,NL,9,"Go","Systems",1900,2.2,123.1,20.8
+2026-10,languages,NL,10,"Kotlin","JVM / mobile",1900,2.2,18.8,-34.5
+2026-10,languages,NL,11,"Rust","Systems",1600,1.9,60,0
+2026-10,languages,NL,12,"R","Data / stats",880,1,38.9,0
+2026-10,languages,NL,13,"Ruby","Web",50,0.1,40,0
+2026-10,languages,NL,14,"Swift","Apple",30,0,-50,-80
+2026-10,languages,TR,1,"Python","General purpose",90500,42,22.3,-32.7
+2026-10,languages,TR,2,"Java","General purpose",74000,34.3,0,-18.2
+2026-10,languages,TR,3,"JavaScript","Web",14800,6.9,0,-45.3
+2026-10,languages,TR,4,"SQL","Data",12100,5.6,22.2,-18.2
+2026-10,languages,TR,5,"C++","Systems",8100,3.8,0,-63.5
+2026-10,languages,TR,6,"PHP","Web",4400,2,24.1,-45.5
+2026-10,languages,TR,7,"C#","General purpose",3600,1.7,24.1,-45.5
+2026-10,languages,TR,8,"Kotlin","JVM / mobile",2400,1.1,0,-47.2
+2026-10,languages,TR,9,"TypeScript","Web",1900,0.9,0,-44.8
+2026-10,languages,TR,10,"Go","Systems",1900,0.9,0,-45.8
+2026-10,languages,TR,11,"Rust","Systems",1300,0.6,-23.1,-23.1
+2026-10,languages,TR,12,"R","Data / stats",590,0.3,23.1,-52
+2026-10,languages,TR,13,"Ruby","Web",40,0,200,-25
+2026-10,languages,TR,14,"Swift","Apple",10,0,0,0
+2026-10,languages,VN,1,"Python","General purpose",90500,45.4,22.3,-18.2
+2026-10,languages,VN,2,"Java","General purpose",40500,20.3,0,22.2
+2026-10,languages,VN,3,"C++","Systems",18100,9.1,83.1,0
+2026-10,languages,VN,4,"JavaScript","Web",14800,7.4,22.3,0
+2026-10,languages,VN,5,"SQL","Data",14800,7.4,0,22.3
+2026-10,languages,VN,6,"PHP","Web",5400,2.7,-18.5,-33.3
+2026-10,languages,VN,7,"Go","Systems",5400,2.7,86.2,22.7
+2026-10,languages,VN,8,"TypeScript","Web",3600,1.8,-17.2,-45.5
+2026-10,languages,VN,9,"C#","General purpose",2900,1.5,0,-19.4
+2026-10,languages,VN,10,"Kotlin","JVM / mobile",1900,1,0,-20.8
+2026-10,languages,VN,11,"Rust","Systems",1000,0.5,-12,-32.3
+2026-10,languages,VN,12,"R","Data / stats",480,0.2,84.6,22
+2026-10,languages,VN,13,"Ruby","Web",110,0.1,0,-35.7
+2026-10,languages,VN,14,"Swift","Apple",30,0,-50,0
+2026-10,languages,PL,1,"Python","General purpose",60500,34.7,22.2,-45.3
+2026-10,languages,PL,2,"Java","General purpose",33100,19,0,-33.1
+2026-10,languages,PL,3,"C++","Systems",18100,10.4,175,-55.4
+2026-10,languages,PL,4,"JavaScript","Web",14800,8.5,22.2,-33.1
+2026-10,languages,PL,5,"Kotlin","JVM / mobile",14800,8.5,-18.2,-18.2
+2026-10,languages,PL,6,"SQL","Data",12100,6.9,22.2,-33.1
+2026-10,languages,PL,7,"PHP","Web",6600,3.8,83.3,-33.3
+2026-10,languages,PL,8,"TypeScript","Web",4400,2.5,24.1,-33.3
+2026-10,languages,PL,9,"C#","General purpose",3600,2.1,52.6,-46.3
+2026-10,languages,PL,10,"Go","Systems",2900,1.7,0,-47.2
+2026-10,languages,PL,11,"Rust","Systems",1900,1.1,0,-33.3
+2026-10,languages,PL,12,"R","Data / stats",1300,0.7,22.2,-63.3
+2026-10,languages,PL,13,"Ruby","Web",90,0.1,0,-64.3
+2026-10,languages,PL,14,"Swift","Apple",70,0,-33.3,-60
+2026-10,languages,SG,1,"Python","General purpose",27100,48,-18.5,-33.2
+2026-10,languages,SG,2,"Java","General purpose",6600,11.7,0,0
+2026-10,languages,SG,3,"JavaScript","Web",5400,9.6,0,-18.5
+2026-10,languages,SG,4,"SQL","Data",5400,9.6,0,-18.5
+2026-10,languages,SG,5,"PHP","Web",2400,4.3,26.3,-17.2
+2026-10,languages,SG,6,"Go","Systems",2400,4.3,0,-20.8
+2026-10,languages,SG,7,"TypeScript","Web",1900,3.4,0,-15.8
+2026-10,languages,SG,8,"C++","Systems",1900,3.4,-15.8,-15.8
+2026-10,languages,SG,9,"Kotlin","JVM / mobile",1000,1.8,0,-32.3
+2026-10,languages,SG,10,"C#","General purpose",880,1.6,0,-12
+2026-10,languages,SG,11,"Rust","Systems",720,1.3,0,0
+2026-10,languages,SG,12,"R","Data / stats",720,1.3,0,0
+2026-10,languages,SG,13,"Ruby","Web",30,0.1,0,-25
+2026-10,languages,SG,14,"Swift","Apple",20,0,0,-66.7
+2026-10,languages,SA,1,"Python","General purpose",22200,42.4,49.7,-18.1
+2026-10,languages,SA,2,"Java","General purpose",8100,15.5,22.7,-18.2
+2026-10,languages,SA,3,"JavaScript","Web",6600,12.6,0,-45.5
+2026-10,languages,SA,4,"C++","Systems",6600,12.6,247.4,-33.3
+2026-10,languages,SA,5,"SQL","Data",4400,8.4,50,-18.2
+2026-10,languages,SA,6,"PHP","Web",1900,3.6,18.8,-20.8
+2026-10,languages,SA,7,"TypeScript","Web",480,0.9,0,0
+2026-10,languages,SA,8,"C#","General purpose",480,0.9,0,-33.3
+2026-10,languages,SA,9,"Go","Systems",480,0.9,-34.4,-19.2
+2026-10,languages,SA,10,"Kotlin","JVM / mobile",480,0.9,23.1,-45.5
+2026-10,languages,SA,11,"Rust","Systems",320,0.6,-55.6,52.4
+2026-10,languages,SA,12,"R","Data / stats",260,0.5,23.8,-18.7
+2026-10,languages,SA,13,"Ruby","Web",20,0,0,0
+2026-10,languages,SA,14,"Swift","Apple",10,0,0,0

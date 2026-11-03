@@ -1,295 +1,295 @@
 snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
-2026-09,storage,WW,1,"Google Drive","Google",26799000,45,18.4,-20.6
-2026-09,storage,WW,2,"iCloud","Apple",9594000,16.1,2.8,-5.1
-2026-09,storage,WW,3,"WeTransfer","Bending Spoons",9418200,15.8,-11.2,-27.1
-2026-09,storage,WW,4,"OneDrive","Microsoft",7674500,12.9,4.9,-29.1
-2026-09,storage,WW,5,"Dropbox","Dropbox",3689200,6.2,-1.4,-21.6
-2026-09,storage,WW,6,"Terabox","Flextech",634900,1.1,18,17
-2026-09,storage,WW,7,"MediaFire","MediaFire",524200,0.9,3.9,7
-2026-09,storage,WW,8,"Amazon Photos","Amazon",447420,0.8,4,-1.7
-2026-09,storage,WW,9,"Nextcloud","Nextcloud",252900,0.4,-11.3,-17.5
-2026-09,storage,WW,10,"pCloud","pCloud",214600,0.4,7,-2.3
-2026-09,storage,WW,11,"Proton Drive","Proton",120870,0.2,18.6,70.8
-2026-09,storage,WW,12,"MEGA","MEGA",83580,0.1,-6,-12.9
-2026-09,storage,WW,13,"iDrive","iDrive",72800,0.1,3.7,-11.7
-2026-09,storage,WW,14,"Backblaze","Backblaze",61280,0.1,25.7,9.5
-2026-09,storage,US,1,"Google Drive","Google",11100000,67.2,49.3,-32.8
-2026-09,storage,US,2,"iCloud","Apple",1830000,11.1,0,0
-2026-09,storage,US,3,"OneDrive","Microsoft",1500000,9.1,23,-18
-2026-09,storage,US,4,"Dropbox","Dropbox",1220000,7.4,0,-18.7
-2026-09,storage,US,5,"WeTransfer","Bending Spoons",450000,2.7,22.3,0
-2026-09,storage,US,6,"Amazon Photos","Amazon",201000,1.2,0,0
-2026-09,storage,US,7,"MediaFire","MediaFire",49500,0.3,0,0
-2026-09,storage,US,8,"Proton Drive","Proton",33100,0.2,22.4,49.4
-2026-09,storage,US,9,"iDrive","iDrive",33100,0.2,0,-18.1
-2026-09,storage,US,10,"Nextcloud","Nextcloud",27100,0.2,0,-18.1
-2026-09,storage,US,11,"Backblaze","Backblaze",27100,0.2,22.1,0
-2026-09,storage,US,12,"Terabox","Flextech",22200,0.1,0,-18.5
-2026-09,storage,US,13,"pCloud","pCloud",22200,0.1,0,0
-2026-09,storage,US,14,"MEGA","MEGA",14800,0.1,-18.2,0
-2026-09,storage,IN,1,"Google Drive","Google",1500000,32.8,22,22
-2026-09,storage,IN,2,"WeTransfer","Bending Spoons",1500000,32.8,0,0
-2026-09,storage,IN,3,"iCloud","Apple",550000,12,0,0
-2026-09,storage,IN,4,"OneDrive","Microsoft",450000,9.8,0,0
-2026-09,storage,IN,5,"Terabox","Flextech",301000,6.6,22.4,49.8
-2026-09,storage,IN,6,"Dropbox","Dropbox",165000,3.6,0,-18.2
-2026-09,storage,IN,7,"MediaFire","MediaFire",60500,1.3,22.2,0
-2026-09,storage,IN,8,"pCloud","pCloud",14800,0.3,22.3,22.3
-2026-09,storage,IN,9,"Proton Drive","Proton",8100,0.2,0,83.3
-2026-09,storage,IN,10,"Nextcloud","Nextcloud",8100,0.2,0,0
-2026-09,storage,IN,11,"Amazon Photos","Amazon",6600,0.1,-18.2,22.7
-2026-09,storage,IN,12,"MEGA","MEGA",5400,0.1,0,-18.2
-2026-09,storage,IN,13,"iDrive","iDrive",5400,0.1,22.2,22.2
-2026-09,storage,IN,14,"Backblaze","Backblaze",2900,0.1,50,86.2
-2026-09,storage,GB,1,"Google Drive","Google",1500000,37.3,0,-18.7
-2026-09,storage,GB,2,"OneDrive","Microsoft",1000000,24.9,-18.2,-55
-2026-09,storage,GB,3,"WeTransfer","Bending Spoons",673000,16.7,-18.3,-18.3
-2026-09,storage,GB,4,"iCloud","Apple",450000,11.2,0,0
-2026-09,storage,GB,5,"Dropbox","Dropbox",301000,7.5,0,-18.3
-2026-09,storage,GB,6,"Amazon Photos","Amazon",40500,1,22.4,0
-2026-09,storage,GB,7,"MediaFire","MediaFire",12100,0.3,22.2,0
-2026-09,storage,GB,8,"pCloud","pCloud",8100,0.2,22.2,0
-2026-09,storage,GB,9,"Proton Drive","Proton",8100,0.2,0,50
-2026-09,storage,GB,10,"Nextcloud","Nextcloud",8100,0.2,0,-18.5
-2026-09,storage,GB,11,"Backblaze","Backblaze",5400,0.1,50,22.2
-2026-09,storage,GB,12,"Terabox","Flextech",4400,0.1,22.2,-18.5
-2026-09,storage,GB,13,"iDrive","iDrive",4400,0.1,0,-18.5
-2026-09,storage,GB,14,"MEGA","MEGA",3600,0.1,0,-19.4
-2026-09,storage,CA,1,"Google Drive","Google",1500000,57.8,0,-33.3
-2026-09,storage,CA,2,"OneDrive","Microsoft",368000,14.2,22.4,-45.3
-2026-09,storage,CA,3,"iCloud","Apple",301000,11.6,0,-18.3
-2026-09,storage,CA,4,"WeTransfer","Bending Spoons",201000,7.7,21.8,-18.3
-2026-09,storage,CA,5,"Dropbox","Dropbox",165000,6.4,0,-18.2
-2026-09,storage,CA,6,"Amazon Photos","Amazon",22200,0.9,0,0
-2026-09,storage,CA,7,"MediaFire","MediaFire",8100,0.3,0,0
-2026-09,storage,CA,8,"Nextcloud","Nextcloud",6600,0.3,0,-18.2
-2026-09,storage,CA,9,"pCloud","pCloud",5400,0.2,22.2,0
-2026-09,storage,CA,10,"Proton Drive","Proton",5400,0.2,22.7,84.1
-2026-09,storage,CA,11,"Terabox","Flextech",4400,0.2,0,-18.2
-2026-09,storage,CA,12,"Backblaze","Backblaze",4400,0.2,22.2,0
-2026-09,storage,CA,13,"iDrive","iDrive",2900,0.1,0,-19.4
-2026-09,storage,CA,14,"MEGA","MEGA",2400,0.1,-20.8,0
-2026-09,storage,AU,1,"Google Drive","Google",823000,50.2,48.6,21.5
-2026-09,storage,AU,2,"OneDrive","Microsoft",368000,22.5,22.3,0
-2026-09,storage,AU,3,"iCloud","Apple",165000,10.1,0,-17.9
-2026-09,storage,AU,4,"Dropbox","Dropbox",165000,10.1,0,-17.9
-2026-09,storage,AU,5,"WeTransfer","Bending Spoons",90500,5.5,0,0
-2026-09,storage,AU,6,"MediaFire","MediaFire",4400,0.3,0,0
-2026-09,storage,AU,7,"Nextcloud","Nextcloud",4400,0.3,0,-18.2
-2026-09,storage,AU,8,"pCloud","pCloud",3600,0.2,0,0
-2026-09,storage,AU,9,"Proton Drive","Proton",3600,0.2,22.7,86.2
-2026-09,storage,AU,10,"iDrive","iDrive",3600,0.2,0,-34.1
-2026-09,storage,AU,11,"Terabox","Flextech",2400,0.1,0,-20.8
-2026-09,storage,AU,12,"Backblaze","Backblaze",2400,0.1,20.8,0
-2026-09,storage,AU,13,"MEGA","MEGA",1600,0.1,0,-18.7
-2026-09,storage,AU,14,"Amazon Photos","Amazon",1600,0.1,-33.3,0
-2026-09,storage,DE,1,"Google Drive","Google",673000,27.7,-18.3,-18.3
-2026-09,storage,DE,2,"WeTransfer","Bending Spoons",550000,22.7,0,-18.3
-2026-09,storage,DE,3,"iCloud","Apple",450000,18.5,0,-18.2
-2026-09,storage,DE,4,"OneDrive","Microsoft",368000,15.2,0,-18.2
-2026-09,storage,DE,5,"Dropbox","Dropbox",201000,8.3,0,-18.3
-2026-09,storage,DE,6,"Nextcloud","Nextcloud",90500,3.7,-18.2,-18.2
-2026-09,storage,DE,7,"pCloud","pCloud",33100,1.4,0,-18.1
-2026-09,storage,DE,8,"Amazon Photos","Amazon",22200,0.9,22.7,0
-2026-09,storage,DE,9,"MediaFire","MediaFire",12100,0.5,0,0
-2026-09,storage,DE,10,"Proton Drive","Proton",12100,0.5,0,82.7
-2026-09,storage,DE,11,"Terabox","Flextech",4400,0.2,0,-18.2
-2026-09,storage,DE,12,"MEGA","MEGA",4400,0.2,-18.2,-18.2
-2026-09,storage,DE,13,"iDrive","iDrive",2900,0.1,0,-19.4
-2026-09,storage,DE,14,"Backblaze","Backblaze",2900,0.1,20.8,-19.4
-2026-09,storage,FR,1,"WeTransfer","Bending Spoons",1500000,36.8,-18,-45.4
-2026-09,storage,FR,2,"Google Drive","Google",1220000,30,0,-45.1
-2026-09,storage,FR,3,"iCloud","Apple",673000,16.5,22.4,-18.2
-2026-09,storage,FR,4,"OneDrive","Microsoft",368000,9,0,-45.3
-2026-09,storage,FR,5,"Dropbox","Dropbox",165000,4.1,-18.5,-55.3
-2026-09,storage,FR,6,"pCloud","pCloud",49500,1.2,0,-18.2
-2026-09,storage,FR,7,"Amazon Photos","Amazon",27100,0.7,22.1,22.1
-2026-09,storage,FR,8,"Nextcloud","Nextcloud",27100,0.7,-18.5,-33.2
-2026-09,storage,FR,9,"MediaFire","MediaFire",14800,0.4,0,-18.2
-2026-09,storage,FR,10,"Proton Drive","Proton",14800,0.4,22.3,49.6
-2026-09,storage,FR,11,"MEGA","MEGA",4400,0.1,-19.4,-34.1
-2026-09,storage,FR,12,"Terabox","Flextech",3600,0.1,24.1,-18.2
-2026-09,storage,FR,13,"Backblaze","Backblaze",2400,0.1,20.8,20.8
-2026-09,storage,FR,14,"iDrive","iDrive",1600,0,18.8,0
-2026-09,storage,BR,1,"Google Drive","Google",1220000,30.3,23,0
-2026-09,storage,BR,2,"iCloud","Apple",1220000,30.3,0,0
-2026-09,storage,BR,3,"OneDrive","Microsoft",823000,20.4,22.3,-17.7
-2026-09,storage,BR,4,"WeTransfer","Bending Spoons",368000,9.1,22.3,0
-2026-09,storage,BR,5,"Dropbox","Dropbox",165000,4.1,22.2,0
-2026-09,storage,BR,6,"MediaFire","MediaFire",135000,3.4,0,0
-2026-09,storage,BR,7,"Terabox","Flextech",49500,1.2,22.2,-18.2
-2026-09,storage,BR,8,"MEGA","MEGA",14800,0.4,0,0
-2026-09,storage,BR,9,"Nextcloud","Nextcloud",12100,0.3,0,22.2
-2026-09,storage,BR,10,"pCloud","pCloud",6600,0.2,50,22.7
-2026-09,storage,BR,11,"Proton Drive","Proton",6600,0.2,22.2,125
-2026-09,storage,BR,12,"iDrive","iDrive",3600,0.1,-19.4,0
-2026-09,storage,BR,13,"Backblaze","Backblaze",2900,0.1,24.1,50
-2026-09,storage,BR,14,"Amazon Photos","Amazon",1900,0,-33.3,50
-2026-09,storage,MX,1,"iCloud","Apple",823000,38.2,0,0
-2026-09,storage,MX,2,"Google Drive","Google",368000,17.1,22.3,-18.2
-2026-09,storage,MX,3,"OneDrive","Microsoft",368000,17.1,22.3,-18.2
-2026-09,storage,MX,4,"WeTransfer","Bending Spoons",368000,17.1,0,-18.2
-2026-09,storage,MX,5,"Dropbox","Dropbox",135000,6.3,22.7,-18.2
-2026-09,storage,MX,6,"MediaFire","MediaFire",40500,1.9,0,22.2
-2026-09,storage,MX,7,"Terabox","Flextech",33100,1.5,22.1,0
-2026-09,storage,MX,8,"pCloud","pCloud",5400,0.3,22.7,0
-2026-09,storage,MX,9,"MEGA","MEGA",4400,0.2,0,-18.2
-2026-09,storage,MX,10,"Nextcloud","Nextcloud",4400,0.2,0,22.2
-2026-09,storage,MX,11,"Proton Drive","Proton",1900,0.1,89.5,176.9
-2026-09,storage,MX,12,"Amazon Photos","Amazon",1600,0.1,0,18.8
-2026-09,storage,MX,13,"iDrive","iDrive",1600,0.1,0,-15.8
-2026-09,storage,MX,14,"Backblaze","Backblaze",720,0,0,22.2
-2026-09,storage,ID,1,"Google Drive","Google",2740000,74.7,0,0
-2026-09,storage,ID,2,"iCloud","Apple",450000,12.3,0,22.2
-2026-09,storage,ID,3,"OneDrive","Microsoft",165000,4.5,0,-17.9
-2026-09,storage,ID,4,"Terabox","Flextech",135000,3.7,22.7,22.7
-2026-09,storage,ID,5,"MediaFire","MediaFire",74000,2,0,22.3
-2026-09,storage,ID,6,"Dropbox","Dropbox",49500,1.3,-18.2,-18.2
-2026-09,storage,ID,7,"WeTransfer","Bending Spoons",40500,1.1,0,-18.2
-2026-09,storage,ID,8,"Nextcloud","Nextcloud",6600,0.2,0,0
-2026-09,storage,ID,9,"pCloud","pCloud",3600,0.1,22.2,51.7
-2026-09,storage,ID,10,"MEGA","MEGA",2400,0.1,0,0
-2026-09,storage,ID,11,"Proton Drive","Proton",1300,0,18.8,90
-2026-09,storage,ID,12,"iDrive","iDrive",880,0,30,47.7
-2026-09,storage,ID,13,"Backblaze","Backblaze",590,0,22,22
-2026-09,storage,ID,14,"Amazon Photos","Amazon",320,0,0,-33.3
-2026-09,storage,JP,1,"Google Drive","Google",450000,28.6,-18.2,0
-2026-09,storage,JP,2,"iCloud","Apple",450000,28.6,0,-18.2
-2026-09,storage,JP,3,"OneDrive","Microsoft",301000,19.2,-18.3,-33.2
-2026-09,storage,JP,4,"Dropbox","Dropbox",246000,15.7,0,-18.3
-2026-09,storage,JP,5,"Amazon Photos","Amazon",60500,3.8,0,-18.2
-2026-09,storage,JP,6,"WeTransfer","Bending Spoons",22200,1.4,-18.5,-18.5
-2026-09,storage,JP,7,"pCloud","pCloud",18100,1.2,0,22.3
-2026-09,storage,JP,8,"Nextcloud","Nextcloud",8100,0.5,-18.5,-18.5
-2026-09,storage,JP,9,"Terabox","Flextech",6600,0.4,22.2,0
-2026-09,storage,JP,10,"MediaFire","MediaFire",2900,0.2,0,-19.4
-2026-09,storage,JP,11,"Proton Drive","Proton",2400,0.2,24.1,176.9
-2026-09,storage,JP,12,"Backblaze","Backblaze",1600,0.1,23.1,23.1
-2026-09,storage,JP,13,"MEGA","MEGA",1300,0.1,30,30
-2026-09,storage,JP,14,"iDrive","iDrive",880,0.1,-18.2,-18.2
-2026-09,storage,KR,1,"Google Drive","Google",201000,47.8,0,0
-2026-09,storage,KR,2,"iCloud","Apple",90500,21.5,22.3,0
-2026-09,storage,KR,3,"OneDrive","Microsoft",74000,17.6,0,-18.2
-2026-09,storage,KR,4,"Dropbox","Dropbox",33100,7.9,0,-18.3
-2026-09,storage,KR,5,"WeTransfer","Bending Spoons",8100,1.9,0,-18.5
-2026-09,storage,KR,6,"Terabox","Flextech",5400,1.3,0,-18.2
-2026-09,storage,KR,7,"MediaFire","MediaFire",1900,0.5,0,18.8
-2026-09,storage,KR,8,"Nextcloud","Nextcloud",1900,0.5,0,-15.8
-2026-09,storage,KR,9,"pCloud","pCloud",1600,0.4,123.1,190
-2026-09,storage,KR,10,"Proton Drive","Proton",880,0.2,30,120.3
-2026-09,storage,KR,11,"MEGA","MEGA",720,0.2,22,0
-2026-09,storage,KR,12,"iDrive","iDrive",390,0.1,-55.6,-17.9
-2026-09,storage,KR,13,"Backblaze","Backblaze",390,0.1,-18.7,-18.7
-2026-09,storage,KR,14,"Amazon Photos","Amazon",210,0,-19.2,-19.2
-2026-09,storage,IT,1,"WeTransfer","Bending Spoons",1220000,43.9,-44.8,-55.1
-2026-09,storage,IT,2,"Google Drive","Google",550000,19.8,-18.2,-33.1
-2026-09,storage,IT,3,"iCloud","Apple",368000,13.3,0,-18.2
-2026-09,storage,IT,4,"OneDrive","Microsoft",301000,10.8,-32.9,-45.2
-2026-09,storage,IT,5,"Dropbox","Dropbox",246000,8.9,-17.9,-32.9
-2026-09,storage,IT,6,"Amazon Photos","Amazon",40500,1.5,0,0
-2026-09,storage,IT,7,"pCloud","pCloud",14800,0.5,-18.2,-18.2
-2026-09,storage,IT,8,"Nextcloud","Nextcloud",9900,0.4,-18.5,-33.3
-2026-09,storage,IT,9,"MediaFire","MediaFire",8100,0.3,0,0
-2026-09,storage,IT,10,"Terabox","Flextech",4400,0.2,0,-18.2
-2026-09,storage,IT,11,"Proton Drive","Proton",4400,0.2,50,127.6
-2026-09,storage,IT,12,"MEGA","MEGA",3600,0.1,0,-19.4
-2026-09,storage,IT,13,"iDrive","iDrive",3600,0.1,0,0
-2026-09,storage,IT,14,"Backblaze","Backblaze",1600,0.1,23.1,0
-2026-09,storage,ES,1,"WeTransfer","Bending Spoons",1000000,36.1,-33.2,-45
-2026-09,storage,ES,2,"Google Drive","Google",673000,24.3,-18.2,-45.3
-2026-09,storage,ES,3,"OneDrive","Microsoft",450000,16.2,-33.2,-63.5
-2026-09,storage,ES,4,"iCloud","Apple",368000,13.3,0,-18.2
-2026-09,storage,ES,5,"Dropbox","Dropbox",201000,7.3,-18.2,-32.8
-2026-09,storage,ES,6,"Amazon Photos","Amazon",18100,0.7,22.3,-18.5
-2026-09,storage,ES,7,"MediaFire","MediaFire",14800,0.5,22.3,0
-2026-09,storage,ES,8,"Terabox","Flextech",12100,0.4,0,-33.1
-2026-09,storage,ES,9,"pCloud","pCloud",9900,0.4,0,0
-2026-09,storage,ES,10,"Nextcloud","Nextcloud",9900,0.4,0,-33.3
-2026-09,storage,ES,11,"MEGA","MEGA",5400,0.2,-18.2,-45.5
-2026-09,storage,ES,12,"Proton Drive","Proton",4400,0.2,22.7,50
-2026-09,storage,ES,13,"iDrive","iDrive",1600,0.1,23.1,0
-2026-09,storage,ES,14,"Backblaze","Backblaze",1300,0,23.1,23.1
-2026-09,storage,NL,1,"Google Drive","Google",368000,31.1,22.4,-18.2
-2026-09,storage,NL,2,"WeTransfer","Bending Spoons",368000,31.1,0,-33.1
-2026-09,storage,NL,3,"OneDrive","Microsoft",201000,17,0,-45.1
-2026-09,storage,NL,4,"iCloud","Apple",135000,11.4,22.7,-18.2
-2026-09,storage,NL,5,"Dropbox","Dropbox",74000,6.3,0,-18.2
-2026-09,storage,NL,6,"Nextcloud","Nextcloud",12100,1,-33.3,-18.5
-2026-09,storage,NL,7,"Proton Drive","Proton",6600,0.6,22.7,50
-2026-09,storage,NL,8,"pCloud","pCloud",5400,0.5,22.7,0
-2026-09,storage,NL,9,"Terabox","Flextech",3600,0.3,20.8,-19.4
-2026-09,storage,NL,10,"MediaFire","MediaFire",3600,0.3,0,0
-2026-09,storage,NL,11,"MEGA","MEGA",1900,0.2,0,-15.8
-2026-09,storage,NL,12,"Backblaze","Backblaze",1600,0.1,0,-18.7
-2026-09,storage,NL,13,"Amazon Photos","Amazon",1300,0.1,0,0
-2026-09,storage,NL,14,"iDrive","iDrive",1000,0.1,0,-45
-2026-09,storage,TR,1,"WeTransfer","Bending Spoons",550000,36.6,0,-18.2
-2026-09,storage,TR,2,"iCloud","Apple",450000,29.9,0,-18.2
-2026-09,storage,TR,3,"Google Drive","Google",301000,20,0,0
-2026-09,storage,TR,4,"OneDrive","Microsoft",135000,9,0,-18.5
-2026-09,storage,TR,5,"Dropbox","Dropbox",27100,1.8,0,-33.2
-2026-09,storage,TR,6,"MediaFire","MediaFire",22200,1.5,22.1,49.7
-2026-09,storage,TR,7,"Terabox","Flextech",4400,0.3,22.2,22.2
-2026-09,storage,TR,8,"MEGA","MEGA",3600,0.2,24.1,0
-2026-09,storage,TR,9,"pCloud","pCloud",3600,0.2,22.2,0
-2026-09,storage,TR,10,"Nextcloud","Nextcloud",2900,0.2,20.8,-19.4
-2026-09,storage,TR,11,"Proton Drive","Proton",1600,0.1,26.3,140
-2026-09,storage,TR,12,"iDrive","iDrive",1000,0.1,60,23.1
-2026-09,storage,TR,13,"Backblaze","Backblaze",590,0,83.3,83.3
-2026-09,storage,TR,14,"Amazon Photos","Amazon",320,0,0,0
-2026-09,storage,VN,1,"Google Drive","Google",1000000,59.2,0,0
-2026-09,storage,VN,2,"iCloud","Apple",450000,26.6,22.2,22.2
-2026-09,storage,VN,3,"OneDrive","Microsoft",135000,8,0,-18.2
-2026-09,storage,VN,4,"Dropbox","Dropbox",33100,2,0,-18.1
-2026-09,storage,VN,5,"MediaFire","MediaFire",33100,2,0,22.4
-2026-09,storage,VN,6,"Terabox","Flextech",22200,1.3,-18.5,-33.2
-2026-09,storage,VN,7,"WeTransfer","Bending Spoons",9900,0.6,0,0
-2026-09,storage,VN,8,"Nextcloud","Nextcloud",2400,0.1,-17.2,0
-2026-09,storage,VN,9,"pCloud","pCloud",1600,0.1,18.8,18.8
-2026-09,storage,VN,10,"MEGA","MEGA",1300,0.1,-18.7,-18.7
-2026-09,storage,VN,11,"Proton Drive","Proton",720,0,13.6,108.3
-2026-09,storage,VN,12,"iDrive","iDrive",480,0,23.1,23.1
-2026-09,storage,VN,13,"Backblaze","Backblaze",390,0,-18.7,-18.7
-2026-09,storage,VN,14,"Amazon Photos","Amazon",320,0,400,519
-2026-09,storage,PL,1,"WeTransfer","Bending Spoons",368000,38.1,0,-18.2
-2026-09,storage,PL,2,"Google Drive","Google",201000,20.8,0,-17.9
-2026-09,storage,PL,3,"iCloud","Apple",165000,17.1,0,0
-2026-09,storage,PL,4,"OneDrive","Microsoft",135000,14,0,-33
-2026-09,storage,PL,5,"Dropbox","Dropbox",49500,5.1,0,-18.2
-2026-09,storage,PL,6,"MediaFire","MediaFire",18100,1.9,0,0
-2026-09,storage,PL,7,"Nextcloud","Nextcloud",8100,0.8,0,-18.5
-2026-09,storage,PL,8,"MEGA","MEGA",6600,0.7,0,-18.5
-2026-09,storage,PL,9,"pCloud","pCloud",3600,0.4,22.2,22.2
-2026-09,storage,PL,10,"Proton Drive","Proton",3600,0.4,22.2,83.3
-2026-09,storage,PL,11,"iDrive","iDrive",2400,0.2,0,-17.2
-2026-09,storage,PL,12,"Terabox","Flextech",1900,0.2,23.1,-15.8
-2026-09,storage,PL,13,"Backblaze","Backblaze",1300,0.1,30,30
-2026-09,storage,PL,14,"Amazon Photos","Amazon",590,0.1,-18.1,-18.1
-2026-09,storage,SG,1,"Google Drive","Google",301000,58,0,22.3
-2026-09,storage,SG,2,"OneDrive","Microsoft",90500,17.4,0,-17.7
-2026-09,storage,SG,3,"iCloud","Apple",40500,7.8,0,0
-2026-09,storage,SG,4,"WeTransfer","Bending Spoons",40500,7.8,0,-18.2
-2026-09,storage,SG,5,"Dropbox","Dropbox",33100,6.4,0,-18.3
-2026-09,storage,SG,6,"Terabox","Flextech",4400,0.8,-18.2,0
-2026-09,storage,SG,7,"pCloud","pCloud",2400,0.5,0,-20.8
-2026-09,storage,SG,8,"MediaFire","MediaFire",1900,0.4,-15.8,-15.8
-2026-09,storage,SG,9,"Nextcloud","Nextcloud",1600,0.3,-18.7,-18.7
-2026-09,storage,SG,10,"Proton Drive","Proton",880,0.2,30,120.3
-2026-09,storage,SG,11,"iDrive","iDrive",590,0.1,0,-18.1
-2026-09,storage,SG,12,"Backblaze","Backblaze",590,0.1,0,0
-2026-09,storage,SG,13,"MEGA","MEGA",480,0.1,-18.6,-18.6
-2026-09,storage,SG,14,"Amazon Photos","Amazon",390,0.1,0,23.1
-2026-09,storage,SA,1,"iCloud","Apple",165000,34.7,0,0
-2026-09,storage,SA,2,"Google Drive","Google",110000,23.1,0,-18.5
-2026-09,storage,SA,3,"WeTransfer","Bending Spoons",90500,19,0,-17.7
-2026-09,storage,SA,4,"OneDrive","Microsoft",74000,15.6,22.3,-32.7
-2026-09,storage,SA,5,"Dropbox","Dropbox",14800,3.1,0,-33.1
-2026-09,storage,SA,6,"Terabox","Flextech",9900,2.1,0,0
-2026-09,storage,SA,7,"MediaFire","MediaFire",6600,1.4,0,0
-2026-09,storage,SA,8,"pCloud","pCloud",1300,0.3,115.9,46.2
-2026-09,storage,SA,9,"Nextcloud","Nextcloud",1000,0.2,0,0
-2026-09,storage,SA,10,"iDrive","iDrive",880,0.2,122.2,81.8
-2026-09,storage,SA,11,"MEGA","MEGA",480,0.1,23.1,0
-2026-09,storage,SA,12,"Proton Drive","Proton",390,0.1,51.3,126.9
-2026-09,storage,SA,13,"Backblaze","Backblaze",210,0,242.9,414.3
-2026-09,storage,SA,14,"Amazon Photos","Amazon",170,0,-47.6,0
+2026-10,storage,WW,1,"Google Drive","Google",26899000,45,30,2.3
+2026-10,storage,WW,2,"iCloud","Apple",9694000,16.2,0.8,-4
+2026-10,storage,WW,3,"WeTransfer","Bending Spoons",9418200,15.8,21.9,-10.6
+2026-10,storage,WW,4,"OneDrive","Microsoft",7674500,12.8,35,-8.2
+2026-10,storage,WW,5,"Dropbox","Dropbox",3644200,6.1,9.1,-15
+2026-10,storage,WW,6,"Terabox","Flextech",634100,1.1,-11.5,-3.7
+2026-10,storage,WW,7,"MediaFire","MediaFire",524200,0.9,-12.9,-7.4
+2026-10,storage,WW,8,"Amazon Photos","Amazon",447760,0.7,-1.4,-2.7
+2026-10,storage,WW,9,"Nextcloud","Nextcloud",252600,0.4,26.7,0.8
+2026-10,storage,WW,10,"pCloud","pCloud",222600,0.4,32.7,29.9
+2026-10,storage,WW,11,"Proton Drive","Proton",125870,0.2,7.1,78.6
+2026-10,storage,WW,12,"MEGA","MEGA",82780,0.1,-3.1,-18.9
+2026-10,storage,WW,13,"iDrive","iDrive",73070,0.1,21.7,8.5
+2026-10,storage,WW,14,"Backblaze","Backblaze",61920,0.1,17.4,22.8
+2026-10,storage,US,1,"Google Drive","Google",11100000,67.2,48.8,0
+2026-10,storage,US,2,"iCloud","Apple",1830000,11.1,0,0
+2026-10,storage,US,3,"OneDrive","Microsoft",1500000,9.1,22,0
+2026-10,storage,US,4,"Dropbox","Dropbox",1220000,7.4,0,-18.7
+2026-10,storage,US,5,"WeTransfer","Bending Spoons",450000,2.7,0,0
+2026-10,storage,US,6,"Amazon Photos","Amazon",201000,1.2,0,0
+2026-10,storage,US,7,"MediaFire","MediaFire",49500,0.3,0,0
+2026-10,storage,US,8,"Proton Drive","Proton",33100,0.2,0,49.4
+2026-10,storage,US,9,"iDrive","iDrive",33100,0.2,0,-18.1
+2026-10,storage,US,10,"Nextcloud","Nextcloud",27100,0.2,22.1,0
+2026-10,storage,US,11,"Backblaze","Backblaze",27100,0.2,0,0
+2026-10,storage,US,12,"Terabox","Flextech",22200,0.1,0,-18.5
+2026-10,storage,US,13,"pCloud","pCloud",22200,0.1,0,0
+2026-10,storage,US,14,"MEGA","MEGA",14800,0.1,0,0
+2026-10,storage,IN,1,"Google Drive","Google",1500000,32.8,0,50
+2026-10,storage,IN,2,"WeTransfer","Bending Spoons",1500000,32.8,0,23
+2026-10,storage,IN,3,"iCloud","Apple",550000,12,0,-18.3
+2026-10,storage,IN,4,"OneDrive","Microsoft",450000,9.8,0,0
+2026-10,storage,IN,5,"Terabox","Flextech",301000,6.6,-18.3,0
+2026-10,storage,IN,6,"Dropbox","Dropbox",165000,3.6,0,-18.2
+2026-10,storage,IN,7,"MediaFire","MediaFire",60500,1.3,-18.2,-18.2
+2026-10,storage,IN,8,"pCloud","pCloud",14800,0.3,49.7,83.1
+2026-10,storage,IN,9,"Proton Drive","Proton",8100,0.2,22.2,83.3
+2026-10,storage,IN,10,"Nextcloud","Nextcloud",8100,0.2,0,0
+2026-10,storage,IN,11,"Amazon Photos","Amazon",6600,0.1,-18.5,-18.5
+2026-10,storage,IN,12,"MEGA","MEGA",5400,0.1,-18.5,-18.5
+2026-10,storage,IN,13,"iDrive","iDrive",5400,0.1,0,22.2
+2026-10,storage,IN,14,"Backblaze","Backblaze",2900,0.1,0,86.2
+2026-10,storage,GB,1,"Google Drive","Google",1500000,37.3,50,22
+2026-10,storage,GB,2,"OneDrive","Microsoft",1000000,24.9,122.2,-18
+2026-10,storage,GB,3,"WeTransfer","Bending Spoons",673000,16.7,22.4,0
+2026-10,storage,GB,4,"iCloud","Apple",450000,11.2,0,-18.2
+2026-10,storage,GB,5,"Dropbox","Dropbox",301000,7.5,0,-18.3
+2026-10,storage,GB,6,"Amazon Photos","Amazon",40500,1,-18.3,-18.3
+2026-10,storage,GB,7,"MediaFire","MediaFire",12100,0.3,-18.2,-18.2
+2026-10,storage,GB,8,"pCloud","pCloud",9900,0.2,49.5,82.7
+2026-10,storage,GB,9,"Proton Drive","Proton",9900,0.2,22.2,83.3
+2026-10,storage,GB,10,"Nextcloud","Nextcloud",8100,0.2,22.7,0
+2026-10,storage,GB,11,"Backblaze","Backblaze",5400,0.1,22.7,22.7
+2026-10,storage,GB,12,"Terabox","Flextech",4400,0.1,0,-18.5
+2026-10,storage,GB,13,"iDrive","iDrive",4400,0.1,50,22.2
+2026-10,storage,GB,14,"MEGA","MEGA",3600,0.1,0,-19.4
+2026-10,storage,CA,1,"Google Drive","Google",1500000,57.7,50,0
+2026-10,storage,CA,2,"OneDrive","Microsoft",368000,14.2,49.5,0
+2026-10,storage,CA,3,"iCloud","Apple",301000,11.6,0,-18.3
+2026-10,storage,CA,4,"WeTransfer","Bending Spoons",201000,7.7,0,-18.3
+2026-10,storage,CA,5,"Dropbox","Dropbox",165000,6.4,22.2,0
+2026-10,storage,CA,6,"Amazon Photos","Amazon",22200,0.9,0,0
+2026-10,storage,CA,7,"MediaFire","MediaFire",8100,0.3,-18.5,-18.5
+2026-10,storage,CA,8,"Proton Drive","Proton",6600,0.3,0,84.1
+2026-10,storage,CA,9,"Nextcloud","Nextcloud",6600,0.3,22.2,0
+2026-10,storage,CA,10,"pCloud","pCloud",5400,0.2,-18.2,-18.2
+2026-10,storage,CA,11,"Terabox","Flextech",4400,0.2,0,-18.2
+2026-10,storage,CA,12,"Backblaze","Backblaze",4400,0.2,0,0
+2026-10,storage,CA,13,"iDrive","iDrive",2900,0.1,24.1,0
+2026-10,storage,CA,14,"MEGA","MEGA",2400,0.1,0,-20.8
+2026-10,storage,AU,1,"Google Drive","Google",823000,50.2,-17.7,0
+2026-10,storage,AU,2,"OneDrive","Microsoft",368000,22.5,0,0
+2026-10,storage,AU,3,"iCloud","Apple",165000,10.1,0,-17.9
+2026-10,storage,AU,4,"Dropbox","Dropbox",165000,10.1,0,-17.9
+2026-10,storage,AU,5,"WeTransfer","Bending Spoons",90500,5.5,0,0
+2026-10,storage,AU,6,"MediaFire","MediaFire",4400,0.3,0,-18.2
+2026-10,storage,AU,7,"Nextcloud","Nextcloud",4400,0.3,0,-18.2
+2026-10,storage,AU,8,"pCloud","pCloud",3600,0.2,0,0
+2026-10,storage,AU,9,"Proton Drive","Proton",3600,0.2,-18.5,51.7
+2026-10,storage,AU,10,"iDrive","iDrive",3600,0.2,0,-34.1
+2026-10,storage,AU,11,"Terabox","Flextech",2400,0.1,0,0
+2026-10,storage,AU,12,"Backblaze","Backblaze",2400,0.1,-17.2,-17.2
+2026-10,storage,AU,13,"MEGA","MEGA",1600,0.1,0,-18.7
+2026-10,storage,AU,14,"Amazon Photos","Amazon",1600,0.1,0,0
+2026-10,storage,DE,1,"Google Drive","Google",673000,27.7,22.4,0
+2026-10,storage,DE,2,"WeTransfer","Bending Spoons",550000,22.7,0,-18.3
+2026-10,storage,DE,3,"iCloud","Apple",450000,18.5,0,0
+2026-10,storage,DE,4,"OneDrive","Microsoft",368000,15.2,22.3,0
+2026-10,storage,DE,5,"Dropbox","Dropbox",201000,8.3,0,-18.3
+2026-10,storage,DE,6,"Nextcloud","Nextcloud",90500,3.7,22.3,0
+2026-10,storage,DE,7,"pCloud","pCloud",33100,1.4,22.1,0
+2026-10,storage,DE,8,"Amazon Photos","Amazon",22200,0.9,0,0
+2026-10,storage,DE,9,"MediaFire","MediaFire",12100,0.5,-18.2,-18.2
+2026-10,storage,DE,10,"Proton Drive","Proton",12100,0.5,0,82.7
+2026-10,storage,DE,11,"Terabox","Flextech",4400,0.2,0,-18.2
+2026-10,storage,DE,12,"MEGA","MEGA",4400,0.2,22.2,-18.5
+2026-10,storage,DE,13,"iDrive","iDrive",2900,0.1,51.7,22.2
+2026-10,storage,DE,14,"Backblaze","Backblaze",2900,0.1,51.7,22.2
+2026-10,storage,FR,1,"WeTransfer","Bending Spoons",1500000,36.8,50,-18
+2026-10,storage,FR,2,"Google Drive","Google",1220000,30,82.3,0
+2026-10,storage,FR,3,"iCloud","Apple",673000,16.5,0,0
+2026-10,storage,FR,4,"OneDrive","Microsoft",368000,9,82.9,0
+2026-10,storage,FR,5,"Dropbox","Dropbox",165000,4.1,82.7,0
+2026-10,storage,FR,6,"pCloud","pCloud",49500,1.2,22.2,0
+2026-10,storage,FR,7,"Amazon Photos","Amazon",27100,0.7,-18.1,0
+2026-10,storage,FR,8,"Nextcloud","Nextcloud",27100,0.7,82.9,22.1
+2026-10,storage,FR,9,"MediaFire","MediaFire",14800,0.4,0,-18.2
+2026-10,storage,FR,10,"Proton Drive","Proton",14800,0.4,22.7,83.5
+2026-10,storage,FR,11,"Terabox","Flextech",3600,0.1,-19.4,-34.1
+2026-10,storage,FR,12,"MEGA","MEGA",3600,0.1,24.1,-18.2
+2026-10,storage,FR,13,"Backblaze","Backblaze",2400,0.1,24.1,50
+2026-10,storage,FR,14,"iDrive","iDrive",1900,0,131.6,175
+2026-10,storage,BR,1,"Google Drive","Google",1220000,30.3,0,0
+2026-10,storage,BR,2,"iCloud","Apple",1220000,30.3,0,0
+2026-10,storage,BR,3,"OneDrive","Microsoft",823000,20.4,0,-17.7
+2026-10,storage,BR,4,"WeTransfer","Bending Spoons",368000,9.1,-18.2,-18.2
+2026-10,storage,BR,5,"Dropbox","Dropbox",165000,4.1,0,0
+2026-10,storage,BR,6,"MediaFire","MediaFire",135000,3.3,-18.5,-18.5
+2026-10,storage,BR,7,"Terabox","Flextech",49500,1.2,-18.2,-33.1
+2026-10,storage,BR,8,"MEGA","MEGA",14800,0.4,-18.2,-33.1
+2026-10,storage,BR,9,"Nextcloud","Nextcloud",12100,0.3,0,0
+2026-10,storage,BR,10,"pCloud","pCloud",8100,0.2,49.4,83.3
+2026-10,storage,BR,11,"Proton Drive","Proton",6600,0.2,0,125
+2026-10,storage,BR,12,"iDrive","iDrive",3600,0.1,0,0
+2026-10,storage,BR,13,"Backblaze","Backblaze",2900,0.1,22.2,51.7
+2026-10,storage,BR,14,"Amazon Photos","Amazon",1900,0,0,50
+2026-10,storage,MX,1,"iCloud","Apple",823000,38.2,0,0
+2026-10,storage,MX,2,"Google Drive","Google",368000,17.1,22.3,0
+2026-10,storage,MX,3,"OneDrive","Microsoft",368000,17.1,22.3,0
+2026-10,storage,MX,4,"WeTransfer","Bending Spoons",368000,17.1,0,-18.2
+2026-10,storage,MX,5,"Dropbox","Dropbox",135000,6.3,0,-18.2
+2026-10,storage,MX,6,"MediaFire","MediaFire",40500,1.9,-18.2,0
+2026-10,storage,MX,7,"Terabox","Flextech",33100,1.5,-18.1,-18.1
+2026-10,storage,MX,8,"pCloud","pCloud",5400,0.3,22.2,22.2
+2026-10,storage,MX,9,"MEGA","MEGA",4400,0.2,0,-18.2
+2026-10,storage,MX,10,"Nextcloud","Nextcloud",4400,0.2,22.7,22.7
+2026-10,storage,MX,11,"Proton Drive","Proton",1900,0.1,-19.4,123.1
+2026-10,storage,MX,12,"Amazon Photos","Amazon",1900,0.1,0,18.8
+2026-10,storage,MX,13,"iDrive","iDrive",1600,0.1,18.8,0
+2026-10,storage,MX,14,"Backblaze","Backblaze",880,0,47.7,80.6
+2026-10,storage,ID,1,"Google Drive","Google",2740000,72.7,0,0
+2026-10,storage,ID,2,"iCloud","Apple",550000,14.6,0,22.2
+2026-10,storage,ID,3,"OneDrive","Microsoft",165000,4.4,21.8,0
+2026-10,storage,ID,4,"Terabox","Flextech",135000,3.6,0,22.7
+2026-10,storage,ID,5,"MediaFire","MediaFire",74000,2,0,22.3
+2026-10,storage,ID,6,"Dropbox","Dropbox",49500,1.3,22.2,0
+2026-10,storage,ID,7,"WeTransfer","Bending Spoons",40500,1.1,0,-18.2
+2026-10,storage,ID,8,"Nextcloud","Nextcloud",6600,0.2,0,0
+2026-10,storage,ID,9,"pCloud","pCloud",3600,0.1,84.1,179.3
+2026-10,storage,ID,10,"MEGA","MEGA",2400,0.1,0,26.3
+2026-10,storage,ID,11,"Proton Drive","Proton",1300,0,0,90
+2026-10,storage,ID,12,"iDrive","iDrive",880,0,-23.1,0
+2026-10,storage,ID,13,"Backblaze","Backblaze",590,0,22.2,49.2
+2026-10,storage,ID,14,"Amazon Photos","Amazon",320,0,0,-18.7
+2026-10,storage,JP,1,"Google Drive","Google",550000,32.9,22.2,22.2
+2026-10,storage,JP,2,"iCloud","Apple",450000,26.9,0,-18.2
+2026-10,storage,JP,3,"OneDrive","Microsoft",301000,18,22.4,-18.2
+2026-10,storage,JP,4,"Dropbox","Dropbox",246000,14.7,0,-18.3
+2026-10,storage,JP,5,"Amazon Photos","Amazon",60500,3.6,0,-18.2
+2026-10,storage,JP,6,"WeTransfer","Bending Spoons",22200,1.3,0,-18.5
+2026-10,storage,JP,7,"pCloud","pCloud",18100,1.1,22.7,22.7
+2026-10,storage,JP,8,"Nextcloud","Nextcloud",8100,0.5,0,-18.5
+2026-10,storage,JP,9,"Terabox","Flextech",6600,0.4,0,0
+2026-10,storage,JP,10,"MediaFire","MediaFire",2900,0.2,0,-19.4
+2026-10,storage,JP,11,"Proton Drive","Proton",2900,0.2,83.3,312.5
+2026-10,storage,JP,12,"Backblaze","Backblaze",1600,0.1,-18.7,-31.6
+2026-10,storage,JP,13,"MEGA","MEGA",1300,0.1,-23.1,-23.1
+2026-10,storage,JP,14,"iDrive","iDrive",880,0.1,22.2,-12
+2026-10,storage,KR,1,"Google Drive","Google",201000,47.8,0,21.8
+2026-10,storage,KR,2,"iCloud","Apple",90500,21.5,0,0
+2026-10,storage,KR,3,"OneDrive","Microsoft",74000,17.6,0,0
+2026-10,storage,KR,4,"Dropbox","Dropbox",33100,7.9,0,0
+2026-10,storage,KR,5,"WeTransfer","Bending Spoons",8100,1.9,22.7,0
+2026-10,storage,KR,6,"Terabox","Flextech",5400,1.3,0,0
+2026-10,storage,KR,7,"MediaFire","MediaFire",1900,0.5,-15.8,0
+2026-10,storage,KR,8,"pCloud","pCloud",1900,0.5,86.2,315.4
+2026-10,storage,KR,9,"Nextcloud","Nextcloud",1900,0.5,0,-15.8
+2026-10,storage,KR,10,"Proton Drive","Proton",880,0.2,0,120.3
+2026-10,storage,KR,11,"MEGA","MEGA",720,0.2,0,-18.2
+2026-10,storage,KR,12,"iDrive","iDrive",480,0.1,306.3,233.3
+2026-10,storage,KR,13,"Backblaze","Backblaze",480,0.1,233.3,233.3
+2026-10,storage,KR,14,"Amazon Photos","Amazon",210,0,0,0
+2026-10,storage,IT,1,"WeTransfer","Bending Spoons",1220000,44.7,81.3,-18.7
+2026-10,storage,IT,2,"Google Drive","Google",550000,20.1,49.5,-18.3
+2026-10,storage,IT,3,"iCloud","Apple",368000,13.5,22.3,0
+2026-10,storage,IT,4,"OneDrive","Microsoft",301000,11,82.4,-18.2
+2026-10,storage,IT,5,"Dropbox","Dropbox",201000,7.4,49.1,0
+2026-10,storage,IT,6,"Amazon Photos","Amazon",40500,1.5,22.2,22.2
+2026-10,storage,IT,7,"pCloud","pCloud",14800,0.5,49.6,49.6
+2026-10,storage,IT,8,"Nextcloud","Nextcloud",9900,0.4,50,0
+2026-10,storage,IT,9,"MediaFire","MediaFire",8100,0.3,0,-18.2
+2026-10,storage,IT,10,"Terabox","Flextech",4400,0.2,22.2,22.2
+2026-10,storage,IT,11,"Proton Drive","Proton",4400,0.2,0,83.3
+2026-10,storage,IT,12,"MEGA","MEGA",3600,0.1,24.1,0
+2026-10,storage,IT,13,"iDrive","iDrive",3600,0.1,83.3,83.3
+2026-10,storage,IT,14,"Backblaze","Backblaze",1600,0.1,125,125
+2026-10,storage,ES,1,"WeTransfer","Bending Spoons",1000000,36.1,81.8,-18
+2026-10,storage,ES,2,"Google Drive","Google",673000,24.3,82.9,-18.2
+2026-10,storage,ES,3,"OneDrive","Microsoft",450000,16.2,173.6,-18.3
+2026-10,storage,ES,4,"iCloud","Apple",368000,13.3,0,-18.2
+2026-10,storage,ES,5,"Dropbox","Dropbox",201000,7.3,48.9,-18.3
+2026-10,storage,ES,6,"Amazon Photos","Amazon",18100,0.7,0,0
+2026-10,storage,ES,7,"MediaFire","MediaFire",14800,0.5,-18.2,-18.2
+2026-10,storage,ES,8,"Terabox","Flextech",12100,0.4,0,-18.2
+2026-10,storage,ES,9,"pCloud","pCloud",12100,0.4,49.5,49.5
+2026-10,storage,ES,10,"Nextcloud","Nextcloud",9900,0.4,83.3,0
+2026-10,storage,ES,11,"MEGA","MEGA",5400,0.2,22.2,-33.3
+2026-10,storage,ES,12,"Proton Drive","Proton",4400,0.2,0,50
+2026-10,storage,ES,13,"iDrive","iDrive",1600,0.1,125,125
+2026-10,storage,ES,14,"Backblaze","Backblaze",1600,0.1,125,125
+2026-10,storage,NL,1,"Google Drive","Google",368000,31.1,22.3,0
+2026-10,storage,NL,2,"WeTransfer","Bending Spoons",368000,31.1,22.3,-18.2
+2026-10,storage,NL,3,"OneDrive","Microsoft",201000,17,82.2,0
+2026-10,storage,NL,4,"iCloud","Apple",135000,11.4,0,-18.2
+2026-10,storage,NL,5,"Dropbox","Dropbox",74000,6.2,22.3,0
+2026-10,storage,NL,6,"Nextcloud","Nextcloud",12100,1,50,0
+2026-10,storage,NL,7,"Proton Drive","Proton",8100,0.7,0,50
+2026-10,storage,NL,8,"pCloud","pCloud",5400,0.5,0,0
+2026-10,storage,NL,9,"Terabox","Flextech",3600,0.3,-17.2,-33.3
+2026-10,storage,NL,10,"MediaFire","MediaFire",3600,0.3,0,-18.2
+2026-10,storage,NL,11,"MEGA","MEGA",1900,0.2,0,-15.8
+2026-10,storage,NL,12,"Backblaze","Backblaze",1600,0.1,46.2,0
+2026-10,storage,NL,13,"Amazon Photos","Amazon",1300,0.1,0,-18.7
+2026-10,storage,NL,14,"iDrive","iDrive",880,0.1,47.7,30
+2026-10,storage,TR,1,"WeTransfer","Bending Spoons",550000,36.6,0,-18.2
+2026-10,storage,TR,2,"iCloud","Apple",450000,29.9,22.2,0
+2026-10,storage,TR,3,"Google Drive","Google",301000,20,0,-18.2
+2026-10,storage,TR,4,"OneDrive","Microsoft",135000,9,22.7,0
+2026-10,storage,TR,5,"Dropbox","Dropbox",27100,1.8,22.7,-32.9
+2026-10,storage,TR,6,"MediaFire","MediaFire",22200,1.5,-18.1,22.7
+2026-10,storage,TR,7,"Terabox","Flextech",4400,0.3,0,22.2
+2026-10,storage,TR,8,"pCloud","pCloud",4400,0.3,50,50
+2026-10,storage,TR,9,"MEGA","MEGA",3600,0.2,0,0
+2026-10,storage,TR,10,"Nextcloud","Nextcloud",2900,0.2,0,-19.4
+2026-10,storage,TR,11,"Proton Drive","Proton",1600,0.1,20.8,190
+2026-10,storage,TR,12,"iDrive","iDrive",1000,0.1,0,23.1
+2026-10,storage,TR,13,"Backblaze","Backblaze",590,0,47.7,120.3
+2026-10,storage,TR,14,"Amazon Photos","Amazon",320,0,0,0
+2026-10,storage,VN,1,"Google Drive","Google",1000000,59.1,22,0
+2026-10,storage,VN,2,"iCloud","Apple",450000,26.6,-18.2,0
+2026-10,storage,VN,3,"OneDrive","Microsoft",135000,8,22.2,-17.9
+2026-10,storage,VN,4,"Dropbox","Dropbox",33100,2,0,-45.3
+2026-10,storage,VN,5,"MediaFire","MediaFire",33100,2,-18.3,0
+2026-10,storage,VN,6,"Terabox","Flextech",22200,1.3,0,-33.2
+2026-10,storage,VN,7,"WeTransfer","Bending Spoons",9900,0.6,0,0
+2026-10,storage,VN,8,"Nextcloud","Nextcloud",2400,0.1,0,0
+2026-10,storage,VN,9,"pCloud","pCloud",1900,0.1,247.4,247.4
+2026-10,storage,VN,10,"MEGA","MEGA",1300,0.1,0,0
+2026-10,storage,VN,11,"Proton Drive","Proton",720,0,0,108.3
+2026-10,storage,VN,12,"iDrive","iDrive",480,0,83.3,125.6
+2026-10,storage,VN,13,"Backblaze","Backblaze",480,0,156.4,156.4
+2026-10,storage,VN,14,"Amazon Photos","Amazon",390,0,-23.1,376.2
+2026-10,storage,PL,1,"WeTransfer","Bending Spoons",368000,38.1,22.3,0
+2026-10,storage,PL,2,"Google Drive","Google",201000,20.8,21.8,-18.3
+2026-10,storage,PL,3,"iCloud","Apple",165000,17.1,0,0
+2026-10,storage,PL,4,"OneDrive","Microsoft",135000,14,49.2,-32.8
+2026-10,storage,PL,5,"Dropbox","Dropbox",49500,5.1,0,-33.1
+2026-10,storage,PL,6,"MediaFire","MediaFire",18100,1.9,-18.2,-18.2
+2026-10,storage,PL,7,"Nextcloud","Nextcloud",8100,0.8,22.7,-18.2
+2026-10,storage,PL,8,"MEGA","MEGA",6600,0.7,-18.2,-33.3
+2026-10,storage,PL,9,"pCloud","pCloud",4400,0.5,22.7,50
+2026-10,storage,PL,10,"Proton Drive","Proton",3600,0.4,22.7,125
+2026-10,storage,PL,11,"iDrive","iDrive",2400,0.2,20.8,0
+2026-10,storage,PL,12,"Terabox","Flextech",1900,0.2,0,-15.8
+2026-10,storage,PL,13,"Backblaze","Backblaze",1300,0.1,84.6,84.6
+2026-10,storage,PL,14,"Amazon Photos","Amazon",590,0.1,-18.6,-33.3
+2026-10,storage,SG,1,"Google Drive","Google",301000,58.2,-18.2,0
+2026-10,storage,SG,2,"OneDrive","Microsoft",90500,17.5,0,0
+2026-10,storage,SG,3,"iCloud","Apple",40500,7.8,0,0
+2026-10,storage,SG,4,"WeTransfer","Bending Spoons",40500,7.8,0,-18.2
+2026-10,storage,SG,5,"Dropbox","Dropbox",33100,6.4,0,-18.3
+2026-10,storage,SG,6,"Terabox","Flextech",3600,0.7,-19.4,-19.4
+2026-10,storage,SG,7,"pCloud","pCloud",2400,0.5,0,-20.8
+2026-10,storage,SG,8,"MediaFire","MediaFire",1900,0.4,-18.7,-31.6
+2026-10,storage,SG,9,"Nextcloud","Nextcloud",1300,0.3,0,0
+2026-10,storage,SG,10,"Proton Drive","Proton",880,0.2,0,120.3
+2026-10,storage,SG,11,"iDrive","iDrive",590,0.1,22,22
+2026-10,storage,SG,12,"MEGA","MEGA",480,0.1,0,-18.6
+2026-10,storage,SG,13,"Backblaze","Backblaze",480,0.1,0,0
+2026-10,storage,SG,14,"Amazon Photos","Amazon",390,0.1,-33.3,-17.9
+2026-10,storage,SA,1,"iCloud","Apple",165000,34.7,0,0
+2026-10,storage,SA,2,"Google Drive","Google",110000,23.1,22.7,0
+2026-10,storage,SA,3,"WeTransfer","Bending Spoons",90500,19,0,-17.7
+2026-10,storage,SA,4,"OneDrive","Microsoft",74000,15.6,48.6,0
+2026-10,storage,SA,5,"Dropbox","Dropbox",14800,3.1,22.3,-18.2
+2026-10,storage,SA,6,"Terabox","Flextech",9900,2.1,0,0
+2026-10,storage,SA,7,"MediaFire","MediaFire",6600,1.4,0,0
+2026-10,storage,SA,8,"pCloud","pCloud",1600,0.3,326.3,523.1
+2026-10,storage,SA,9,"Nextcloud","Nextcloud",1000,0.2,0,0
+2026-10,storage,SA,10,"iDrive","iDrive",880,0.2,18.8,115.9
+2026-10,storage,SA,11,"MEGA","MEGA",480,0.1,-18.7,-33.9
+2026-10,storage,SA,12,"Proton Drive","Proton",390,0.1,-18.6,50
+2026-10,storage,SA,13,"Backblaze","Backblaze",320,0.1,122.2,1042.9
+2026-10,storage,SA,14,"Amazon Photos","Amazon",140,0,-18.2,-47.1

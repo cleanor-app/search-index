@@ -1,337 +1,337 @@
 snapshot,category,scope,rank,brand,vendor,avg_monthly_searches,share_pct,mom_pct,yoy_pct
-2026-09,seo,WW,1,"Google Search Console","Free · Google",2356300,59.7,3.3,54.2
-2026-09,seo,WW,2,"Semrush","All-in-one",500700,12.7,-5.6,-24.7
-2026-09,seo,WW,3,"Ahrefs","All-in-one",233500,5.9,-7.1,-28.3
-2026-09,seo,WW,4,"Similarweb","Traffic analytics",225500,5.7,-5.4,-29.5
-2026-09,seo,WW,5,"Ubersuggest","Keyword research",145980,3.7,-15,-49.7
-2026-09,seo,WW,6,"AnswerThePublic","Keyword research",117530,3,-16,-38.1
-2026-09,seo,WW,7,"Moz","All-in-one",99650,2.5,6.1,-13.7
-2026-09,seo,WW,8,"GTmetrix","Page speed",74120,1.9,-6.3,-46.1
-2026-09,seo,WW,9,"Screaming Frog","Crawler",55920,1.4,-9.8,-15.5
-2026-09,seo,WW,10,"SE Ranking","Rank tracking",49150,1.2,-12,-68.8
-2026-09,seo,WW,11,"Surfer SEO","Content SEO",25110,0.6,-15.1,-58.6
-2026-09,seo,WW,12,"SpyFu","Competitor research",21630,0.5,-10.3,-39.3
-2026-09,seo,WW,13,"Rank Math","WordPress plugin",15950,0.4,-6.6,-27.3
-2026-09,seo,WW,14,"Yoast","WordPress plugin",9700,0.2,-7.2,-28.3
-2026-09,seo,WW,15,"Mangools","Keyword research",9280,0.2,-4.7,-24.2
-2026-09,seo,WW,16,"BrightEdge","Enterprise",9080,0.2,-11,-14.2
-2026-09,seo,US,1,"Google Search Console","Free · Google",450000,61.1,0,49.5
-2026-09,seo,US,2,"Semrush","All-in-one",90500,12.3,0,-18.2
-2026-09,seo,US,3,"Ahrefs","All-in-one",49500,6.7,0,-18.2
-2026-09,seo,US,4,"Similarweb","Traffic analytics",49500,6.7,0,-18.2
-2026-09,seo,US,5,"AnswerThePublic","Keyword research",18100,2.5,0,-33.1
-2026-09,seo,US,6,"Ubersuggest","Keyword research",14800,2,-18.2,-45.3
-2026-09,seo,US,7,"Screaming Frog","Crawler",12100,1.6,0,-18.2
-2026-09,seo,US,8,"Moz","All-in-one",9900,1.3,0,-33.1
-2026-09,seo,US,9,"GTmetrix","Page speed",8100,1.1,0,-45.5
-2026-09,seo,US,10,"SE Ranking","Rank tracking",8100,1.1,-18.5,-83.8
-2026-09,seo,US,11,"SpyFu","Competitor research",8100,1.1,0,-33.3
-2026-09,seo,US,12,"Surfer SEO","Content SEO",5400,0.7,-19.4,-64.2
-2026-09,seo,US,13,"BrightEdge","Enterprise",4400,0.6,-18.5,-18.5
-2026-09,seo,US,14,"Yoast","WordPress plugin",2900,0.4,0,-19.4
-2026-09,seo,US,15,"Rank Math","WordPress plugin",2900,0.4,0,-19.4
-2026-09,seo,US,16,"Mangools","Keyword research",1600,0.2,0,-18.7
-2026-09,seo,IN,1,"Google Search Console","Free · Google",673000,62.3,0,49.6
-2026-09,seo,IN,2,"Semrush","All-in-one",135000,12.5,0,0
-2026-09,seo,IN,3,"Ahrefs","All-in-one",60500,5.6,-18.2,-33.1
-2026-09,seo,IN,4,"Ubersuggest","Keyword research",49500,4.6,-18.2,-45.3
-2026-09,seo,IN,5,"Similarweb","Traffic analytics",40500,3.8,0,-18.3
-2026-09,seo,IN,6,"AnswerThePublic","Keyword research",33100,3.1,-18.1,-32.9
-2026-09,seo,IN,7,"GTmetrix","Page speed",27100,2.5,0,-45.2
-2026-09,seo,IN,8,"SE Ranking","Rank tracking",14800,1.4,0,-33.1
-2026-09,seo,IN,9,"Screaming Frog","Crawler",12100,1.1,0,22.3
-2026-09,seo,IN,10,"Moz","All-in-one",12100,1.1,0,-18.2
-2026-09,seo,IN,11,"SpyFu","Competitor research",6600,0.6,-18.2,-33.3
-2026-09,seo,IN,12,"Surfer SEO","Content SEO",6600,0.6,-18.2,-55.6
-2026-09,seo,IN,13,"Rank Math","WordPress plugin",3600,0.3,0,-18.2
-2026-09,seo,IN,14,"Mangools","Keyword research",2900,0.3,0,0
-2026-09,seo,IN,15,"BrightEdge","Enterprise",1600,0.1,0,-15.8
-2026-09,seo,IN,16,"Yoast","WordPress plugin",1000,0.1,0,-32.3
-2026-09,seo,GB,1,"Google Search Console","Free · Google",135000,57,0,50
-2026-09,seo,GB,2,"Semrush","All-in-one",27100,11.4,-18.1,-32.9
-2026-09,seo,GB,3,"Ahrefs","All-in-one",18100,7.6,0,-33.3
-2026-09,seo,GB,4,"Similarweb","Traffic analytics",18100,7.6,-18.2,-45.3
-2026-09,seo,GB,5,"AnswerThePublic","Keyword research",8100,3.4,-18.5,-45.7
-2026-09,seo,GB,6,"Ubersuggest","Keyword research",6600,2.8,-18.2,-55.6
-2026-09,seo,GB,7,"Screaming Frog","Crawler",5400,2.3,-18.5,-18.5
-2026-09,seo,GB,8,"SE Ranking","Rank tracking",4400,1.9,0,-70.2
-2026-09,seo,GB,9,"GTmetrix","Page speed",3600,1.5,-17.2,-45.5
-2026-09,seo,GB,10,"Moz","All-in-one",2900,1.2,0,-19.4
-2026-09,seo,GB,11,"SpyFu","Competitor research",1600,0.7,-23.1,-47.4
-2026-09,seo,GB,12,"Surfer SEO","Content SEO",1600,0.7,-12,-63.3
-2026-09,seo,GB,13,"BrightEdge","Enterprise",1300,0.5,0,0
-2026-09,seo,GB,14,"Rank Math","WordPress plugin",1300,0.5,0,-32.3
-2026-09,seo,GB,15,"Yoast","WordPress plugin",1000,0.4,-12,-12
-2026-09,seo,GB,16,"Mangools","Keyword research",590,0.2,-18.7,-33.9
-2026-09,seo,CA,1,"Google Search Console","Free · Google",90500,65.2,0,81.8
-2026-09,seo,CA,2,"Semrush","All-in-one",14800,10.7,0,-18.2
-2026-09,seo,CA,3,"Ahrefs","All-in-one",8100,5.8,0,-18.5
-2026-09,seo,CA,4,"Similarweb","Traffic analytics",6600,4.8,-45.5,-33.3
-2026-09,seo,CA,5,"Ubersuggest","Keyword research",3600,2.6,0,-45.5
-2026-09,seo,CA,6,"AnswerThePublic","Keyword research",3600,2.6,-20.8,-47.2
-2026-09,seo,CA,7,"Moz","All-in-one",2900,2.1,46.2,-47.2
-2026-09,seo,CA,8,"Screaming Frog","Crawler",1900,1.4,0,-15.8
-2026-09,seo,CA,9,"GTmetrix","Page speed",1900,1.4,0,-33.3
-2026-09,seo,CA,10,"SE Ranking","Rank tracking",1300,0.9,-12,-45
-2026-09,seo,CA,11,"Surfer SEO","Content SEO",1000,0.7,-18.6,-63.1
-2026-09,seo,CA,12,"SpyFu","Competitor research",720,0.5,0,-41
-2026-09,seo,CA,13,"Rank Math","WordPress plugin",590,0.4,0,-33.3
-2026-09,seo,CA,14,"Yoast","WordPress plugin",480,0.3,-17.9,-33.3
-2026-09,seo,CA,15,"Mangools","Keyword research",390,0.3,-18.7,-18.7
-2026-09,seo,CA,16,"BrightEdge","Enterprise",320,0.2,-18.7,-18.7
-2026-09,seo,AU,1,"Google Search Console","Free · Google",60500,61.5,22.3,123.5
-2026-09,seo,AU,2,"Semrush","All-in-one",12100,12.3,0,-18.2
-2026-09,seo,AU,3,"Ahrefs","All-in-one",6600,6.7,0,-18.5
-2026-09,seo,AU,4,"Similarweb","Traffic analytics",5400,5.5,0,-33.3
-2026-09,seo,AU,5,"Ubersuggest","Keyword research",2900,2.9,0,-45.5
-2026-09,seo,AU,6,"AnswerThePublic","Keyword research",2900,2.9,-20.8,-34.5
-2026-09,seo,AU,7,"Screaming Frog","Crawler",1600,1.6,0,-15.8
-2026-09,seo,AU,8,"GTmetrix","Page speed",1300,1.3,0,-47.4
-2026-09,seo,AU,9,"SE Ranking","Rank tracking",1300,1.3,-18.7,-18.7
-2026-09,seo,AU,10,"Surfer SEO","Content SEO",880,0.9,0,-63.1
-2026-09,seo,AU,11,"Moz","All-in-one",720,0.7,0,-18.2
-2026-09,seo,AU,12,"SpyFu","Competitor research",590,0.6,0,-33.3
-2026-09,seo,AU,13,"Rank Math","WordPress plugin",590,0.6,0,-18.6
-2026-09,seo,AU,14,"Yoast","WordPress plugin",390,0.4,0,-18.7
-2026-09,seo,AU,15,"BrightEdge","Enterprise",320,0.3,23.8,0
-2026-09,seo,AU,16,"Mangools","Keyword research",260,0.3,0,0
-2026-09,seo,DE,1,"Google Search Console","Free · Google",110000,53.5,22.2,82.3
-2026-09,seo,DE,2,"Moz","All-in-one",40500,19.7,22.4,0
-2026-09,seo,DE,3,"Semrush","All-in-one",12100,5.9,0,-18.2
-2026-09,seo,DE,4,"Ahrefs","All-in-one",9900,4.8,0,-33.1
-2026-09,seo,DE,5,"Similarweb","Traffic analytics",9900,4.8,0,-33.3
-2026-09,seo,DE,6,"Ubersuggest","Keyword research",5400,2.6,-18.2,-45.5
-2026-09,seo,DE,7,"AnswerThePublic","Keyword research",4400,2.1,-19.4,-46.3
-2026-09,seo,DE,8,"Screaming Frog","Crawler",3600,1.8,-19.4,-19.4
-2026-09,seo,DE,9,"SE Ranking","Rank tracking",2900,1.4,-20.8,-80.8
-2026-09,seo,DE,10,"GTmetrix","Page speed",2400,1.2,0,-34.5
-2026-09,seo,DE,11,"Surfer SEO","Content SEO",1300,0.6,-18.2,-55
-2026-09,seo,DE,12,"Rank Math","WordPress plugin",1300,0.6,-12,-32.3
-2026-09,seo,DE,13,"Mangools","Keyword research",720,0.4,0,-41
-2026-09,seo,DE,14,"Yoast","WordPress plugin",590,0.3,-18.6,-18.6
-2026-09,seo,DE,15,"SpyFu","Competitor research",390,0.2,0,-45.8
-2026-09,seo,DE,16,"BrightEdge","Enterprise",140,0.1,0,-21.4
-2026-09,seo,FR,1,"Google Search Console","Free · Google",135000,50.9,0,22.7
-2026-09,seo,FR,2,"Semrush","All-in-one",74000,27.9,-18.2,-55.2
-2026-09,seo,FR,3,"Similarweb","Traffic analytics",12100,4.6,-18.5,-55.4
-2026-09,seo,FR,4,"Ubersuggest","Keyword research",12100,4.6,-18.5,-55.4
-2026-09,seo,FR,5,"Ahrefs","All-in-one",8100,3.1,-18.5,-33.3
-2026-09,seo,FR,6,"AnswerThePublic","Keyword research",6600,2.5,-19.4,-64.2
-2026-09,seo,FR,7,"Screaming Frog","Crawler",4400,1.7,-34.5,-56.8
-2026-09,seo,FR,8,"GTmetrix","Page speed",3600,1.4,-20.8,-64.8
-2026-09,seo,FR,9,"SE Ranking","Rank tracking",3600,1.4,-20.8,-71.2
-2026-09,seo,FR,10,"Moz","All-in-one",1900,0.7,0,-20.8
-2026-09,seo,FR,11,"Surfer SEO","Content SEO",1000,0.4,-18.6,-63.1
-2026-09,seo,FR,12,"Rank Math","WordPress plugin",880,0.3,-18.6,-52
-2026-09,seo,FR,13,"SpyFu","Competitor research",590,0.2,0,-63.6
-2026-09,seo,FR,14,"Yoast","WordPress plugin",590,0.2,0,-45.8
-2026-09,seo,FR,15,"Mangools","Keyword research",480,0.2,-18.7,-55.9
-2026-09,seo,FR,16,"BrightEdge","Enterprise",140,0.1,-22.2,-36.4
-2026-09,seo,BR,1,"Google Search Console","Free · Google",74000,43.1,21.5,81.8
-2026-09,seo,BR,2,"Semrush","All-in-one",27100,15.8,0,-32.9
-2026-09,seo,BR,3,"Similarweb","Traffic analytics",18100,10.5,0,-33.3
-2026-09,seo,BR,4,"Ubersuggest","Keyword research",18100,10.5,0,-55.3
-2026-09,seo,BR,5,"AnswerThePublic","Keyword research",14800,8.6,-18.2,-33.1
-2026-09,seo,BR,6,"GTmetrix","Page speed",8100,4.7,0,-45.5
-2026-09,seo,BR,7,"Ahrefs","All-in-one",5400,3.1,0,-55.6
-2026-09,seo,BR,8,"Moz","All-in-one",1600,0.9,0,-15.8
-2026-09,seo,BR,9,"Screaming Frog","Crawler",1300,0.8,-31.6,0
-2026-09,seo,BR,10,"SE Ranking","Rank tracking",1000,0.6,-12,-63.3
-2026-09,seo,BR,11,"SpyFu","Competitor research",590,0.3,0,-33.3
-2026-09,seo,BR,12,"Surfer SEO","Content SEO",590,0.3,-17.9,-63.6
-2026-09,seo,BR,13,"Rank Math","WordPress plugin",590,0.3,0,-18.6
-2026-09,seo,BR,14,"Yoast","WordPress plugin",320,0.2,0,-33.3
-2026-09,seo,BR,15,"Mangools","Keyword research",210,0.1,0,-46.9
-2026-09,seo,BR,16,"BrightEdge","Enterprise",70,0,0,0
-2026-09,seo,MX,1,"Google Search Console","Free · Google",22200,51.2,22.1,82.9
-2026-09,seo,MX,2,"Semrush","All-in-one",6600,15.2,0,-33.3
-2026-09,seo,MX,3,"AnswerThePublic","Keyword research",3600,8.3,0,0
-2026-09,seo,MX,4,"Similarweb","Traffic analytics",2900,6.7,0,-17.2
-2026-09,seo,MX,5,"Ahrefs","All-in-one",1900,4.4,0,-33.3
-2026-09,seo,MX,6,"Ubersuggest","Keyword research",1900,4.4,0,-33.3
-2026-09,seo,MX,7,"GTmetrix","Page speed",1300,3,-18.2,-44.6
-2026-09,seo,MX,8,"Moz","All-in-one",720,1.7,0,-18.2
-2026-09,seo,MX,9,"Screaming Frog","Crawler",590,1.4,-18.6,-18.6
-2026-09,seo,MX,10,"SE Ranking","Rank tracking",480,1.1,0,-63.6
-2026-09,seo,MX,11,"Surfer SEO","Content SEO",320,0.7,-19,-46.9
-2026-09,seo,MX,12,"SpyFu","Competitor research",260,0.6,-19,-46.9
-2026-09,seo,MX,13,"Rank Math","WordPress plugin",210,0.5,0,-34.6
-2026-09,seo,MX,14,"Mangools","Keyword research",170,0.4,-17.6,-33.3
-2026-09,seo,MX,15,"Yoast","WordPress plugin",140,0.3,0,-35.3
-2026-09,seo,MX,16,"BrightEdge","Enterprise",50,0.1,66.7,25
-2026-09,seo,ID,1,"Google Search Console","Free · Google",74000,62.5,0,22.3
-2026-09,seo,ID,2,"Ahrefs","All-in-one",12100,10.2,0,-33.1
-2026-09,seo,ID,3,"Semrush","All-in-one",9900,8.4,0,-18.2
-2026-09,seo,ID,4,"Ubersuggest","Keyword research",6600,5.6,-33.3,-55.6
-2026-09,seo,ID,5,"Similarweb","Traffic analytics",5400,4.6,22.7,-18.2
-2026-09,seo,ID,6,"GTmetrix","Page speed",4400,3.7,-19.4,-46.3
-2026-09,seo,ID,7,"AnswerThePublic","Keyword research",2400,2,-18.7,-45.8
-2026-09,seo,ID,8,"Moz","All-in-one",1000,0.8,30,30
-2026-09,seo,ID,9,"Screaming Frog","Crawler",720,0.6,0,-33
-2026-09,seo,ID,10,"SE Ranking","Rank tracking",590,0.5,-18.6,-45.5
-2026-09,seo,ID,11,"Surfer SEO","Content SEO",390,0.3,-19.2,-46.2
-2026-09,seo,ID,12,"Rank Math","WordPress plugin",320,0.3,0,-18.7
-2026-09,seo,ID,13,"Yoast","WordPress plugin",210,0.2,-19.2,-19.2
-2026-09,seo,ID,14,"Mangools","Keyword research",210,0.2,21.4,0
-2026-09,seo,ID,15,"SpyFu","Competitor research",170,0.1,-17.6,-17.6
-2026-09,seo,ID,16,"BrightEdge","Enterprise",40,0,-50,-66.7
-2026-09,seo,JP,1,"Google Search Console","Free · Google",60500,56.3,0,49.5
-2026-09,seo,JP,2,"Moz","All-in-one",18100,16.8,-18.2,-18.2
-2026-09,seo,JP,3,"Ahrefs","All-in-one",9900,9.2,-18.2,-18.2
-2026-09,seo,JP,4,"Similarweb","Traffic analytics",8100,7.5,-18.5,-33.3
-2026-09,seo,JP,5,"Semrush","All-in-one",4400,4.1,0,-18.5
-2026-09,seo,JP,6,"Ubersuggest","Keyword research",3600,3.3,-17.2,-55.6
-2026-09,seo,JP,7,"Screaming Frog","Crawler",880,0.8,-28,0
-2026-09,seo,JP,8,"AnswerThePublic","Keyword research",390,0.4,-19.2,-56.2
-2026-09,seo,JP,9,"GTmetrix","Page speed",390,0.4,-18.7,-55.9
-2026-09,seo,JP,10,"SE Ranking","Rank tracking",390,0.4,-19.2,-79
-2026-09,seo,JP,11,"Surfer SEO","Content SEO",260,0.2,0,-56.2
-2026-09,seo,JP,12,"Rank Math","WordPress plugin",260,0.2,-34.6,-34.6
-2026-09,seo,JP,13,"Yoast","WordPress plugin",140,0.1,0,-21.4
-2026-09,seo,JP,14,"SpyFu","Competitor research",110,0.1,-22.2,-50
-2026-09,seo,JP,15,"BrightEdge","Enterprise",70,0.1,-42.9,-42.9
-2026-09,seo,JP,16,"Mangools","Keyword research",50,0,0,25
-2026-09,seo,KR,1,"Google Search Console","Free · Google",14800,62.3,0,124.2
-2026-09,seo,KR,2,"Similarweb","Traffic analytics",2900,12.2,0,0
-2026-09,seo,KR,3,"Semrush","All-in-one",2400,10.1,0,-34.5
-2026-09,seo,KR,4,"Ahrefs","All-in-one",1600,6.7,0,-31.6
-2026-09,seo,KR,5,"Ubersuggest","Keyword research",590,2.5,-18.6,-33.3
-2026-09,seo,KR,6,"Moz","All-in-one",390,1.6,0,-33.3
-2026-09,seo,KR,7,"AnswerThePublic","Keyword research",210,0.9,-33.3,-17.6
-2026-09,seo,KR,8,"Surfer SEO","Content SEO",210,0.9,0,-47.6
-2026-09,seo,KR,9,"Screaming Frog","Crawler",170,0.7,0,-19
-2026-09,seo,KR,10,"GTmetrix","Page speed",170,0.7,-21.4,-35.3
-2026-09,seo,KR,11,"Rank Math","WordPress plugin",110,0.5,0,-21.4
-2026-09,seo,KR,12,"SE Ranking","Rank tracking",70,0.3,66.7,-28.6
-2026-09,seo,KR,13,"SpyFu","Competitor research",40,0.2,50,-25
-2026-09,seo,KR,14,"Mangools","Keyword research",40,0.2,50,-40
-2026-09,seo,KR,15,"BrightEdge","Enterprise",30,0.1,33.3,33.3
-2026-09,seo,KR,16,"Yoast","WordPress plugin",30,0.1,-33.3,-50
-2026-09,seo,IT,1,"Google Search Console","Free · Google",74000,64.3,0,49.6
-2026-09,seo,IT,2,"Semrush","All-in-one",14800,12.9,-33.1,-55.2
-2026-09,seo,IT,3,"Similarweb","Traffic analytics",5400,4.7,-34.1,-56.1
-2026-09,seo,IT,4,"AnswerThePublic","Keyword research",5400,4.7,-33.3,-63.6
-2026-09,seo,IT,5,"Ubersuggest","Keyword research",4400,3.8,-17.2,-55.6
-2026-09,seo,IT,6,"Ahrefs","All-in-one",3600,3.1,-17.2,-45.5
-2026-09,seo,IT,7,"GTmetrix","Page speed",2400,2.1,-31.6,-55.2
-2026-09,seo,IT,8,"Screaming Frog","Crawler",1600,1.4,-32.3,-45
-2026-09,seo,IT,9,"Moz","All-in-one",880,0.8,-12,-12
-2026-09,seo,IT,10,"SE Ranking","Rank tracking",720,0.6,-33.9,-55.7
-2026-09,seo,IT,11,"Rank Math","WordPress plugin",590,0.5,-33.3,-55.6
-2026-09,seo,IT,12,"Surfer SEO","Content SEO",480,0.4,-19.2,-64.4
-2026-09,seo,IT,13,"Yoast","WordPress plugin",320,0.3,-46.9,-34.6
-2026-09,seo,IT,14,"SpyFu","Competitor research",260,0.2,-34.6,-56.4
-2026-09,seo,IT,15,"Mangools","Keyword research",110,0.1,0,-35.7
-2026-09,seo,IT,16,"BrightEdge","Enterprise",90,0.1,-20,-55.6
-2026-09,seo,ES,1,"Google Search Console","Free · Google",90500,59.7,0,48.6
-2026-09,seo,ES,2,"Semrush","All-in-one",22200,14.6,-18.2,-45.4
-2026-09,seo,ES,3,"Similarweb","Traffic analytics",8100,5.3,-18.5,-45.7
-2026-09,seo,ES,4,"Ahrefs","All-in-one",6600,4.4,0,-33.3
-2026-09,seo,ES,5,"Ubersuggest","Keyword research",5400,3.6,-19.4,-56.1
-2026-09,seo,ES,6,"AnswerThePublic","Keyword research",5400,3.6,-18.5,0
-2026-09,seo,ES,7,"SE Ranking","Rank tracking",4400,2.9,-33.3,-63.6
-2026-09,seo,ES,8,"Screaming Frog","Crawler",2900,1.9,-33.3,-44.8
-2026-09,seo,ES,9,"GTmetrix","Page speed",2400,1.6,-18.7,-55.2
-2026-09,seo,ES,10,"Moz","All-in-one",1000,0.7,0,-32.3
-2026-09,seo,ES,11,"Surfer SEO","Content SEO",720,0.5,0,-61
-2026-09,seo,ES,12,"Rank Math","WordPress plugin",720,0.5,-33.9,-45.8
-2026-09,seo,ES,13,"SpyFu","Competitor research",390,0.3,-46.9,-56.4
-2026-09,seo,ES,14,"Mangools","Keyword research",390,0.3,-19.2,-56.2
-2026-09,seo,ES,15,"Yoast","WordPress plugin",320,0.2,-34.6,-46.9
-2026-09,seo,ES,16,"BrightEdge","Enterprise",110,0.1,-47.1,0
-2026-09,seo,NL,1,"Google Search Console","Free · Google",49500,58.1,0,49.4
-2026-09,seo,NL,2,"Semrush","All-in-one",8100,9.5,0,-33.3
-2026-09,seo,NL,3,"Ahrefs","All-in-one",6600,7.7,0,-33.3
-2026-09,seo,NL,4,"Similarweb","Traffic analytics",5400,6.3,0,-45.5
-2026-09,seo,NL,5,"Ubersuggest","Keyword research",3600,4.2,0,-55.6
-2026-09,seo,NL,6,"SE Ranking","Rank tracking",2900,3.4,0,-64.8
-2026-09,seo,NL,7,"AnswerThePublic","Keyword research",1900,2.2,-18.7,-55.2
-2026-09,seo,NL,8,"Screaming Frog","Crawler",1900,2.2,0,-44.8
-2026-09,seo,NL,9,"GTmetrix","Page speed",1600,1.9,-18.7,-45.8
-2026-09,seo,NL,10,"Moz","All-in-one",720,0.8,0,-54.6
-2026-09,seo,NL,11,"Surfer SEO","Content SEO",720,0.8,-17.9,-63.6
-2026-09,seo,NL,12,"Yoast","WordPress plugin",720,0.8,-18.7,-61
-2026-09,seo,NL,13,"Rank Math","WordPress plugin",590,0.7,-18.7,-33.9
-2026-09,seo,NL,14,"Mangools","Keyword research",590,0.7,-18.7,-55.7
-2026-09,seo,NL,15,"SpyFu","Competitor research",260,0.3,0,-80.7
-2026-09,seo,NL,16,"BrightEdge","Enterprise",170,0.2,0,-35.3
-2026-09,seo,TR,1,"Google Search Console","Free · Google",60500,64.4,22.3,123.5
-2026-09,seo,TR,2,"Semrush","All-in-one",12100,12.9,-18.2,0
-2026-09,seo,TR,3,"Similarweb","Traffic analytics",6600,7,0,-18.2
-2026-09,seo,TR,4,"Ahrefs","All-in-one",5400,5.7,0,0
-2026-09,seo,TR,5,"GTmetrix","Page speed",2400,2.6,-15.8,-33.3
-2026-09,seo,TR,6,"Ubersuggest","Keyword research",1900,2,0,-45.8
-2026-09,seo,TR,7,"Moz","All-in-one",1600,1.7,-15.8,0
-2026-09,seo,TR,8,"Screaming Frog","Crawler",1000,1.1,0,0
-2026-09,seo,TR,9,"AnswerThePublic","Keyword research",720,0.8,-33,-18.1
-2026-09,seo,TR,10,"SE Ranking","Rank tracking",390,0.4,0,0
-2026-09,seo,TR,11,"Surfer SEO","Content SEO",390,0.4,-18.7,-33.3
-2026-09,seo,TR,12,"Rank Math","WordPress plugin",390,0.4,-18.7,-33.3
-2026-09,seo,TR,13,"SpyFu","Competitor research",260,0.3,-19,-34.6
-2026-09,seo,TR,14,"Yoast","WordPress plugin",170,0.2,22.2,-47.6
-2026-09,seo,TR,15,"Mangools","Keyword research",140,0.1,-21.4,0
-2026-09,seo,TR,16,"BrightEdge","Enterprise",40,0,0,100
-2026-09,seo,VN,1,"Google Search Console","Free · Google",74000,66.1,0,22.3
-2026-09,seo,VN,2,"Semrush","All-in-one",14800,13.2,0,-33.1
-2026-09,seo,VN,3,"Similarweb","Traffic analytics",9900,8.8,0,-33.1
-2026-09,seo,VN,4,"Ahrefs","All-in-one",6600,5.9,0,-33.3
-2026-09,seo,VN,5,"Screaming Frog","Crawler",1600,1.4,0,-18.7
-2026-09,seo,VN,6,"Ubersuggest","Keyword research",1000,0.9,-18.2,-44.6
-2026-09,seo,VN,7,"AnswerThePublic","Keyword research",1000,0.9,-18.2,-44.6
-2026-09,seo,VN,8,"GTmetrix","Page speed",880,0.8,-18.1,-41
-2026-09,seo,VN,9,"Moz","All-in-one",480,0.4,0,-55.6
-2026-09,seo,VN,10,"SE Ranking","Rank tracking",480,0.4,0,0
-2026-09,seo,VN,11,"Surfer SEO","Content SEO",390,0.3,0,-55.9
-2026-09,seo,VN,12,"Rank Math","WordPress plugin",390,0.3,0,-17.9
-2026-09,seo,VN,13,"SpyFu","Competitor research",210,0.2,21.4,-46.9
-2026-09,seo,VN,14,"Mangools","Keyword research",170,0.2,-21.4,-47.6
-2026-09,seo,VN,15,"Yoast","WordPress plugin",70,0.1,40,-22.2
-2026-09,seo,VN,16,"BrightEdge","Enterprise",30,0,0,0
-2026-09,seo,PL,1,"Google Search Console","Free · Google",74000,68.6,0,49.6
-2026-09,seo,PL,2,"Ahrefs","All-in-one",8100,7.5,0,-18.5
-2026-09,seo,PL,3,"Semrush","All-in-one",5400,5,0,-18.5
-2026-09,seo,PL,4,"Similarweb","Traffic analytics",5400,5,0,-33.3
-2026-09,seo,PL,5,"AnswerThePublic","Keyword research",3600,3.3,-20.8,-56.8
-2026-09,seo,PL,6,"Ubersuggest","Keyword research",2400,2.2,0,-55.2
-2026-09,seo,PL,7,"Surfer SEO","Content SEO",2400,2.2,0,-45.8
-2026-09,seo,PL,8,"Screaming Frog","Crawler",1600,1.5,-37.5,-23.1
-2026-09,seo,PL,9,"Moz","All-in-one",1600,1.5,0,18.8
-2026-09,seo,PL,10,"GTmetrix","Page speed",1300,1.2,0,-37.5
-2026-09,seo,PL,11,"SE Ranking","Rank tracking",1000,0.9,-18.7,-94.1
-2026-09,seo,PL,12,"Rank Math","WordPress plugin",390,0.4,-18.7,-18.7
-2026-09,seo,PL,13,"SpyFu","Competitor research",260,0.2,-17.6,-76.3
-2026-09,seo,PL,14,"Yoast","WordPress plugin",210,0.2,0,0
-2026-09,seo,PL,15,"Mangools","Keyword research",140,0.1,27.3,0
-2026-09,seo,PL,16,"BrightEdge","Enterprise",90,0.1,54.5,240
-2026-09,seo,SG,1,"Google Search Console","Free · Google",22200,58.9,0,83.1
-2026-09,seo,SG,2,"Semrush","All-in-one",4400,11.7,-18.5,-18.5
-2026-09,seo,SG,3,"Ahrefs","All-in-one",3600,9.6,0,0
-2026-09,seo,SG,4,"Similarweb","Traffic analytics",3600,9.6,0,-18.2
-2026-09,seo,SG,5,"Ubersuggest","Keyword research",1000,2.7,0,-55
-2026-09,seo,SG,6,"AnswerThePublic","Keyword research",720,1.9,0,-33
-2026-09,seo,SG,7,"Screaming Frog","Crawler",390,1,0,-18.7
-2026-09,seo,SG,8,"GTmetrix","Page speed",390,1,-18.7,-55.9
-2026-09,seo,SG,9,"Moz","All-in-one",320,0.8,0,-45.8
-2026-09,seo,SG,10,"Surfer SEO","Content SEO",320,0.8,-34.6,-56.4
-2026-09,seo,SG,11,"SE Ranking","Rank tracking",260,0.7,23.8,0
-2026-09,seo,SG,12,"SpyFu","Competitor research",140,0.4,-35.7,-47.1
-2026-09,seo,SG,13,"Rank Math","WordPress plugin",140,0.4,-18.2,-35.7
-2026-09,seo,SG,14,"Yoast","WordPress plugin",70,0.2,40,0
-2026-09,seo,SG,15,"Mangools","Keyword research",70,0.2,-28.6,-28.6
-2026-09,seo,SG,16,"BrightEdge","Enterprise",50,0.1,0,0
-2026-09,seo,SA,1,"Google Search Console","Free · Google",12100,59.2,22.7,124.2
-2026-09,seo,SA,2,"Semrush","All-in-one",2900,14.2,0,0
-2026-09,seo,SA,3,"Similarweb","Traffic analytics",1600,7.8,0,-15.8
-2026-09,seo,SA,4,"Ahrefs","All-in-one",1300,6.4,0,-37.5
-2026-09,seo,SA,5,"Ubersuggest","Keyword research",590,2.9,-18.7,-45.8
-2026-09,seo,SA,6,"AnswerThePublic","Keyword research",590,2.9,-18.6,-18.6
-2026-09,seo,SA,7,"GTmetrix","Page speed",390,1.9,-18.7,-45.8
-2026-09,seo,SA,8,"Moz","All-in-one",320,1.6,23.1,-17.9
-2026-09,seo,SA,9,"Screaming Frog","Crawler",170,0.8,21.4,0
-2026-09,seo,SA,10,"Surfer SEO","Content SEO",140,0.7,22.2,-47.6
-2026-09,seo,SA,11,"SpyFu","Competitor research",90,0.4,0,-36.4
-2026-09,seo,SA,12,"Rank Math","WordPress plugin",90,0.4,-20,-42.9
-2026-09,seo,SA,13,"SE Ranking","Rank tracking",70,0.3,0,-44.4
-2026-09,seo,SA,14,"Mangools","Keyword research",50,0.2,25,25
-2026-09,seo,SA,15,"Yoast","WordPress plugin",30,0.1,0,-33.3
-2026-09,seo,SA,16,"BrightEdge","Enterprise",20,0.1,0,0
+2026-10,seo,WW,1,"Google Search Console","Free · Google",2398300,60.6,2.3,63.2
+2026-10,seo,WW,2,"Semrush","All-in-one",500700,12.7,8.2,-15.7
+2026-10,seo,WW,3,"Similarweb","Traffic analytics",224300,5.7,11,-24
+2026-10,seo,WW,4,"Ahrefs","All-in-one",220500,5.6,1.8,-25.2
+2026-10,seo,WW,5,"Ubersuggest","Keyword research",145060,3.7,11,-36.4
+2026-10,seo,WW,6,"AnswerThePublic","Keyword research",111240,2.8,-0.8,-37.5
+2026-10,seo,WW,7,"Moz","All-in-one",97780,2.5,-8.7,-19.3
+2026-10,seo,WW,8,"GTmetrix","Page speed",71490,1.8,10.4,-30.8
+2026-10,seo,WW,9,"Screaming Frog","Crawler",54420,1.4,-0.2,-12.8
+2026-10,seo,WW,10,"SE Ranking","Rank tracking",44640,1.1,8.6,-33.6
+2026-10,seo,WW,11,"Surfer SEO","Content SEO",23450,0.6,2.8,-55.5
+2026-10,seo,WW,12,"SpyFu","Competitor research",19860,0.5,-2.2,-29
+2026-10,seo,WW,13,"Rank Math","WordPress plugin",15510,0.4,-8,-34.9
+2026-10,seo,WW,14,"Yoast","WordPress plugin",9450,0.2,4.6,-18.1
+2026-10,seo,WW,15,"BrightEdge","Enterprise",9070,0.2,12.1,1.1
+2026-10,seo,WW,16,"Mangools","Keyword research",8870,0.2,-3.7,-20
+2026-10,seo,US,1,"Google Search Console","Free · Google",450000,62.3,0,49.5
+2026-10,seo,US,2,"Semrush","All-in-one",90500,12.5,0,-18.2
+2026-10,seo,US,3,"Similarweb","Traffic analytics",49500,6.9,0,-18.2
+2026-10,seo,US,4,"Ahrefs","All-in-one",40500,5.6,0,-18.2
+2026-10,seo,US,5,"AnswerThePublic","Keyword research",18100,2.5,-18.2,-45.3
+2026-10,seo,US,6,"Ubersuggest","Keyword research",14800,2,0,-45.3
+2026-10,seo,US,7,"Screaming Frog","Crawler",12100,1.7,-18.2,-33.1
+2026-10,seo,US,8,"Moz","All-in-one",8100,1.1,0,-33.1
+2026-10,seo,US,9,"GTmetrix","Page speed",8100,1.1,0,-33.3
+2026-10,seo,US,10,"SpyFu","Competitor research",8100,1.1,0,-18.5
+2026-10,seo,US,11,"SE Ranking","Rank tracking",5400,0.7,0,-45.7
+2026-10,seo,US,12,"Surfer SEO","Content SEO",5400,0.7,0,-64.2
+2026-10,seo,US,13,"BrightEdge","Enterprise",4400,0.6,22.7,0
+2026-10,seo,US,14,"Yoast","WordPress plugin",2900,0.4,0,0
+2026-10,seo,US,15,"Rank Math","WordPress plugin",2900,0.4,-17.2,-33.3
+2026-10,seo,US,16,"Mangools","Keyword research",1600,0.2,-23.1,-23.1
+2026-10,seo,IN,1,"Google Search Console","Free · Google",673000,62.5,0,82.9
+2026-10,seo,IN,2,"Semrush","All-in-one",135000,12.5,0,22.7
+2026-10,seo,IN,3,"Ahrefs","All-in-one",60500,5.6,0,-18.2
+2026-10,seo,IN,4,"Ubersuggest","Keyword research",49500,4.6,22.2,-18.2
+2026-10,seo,IN,5,"Similarweb","Traffic analytics",40500,3.8,0,-18.3
+2026-10,seo,IN,6,"AnswerThePublic","Keyword research",33100,3.1,0,-18.1
+2026-10,seo,IN,7,"GTmetrix","Page speed",27100,2.5,22.1,0
+2026-10,seo,IN,8,"SE Ranking","Rank tracking",14800,1.4,0,-18.2
+2026-10,seo,IN,9,"Screaming Frog","Crawler",12100,1.1,0,49.5
+2026-10,seo,IN,10,"Moz","All-in-one",12100,1.1,0,0
+2026-10,seo,IN,11,"SpyFu","Competitor research",5400,0.5,-18.5,-33.3
+2026-10,seo,IN,12,"Surfer SEO","Content SEO",5400,0.5,0,-45.5
+2026-10,seo,IN,13,"Rank Math","WordPress plugin",3600,0.3,-19.4,-34.1
+2026-10,seo,IN,14,"Mangools","Keyword research",2900,0.3,0,0
+2026-10,seo,IN,15,"BrightEdge","Enterprise",1600,0.1,0,0
+2026-10,seo,IN,16,"Yoast","WordPress plugin",1000,0.1,0,-12
+2026-10,seo,GB,1,"Google Search Console","Free · Google",135000,57.7,0,50
+2026-10,seo,GB,2,"Semrush","All-in-one",27100,11.6,22.1,-18.1
+2026-10,seo,GB,3,"Ahrefs","All-in-one",18100,7.7,0,-33.3
+2026-10,seo,GB,4,"Similarweb","Traffic analytics",18100,7.7,49.5,-33.3
+2026-10,seo,GB,5,"Ubersuggest","Keyword research",6600,2.8,22.2,-45.7
+2026-10,seo,GB,6,"AnswerThePublic","Keyword research",6600,2.8,0,-45.7
+2026-10,seo,GB,7,"Screaming Frog","Crawler",4400,1.9,0,-18.5
+2026-10,seo,GB,8,"SE Ranking","Rank tracking",4400,1.9,0,-33.3
+2026-10,seo,GB,9,"GTmetrix","Page speed",3600,1.5,0,-45.5
+2026-10,seo,GB,10,"Moz","All-in-one",2900,1.2,-17.2,-45.5
+2026-10,seo,GB,11,"SpyFu","Competitor research",1600,0.7,30,-31.6
+2026-10,seo,GB,12,"Surfer SEO","Content SEO",1600,0.7,0,-63.3
+2026-10,seo,GB,13,"BrightEdge","Enterprise",1300,0.6,0,0
+2026-10,seo,GB,14,"Yoast","WordPress plugin",1000,0.4,0,-32.3
+2026-10,seo,GB,15,"Rank Math","WordPress plugin",1000,0.4,0,-45
+2026-10,seo,GB,16,"Mangools","Keyword research",480,0.2,0,-33.9
+2026-10,seo,CA,1,"Google Search Console","Free · Google",90500,65.6,0,81.8
+2026-10,seo,CA,2,"Semrush","All-in-one",14800,10.7,0,-33.1
+2026-10,seo,CA,3,"Ahrefs","All-in-one",8100,5.9,0,-33.3
+2026-10,seo,CA,4,"Similarweb","Traffic analytics",6600,4.8,125,50
+2026-10,seo,CA,5,"Ubersuggest","Keyword research",3600,2.6,0,-45.5
+2026-10,seo,CA,6,"AnswerThePublic","Keyword research",2900,2.1,0,-47.2
+2026-10,seo,CA,7,"Moz","All-in-one",2900,2.1,26.3,-33.3
+2026-10,seo,CA,8,"Screaming Frog","Crawler",1900,1.4,0,-15.8
+2026-10,seo,CA,9,"GTmetrix","Page speed",1900,1.4,-18.7,-45.8
+2026-10,seo,CA,10,"SE Ranking","Rank tracking",1300,0.9,0,-45
+2026-10,seo,CA,11,"Surfer SEO","Content SEO",880,0.6,0,-63.1
+2026-10,seo,CA,12,"SpyFu","Competitor research",720,0.5,49.2,-12
+2026-10,seo,CA,13,"Rank Math","WordPress plugin",590,0.4,0,-33.3
+2026-10,seo,CA,14,"Yoast","WordPress plugin",480,0.3,21.9,-18.7
+2026-10,seo,CA,15,"Mangools","Keyword research",390,0.3,0,-18.7
+2026-10,seo,CA,16,"BrightEdge","Enterprise",320,0.2,23.1,0
+2026-10,seo,AU,1,"Google Search Console","Free · Google",60500,61.7,-18.2,82.7
+2026-10,seo,AU,2,"Semrush","All-in-one",12100,12.3,0,0
+2026-10,seo,AU,3,"Ahrefs","All-in-one",6600,6.7,-18.2,-33.3
+2026-10,seo,AU,4,"Similarweb","Traffic analytics",5400,5.5,22.2,-18.5
+2026-10,seo,AU,5,"Ubersuggest","Keyword research",2900,3,0,-33.3
+2026-10,seo,AU,6,"AnswerThePublic","Keyword research",2900,3,-15.8,-44.8
+2026-10,seo,AU,7,"Screaming Frog","Crawler",1600,1.6,0,0
+2026-10,seo,AU,8,"GTmetrix","Page speed",1300,1.3,0,-47.4
+2026-10,seo,AU,9,"SE Ranking","Rank tracking",1300,1.3,0,0
+2026-10,seo,AU,10,"Surfer SEO","Content SEO",880,0.9,0,-63.1
+2026-10,seo,AU,11,"Moz","All-in-one",720,0.7,22.2,0
+2026-10,seo,AU,12,"SpyFu","Competitor research",480,0.5,0,-18.6
+2026-10,seo,AU,13,"Rank Math","WordPress plugin",480,0.5,-18.7,-33.9
+2026-10,seo,AU,14,"Yoast","WordPress plugin",390,0.4,0,0
+2026-10,seo,AU,15,"BrightEdge","Enterprise",320,0.3,0,52.9
+2026-10,seo,AU,16,"Mangools","Keyword research",260,0.3,0,0
+2026-10,seo,DE,1,"Google Search Console","Free · Google",135000,58.7,0,82.3
+2026-10,seo,DE,2,"Moz","All-in-one",40500,17.6,-18.3,-18.3
+2026-10,seo,DE,3,"Semrush","All-in-one",12100,5.3,0,-18.2
+2026-10,seo,DE,4,"Ahrefs","All-in-one",9900,4.3,0,-33.1
+2026-10,seo,DE,5,"Similarweb","Traffic analytics",9900,4.3,0,-33.3
+2026-10,seo,DE,6,"Ubersuggest","Keyword research",5400,2.3,0,-45.5
+2026-10,seo,DE,7,"AnswerThePublic","Keyword research",4400,1.9,-17.2,-63.6
+2026-10,seo,DE,8,"Screaming Frog","Crawler",3600,1.6,0,-19.4
+2026-10,seo,DE,9,"GTmetrix","Page speed",2400,1,0,-34.5
+2026-10,seo,DE,10,"SE Ranking","Rank tracking",2400,1,0,-47.2
+2026-10,seo,DE,11,"Surfer SEO","Content SEO",1300,0.6,0,-55
+2026-10,seo,DE,12,"Rank Math","WordPress plugin",1300,0.6,0,-32.3
+2026-10,seo,DE,13,"Mangools","Keyword research",720,0.3,-18.6,-45.5
+2026-10,seo,DE,14,"Yoast","WordPress plugin",590,0.3,0,-18.6
+2026-10,seo,DE,15,"SpyFu","Competitor research",320,0.1,0,-33.3
+2026-10,seo,DE,16,"BrightEdge","Enterprise",140,0.1,27.3,27.3
+2026-10,seo,FR,1,"Google Search Console","Free · Google",135000,51.1,22.2,50
+2026-10,seo,FR,2,"Semrush","All-in-one",74000,28,49.4,-33.1
+2026-10,seo,FR,3,"Similarweb","Traffic analytics",12100,4.6,124.2,0
+2026-10,seo,FR,4,"Ubersuggest","Keyword research",12100,4.6,22.7,-45.3
+2026-10,seo,FR,5,"Ahrefs","All-in-one",8100,3.1,22.7,-18.2
+2026-10,seo,FR,6,"AnswerThePublic","Keyword research",6600,2.5,24.1,-63.6
+2026-10,seo,FR,7,"Screaming Frog","Crawler",4400,1.7,89.5,-33.3
+2026-10,seo,FR,8,"GTmetrix","Page speed",3600,1.4,26.3,-55.6
+2026-10,seo,FR,9,"SE Ranking","Rank tracking",2900,1.1,52.6,-34.1
+2026-10,seo,FR,10,"Moz","All-in-one",1900,0.7,-15.8,-15.8
+2026-10,seo,FR,11,"Surfer SEO","Content SEO",1000,0.4,50,-44.6
+2026-10,seo,FR,12,"Rank Math","WordPress plugin",880,0.3,22.9,-33
+2026-10,seo,FR,13,"Yoast","WordPress plugin",590,0.2,23.1,-33.3
+2026-10,seo,FR,14,"SpyFu","Competitor research",480,0.2,21.9,-45.8
+2026-10,seo,FR,15,"Mangools","Keyword research",390,0.1,23.1,-33.3
+2026-10,seo,FR,16,"BrightEdge","Enterprise",140,0.1,100,27.3
+2026-10,seo,BR,1,"Google Search Console","Free · Google",74000,44.4,0,81.8
+2026-10,seo,BR,2,"Semrush","All-in-one",27100,16.3,0,-32.9
+2026-10,seo,BR,3,"Similarweb","Traffic analytics",18100,10.9,-18.2,-45.5
+2026-10,seo,BR,4,"Ubersuggest","Keyword research",18100,10.9,-18.2,-45.5
+2026-10,seo,BR,5,"AnswerThePublic","Keyword research",12100,7.3,0,-33.1
+2026-10,seo,BR,6,"GTmetrix","Page speed",6600,4,-18.5,-55.6
+2026-10,seo,BR,7,"Ahrefs","All-in-one",4400,2.6,0,-55.6
+2026-10,seo,BR,8,"Moz","All-in-one",1600,1,0,-15.8
+2026-10,seo,BR,9,"Screaming Frog","Crawler",1300,0.8,-23.1,-23.1
+2026-10,seo,BR,10,"SE Ranking","Rank tracking",1000,0.6,-18.2,-44.6
+2026-10,seo,BR,11,"SpyFu","Competitor research",590,0.4,-18.7,-45.8
+2026-10,seo,BR,12,"Surfer SEO","Content SEO",590,0.4,21.9,-45.8
+2026-10,seo,BR,13,"Rank Math","WordPress plugin",590,0.4,-18.7,-33.9
+2026-10,seo,BR,14,"Yoast","WordPress plugin",320,0.2,23.1,-17.9
+2026-10,seo,BR,15,"Mangools","Keyword research",210,0.1,0,-34.6
+2026-10,seo,BR,16,"BrightEdge","Enterprise",70,0,0,0
+2026-10,seo,MX,1,"Google Search Console","Free · Google",22200,51.8,0,82.9
+2026-10,seo,MX,2,"Semrush","All-in-one",6600,15.4,0,-33.3
+2026-10,seo,MX,3,"AnswerThePublic","Keyword research",3600,8.4,0,-18.2
+2026-10,seo,MX,4,"Similarweb","Traffic analytics",2900,6.8,0,-33.3
+2026-10,seo,MX,5,"Ahrefs","All-in-one",1900,4.4,0,-44.8
+2026-10,seo,MX,6,"Ubersuggest","Keyword research",1900,4.4,0,-33.3
+2026-10,seo,MX,7,"GTmetrix","Page speed",1000,2.3,22.2,-45
+2026-10,seo,MX,8,"Moz","All-in-one",720,1.7,0,-18.2
+2026-10,seo,MX,9,"Screaming Frog","Crawler",590,1.4,0,-33.3
+2026-10,seo,MX,10,"SE Ranking","Rank tracking",390,0.9,-18.7,-55.9
+2026-10,seo,MX,11,"Surfer SEO","Content SEO",260,0.6,23.5,-34.4
+2026-10,seo,MX,12,"SpyFu","Competitor research",210,0.5,0,-34.6
+2026-10,seo,MX,13,"Rank Math","WordPress plugin",210,0.5,-17.6,-46.2
+2026-10,seo,MX,14,"Mangools","Keyword research",170,0.4,0,-17.6
+2026-10,seo,MX,15,"Yoast","WordPress plugin",140,0.3,27.3,-17.6
+2026-10,seo,MX,16,"BrightEdge","Enterprise",50,0.1,-60,-50
+2026-10,seo,ID,1,"Google Search Console","Free · Google",74000,63.2,0,22.3
+2026-10,seo,ID,2,"Ahrefs","All-in-one",12100,10.3,22.2,-18.2
+2026-10,seo,ID,3,"Semrush","All-in-one",9900,8.5,22.2,-18.2
+2026-10,seo,ID,4,"Ubersuggest","Keyword research",6600,5.6,50,-33.3
+2026-10,seo,ID,5,"Similarweb","Traffic analytics",5400,4.6,0,-33.3
+2026-10,seo,ID,6,"GTmetrix","Page speed",3600,3.1,24.1,-33.3
+2026-10,seo,ID,7,"AnswerThePublic","Keyword research",1900,1.6,0,-45.8
+2026-10,seo,ID,8,"Moz","All-in-one",1000,0.9,-23.1,-23.1
+2026-10,seo,ID,9,"Screaming Frog","Crawler",720,0.6,0,-18.1
+2026-10,seo,ID,10,"SE Ranking","Rank tracking",480,0.4,0,-33.3
+2026-10,seo,ID,11,"Surfer SEO","Content SEO",390,0.3,0,-46.2
+2026-10,seo,ID,12,"Rank Math","WordPress plugin",320,0.3,0,-33.3
+2026-10,seo,ID,13,"Yoast","WordPress plugin",210,0.2,0,-19.2
+2026-10,seo,ID,14,"Mangools","Keyword research",210,0.2,0,-19
+2026-10,seo,ID,15,"SpyFu","Competitor research",170,0.1,0,-17.6
+2026-10,seo,ID,16,"BrightEdge","Enterprise",40,0,100,0
+2026-10,seo,JP,1,"Google Search Console","Free · Google",60500,56.4,0,49.5
+2026-10,seo,JP,2,"Moz","All-in-one",18100,16.9,0,-18.2
+2026-10,seo,JP,3,"Ahrefs","All-in-one",9900,9.2,0,-18.2
+2026-10,seo,JP,4,"Similarweb","Traffic analytics",8100,7.5,0,-33.3
+2026-10,seo,JP,5,"Semrush","All-in-one",4400,4.1,0,0
+2026-10,seo,JP,6,"Ubersuggest","Keyword research",3600,3.4,0,-45.5
+2026-10,seo,JP,7,"Screaming Frog","Crawler",880,0.8,0,0
+2026-10,seo,JP,8,"GTmetrix","Page speed",390,0.4,23.1,-33.3
+2026-10,seo,JP,9,"AnswerThePublic","Keyword research",320,0.3,0,-46.2
+2026-10,seo,JP,10,"SE Ranking","Rank tracking",260,0.2,0,-46.2
+2026-10,seo,JP,11,"Surfer SEO","Content SEO",260,0.2,-21.4,-65.6
+2026-10,seo,JP,12,"Rank Math","WordPress plugin",260,0.2,-17.6,-46.2
+2026-10,seo,JP,13,"Yoast","WordPress plugin",110,0.1,-18.2,-35.7
+2026-10,seo,JP,14,"SpyFu","Competitor research",90,0.1,-42.9,-63.6
+2026-10,seo,JP,15,"BrightEdge","Enterprise",70,0.1,25,0
+2026-10,seo,JP,16,"Mangools","Keyword research",50,0,0,66.7
+2026-10,seo,KR,1,"Google Search Console","Free · Google",18100,67.1,0,124.2
+2026-10,seo,KR,2,"Similarweb","Traffic analytics",2900,10.8,-17.2,-17.2
+2026-10,seo,KR,3,"Semrush","All-in-one",2400,8.9,0,0
+2026-10,seo,KR,4,"Ahrefs","All-in-one",1600,5.9,0,-31.6
+2026-10,seo,KR,5,"Ubersuggest","Keyword research",590,2.2,0,-18.6
+2026-10,seo,KR,6,"Moz","All-in-one",320,1.2,-18.7,-18.7
+2026-10,seo,KR,7,"AnswerThePublic","Keyword research",210,0.8,-35.7,-47.1
+2026-10,seo,KR,8,"Surfer SEO","Content SEO",210,0.8,27.3,-17.6
+2026-10,seo,KR,9,"Screaming Frog","Crawler",170,0.6,-17.6,0
+2026-10,seo,KR,10,"GTmetrix","Page speed",140,0.5,-18.2,-47.1
+2026-10,seo,KR,11,"Rank Math","WordPress plugin",110,0.4,-36.4,-36.4
+2026-10,seo,KR,12,"SE Ranking","Rank tracking",70,0.3,0,25
+2026-10,seo,KR,13,"SpyFu","Competitor research",40,0.1,-33.3,-50
+2026-10,seo,KR,14,"Mangools","Keyword research",40,0.1,33.3,0
+2026-10,seo,KR,15,"BrightEdge","Enterprise",30,0.1,-50,100
+2026-10,seo,KR,16,"Yoast","WordPress plugin",30,0.1,0,0
+2026-10,seo,IT,1,"Google Search Console","Free · Google",74000,64.4,21.5,81.8
+2026-10,seo,IT,2,"Semrush","All-in-one",14800,12.9,49.4,-33.1
+2026-10,seo,IT,3,"Similarweb","Traffic analytics",5400,4.7,51.7,-33.3
+2026-10,seo,IT,4,"AnswerThePublic","Keyword research",5400,4.7,50,-45.5
+2026-10,seo,IT,5,"Ubersuggest","Keyword research",4400,3.8,20.8,-56.1
+2026-10,seo,IT,6,"Ahrefs","All-in-one",3600,3.1,20.8,-46.3
+2026-10,seo,IT,7,"GTmetrix","Page speed",2400,2.1,23.1,-44.8
+2026-10,seo,IT,8,"Screaming Frog","Crawler",1600,1.4,47.7,-18.7
+2026-10,seo,IT,9,"Moz","All-in-one",880,0.8,0,0
+2026-10,seo,IT,10,"SE Ranking","Rank tracking",720,0.6,23.1,-33.3
+2026-10,seo,IT,11,"Rank Math","WordPress plugin",590,0.5,21.9,-33.9
+2026-10,seo,IT,12,"Surfer SEO","Content SEO",390,0.3,23.8,-55.9
+2026-10,seo,IT,13,"Yoast","WordPress plugin",320,0.3,52.9,0
+2026-10,seo,IT,14,"SpyFu","Competitor research",260,0.2,0,-56.4
+2026-10,seo,IT,15,"Mangools","Keyword research",110,0.1,22.2,57.1
+2026-10,seo,IT,16,"BrightEdge","Enterprise",90,0.1,25,-54.5
+2026-10,seo,ES,1,"Google Search Console","Free · Google",90500,59.9,22.7,82.4
+2026-10,seo,ES,2,"Semrush","All-in-one",22200,14.7,22.3,-45.3
+2026-10,seo,ES,3,"Similarweb","Traffic analytics",8100,5.4,50,-33.3
+2026-10,seo,ES,4,"Ahrefs","All-in-one",6600,4.4,22.2,-33.3
+2026-10,seo,ES,5,"Ubersuggest","Keyword research",5400,3.6,24.1,-55.6
+2026-10,seo,ES,6,"AnswerThePublic","Keyword research",5400,3.6,22.7,0
+2026-10,seo,ES,7,"SE Ranking","Rank tracking",4400,2.9,50,-33.3
+2026-10,seo,ES,8,"Screaming Frog","Crawler",2400,1.6,18.8,-34.5
+2026-10,seo,ES,9,"GTmetrix","Page speed",2400,1.6,46.2,-47.2
+2026-10,seo,ES,10,"Moz","All-in-one",1000,0.7,0,-32.3
+2026-10,seo,ES,11,"Surfer SEO","Content SEO",720,0.5,0,-61
+2026-10,seo,ES,12,"Rank Math","WordPress plugin",720,0.5,23.1,-45.5
+2026-10,seo,ES,13,"SpyFu","Competitor research",390,0.3,88.2,-45.8
+2026-10,seo,ES,14,"Mangools","Keyword research",390,0.3,23.8,-45.8
+2026-10,seo,ES,15,"Yoast","WordPress plugin",260,0.2,23.5,-46.2
+2026-10,seo,ES,16,"BrightEdge","Enterprise",110,0.1,0,80
+2026-10,seo,NL,1,"Google Search Console","Free · Google",60500,64,22.3,49.5
+2026-10,seo,NL,2,"Semrush","All-in-one",8100,8.6,0,-33.3
+2026-10,seo,NL,3,"Ahrefs","All-in-one",5400,5.7,0,-33.3
+2026-10,seo,NL,4,"Similarweb","Traffic analytics",5400,5.7,22.2,-33.3
+2026-10,seo,NL,5,"Ubersuggest","Keyword research",3600,3.8,0,-45.5
+2026-10,seo,NL,6,"SE Ranking","Rank tracking",2900,3.1,26.3,-33.3
+2026-10,seo,NL,7,"AnswerThePublic","Keyword research",1900,2,0,-45.8
+2026-10,seo,NL,8,"Screaming Frog","Crawler",1900,2,0,-15.8
+2026-10,seo,NL,9,"GTmetrix","Page speed",1600,1.7,-23.1,-58.3
+2026-10,seo,NL,10,"Moz","All-in-one",720,0.8,22,-28
+2026-10,seo,NL,11,"Surfer SEO","Content SEO",590,0.6,21.9,-55.7
+2026-10,seo,NL,12,"Yoast","WordPress plugin",590,0.6,23.1,-33.3
+2026-10,seo,NL,13,"Rank Math","WordPress plugin",590,0.6,23.1,-33.3
+2026-10,seo,NL,14,"Mangools","Keyword research",390,0.4,23.1,-33.3
+2026-10,seo,NL,15,"SpyFu","Competitor research",210,0.2,0,-46.9
+2026-10,seo,NL,16,"BrightEdge","Enterprise",170,0.2,0,-21.4
+2026-10,seo,TR,1,"Google Search Console","Free · Google",60500,65.5,0,123.5
+2026-10,seo,TR,2,"Semrush","All-in-one",12100,13.1,0,0
+2026-10,seo,TR,3,"Ahrefs","All-in-one",5400,5.8,0,-18.2
+2026-10,seo,TR,4,"Similarweb","Traffic analytics",5400,5.8,0,-18.2
+2026-10,seo,TR,5,"GTmetrix","Page speed",2400,2.6,0,-44.8
+2026-10,seo,TR,6,"Ubersuggest","Keyword research",1600,1.7,-23.1,-58.3
+2026-10,seo,TR,7,"Moz","All-in-one",1600,1.7,0,-15.8
+2026-10,seo,TR,8,"Screaming Frog","Crawler",1000,1.1,0,-12
+2026-10,seo,TR,9,"AnswerThePublic","Keyword research",720,0.8,-18.6,-33.3
+2026-10,seo,TR,10,"SE Ranking","Rank tracking",390,0.4,0,50
+2026-10,seo,TR,11,"Surfer SEO","Content SEO",390,0.4,-19.2,-46.2
+2026-10,seo,TR,12,"Rank Math","WordPress plugin",390,0.4,0,-33.3
+2026-10,seo,TR,13,"SpyFu","Competitor research",210,0.2,0,-34.6
+2026-10,seo,TR,14,"Yoast","WordPress plugin",140,0.2,-36.4,-58.8
+2026-10,seo,TR,15,"Mangools","Keyword research",140,0.2,-18.2,-35.7
+2026-10,seo,TR,16,"BrightEdge","Enterprise",40,0,100,300
+2026-10,seo,VN,1,"Google Search Console","Free · Google",74000,66.2,0,0
+2026-10,seo,VN,2,"Semrush","All-in-one",14800,13.2,0,-33.1
+2026-10,seo,VN,3,"Similarweb","Traffic analytics",9900,8.9,0,-33.1
+2026-10,seo,VN,4,"Ahrefs","All-in-one",6600,5.9,0,-33.3
+2026-10,seo,VN,5,"Screaming Frog","Crawler",1600,1.4,0,-31.6
+2026-10,seo,VN,6,"Ubersuggest","Keyword research",1000,0.9,0,-44.6
+2026-10,seo,VN,7,"AnswerThePublic","Keyword research",880,0.8,-18.1,-41
+2026-10,seo,VN,8,"GTmetrix","Page speed",880,0.8,0,-41
+2026-10,seo,VN,9,"Moz","All-in-one",480,0.4,0,-55.6
+2026-10,seo,VN,10,"SE Ranking","Rank tracking",480,0.4,0,0
+2026-10,seo,VN,11,"Surfer SEO","Content SEO",390,0.3,0,-45.8
+2026-10,seo,VN,12,"Rank Math","WordPress plugin",390,0.3,21.9,0
+2026-10,seo,VN,13,"SpyFu","Competitor research",170,0.2,-17.6,-33.3
+2026-10,seo,VN,14,"Mangools","Keyword research",170,0.2,0,-47.6
+2026-10,seo,VN,15,"Yoast","WordPress plugin",70,0.1,-28.6,-44.4
+2026-10,seo,VN,16,"BrightEdge","Enterprise",30,0,-50,-66.7
+2026-10,seo,PL,1,"Google Search Console","Free · Google",74000,70.6,0,22.3
+2026-10,seo,PL,2,"Ahrefs","All-in-one",6600,6.3,0,-18.5
+2026-10,seo,PL,3,"Semrush","All-in-one",5400,5.1,0,-18.5
+2026-10,seo,PL,4,"Similarweb","Traffic analytics",5400,5.1,0,-33.3
+2026-10,seo,PL,5,"AnswerThePublic","Keyword research",2900,2.8,0,-56.8
+2026-10,seo,PL,6,"Surfer SEO","Content SEO",2400,2.3,0,-55.2
+2026-10,seo,PL,7,"Ubersuggest","Keyword research",1900,1.8,0,-55.2
+2026-10,seo,PL,8,"Screaming Frog","Crawler",1600,1.5,0,-37.5
+2026-10,seo,PL,9,"Moz","All-in-one",1600,1.5,0,18.8
+2026-10,seo,PL,10,"GTmetrix","Page speed",1300,1.2,0,-47.4
+2026-10,seo,PL,11,"SE Ranking","Rank tracking",720,0.7,23.1,-63.1
+2026-10,seo,PL,12,"Rank Math","WordPress plugin",390,0.4,0,-33.3
+2026-10,seo,PL,13,"SpyFu","Competitor research",210,0.2,0,-56.2
+2026-10,seo,PL,14,"Yoast","WordPress plugin",210,0.2,0,-46.2
+2026-10,seo,PL,15,"Mangools","Keyword research",140,0.1,-35.7,-35.7
+2026-10,seo,PL,16,"BrightEdge","Enterprise",90,0.1,-58.8,0
+2026-10,seo,SG,1,"Google Search Console","Free · Google",22200,59.3,0,83.1
+2026-10,seo,SG,2,"Semrush","All-in-one",4400,11.7,0,0
+2026-10,seo,SG,3,"Ahrefs","All-in-one",3600,9.6,-19.4,-34.1
+2026-10,seo,SG,4,"Similarweb","Traffic analytics",3600,9.6,-19.4,-19.4
+2026-10,seo,SG,5,"Ubersuggest","Keyword research",880,2.3,-18.1,-33
+2026-10,seo,SG,6,"AnswerThePublic","Keyword research",720,1.9,-18.6,-45.5
+2026-10,seo,SG,7,"Screaming Frog","Crawler",390,1,0,0
+2026-10,seo,SG,8,"GTmetrix","Page speed",390,1,0,-33.3
+2026-10,seo,SG,9,"Moz","All-in-one",320,0.9,-19.2,-56.2
+2026-10,seo,SG,10,"SE Ranking","Rank tracking",260,0.7,-19.2,-19.2
+2026-10,seo,SG,11,"Surfer SEO","Content SEO",260,0.7,0,-34.6
+2026-10,seo,SG,12,"SpyFu","Competitor research",140,0.4,22.2,-35.3
+2026-10,seo,SG,13,"Rank Math","WordPress plugin",110,0.3,0,-18.2
+2026-10,seo,SG,14,"Yoast","WordPress plugin",70,0.2,-28.6,0
+2026-10,seo,SG,15,"Mangools","Keyword research",70,0.2,40,0
+2026-10,seo,SG,16,"BrightEdge","Enterprise",50,0.1,0,25
+2026-10,seo,SA,1,"Google Search Console","Free · Google",14800,64.9,-18.5,82.8
+2026-10,seo,SA,2,"Semrush","All-in-one",2900,12.7,0,0
+2026-10,seo,SA,3,"Similarweb","Traffic analytics",1600,7,-18.7,-31.6
+2026-10,seo,SA,4,"Ahrefs","All-in-one",1000,4.4,0,-37.5
+2026-10,seo,SA,5,"Ubersuggest","Keyword research",590,2.6,0,-55.7
+2026-10,seo,SA,6,"AnswerThePublic","Keyword research",590,2.6,-18.7,-33.9
+2026-10,seo,SA,7,"GTmetrix","Page speed",390,1.7,23.1,-33.3
+2026-10,seo,SA,8,"Moz","All-in-one",320,1.4,-18.7,-33.3
+2026-10,seo,SA,9,"Screaming Frog","Crawler",170,0.7,0,0
+2026-10,seo,SA,10,"Surfer SEO","Content SEO",140,0.6,-36.4,-58.8
+2026-10,seo,SA,11,"Rank Math","WordPress plugin",90,0.4,25,-64.3
+2026-10,seo,SA,12,"SE Ranking","Rank tracking",70,0.3,-40,-72.7
+2026-10,seo,SA,13,"SpyFu","Competitor research",70,0.3,-42.9,-71.4
+2026-10,seo,SA,14,"Mangools","Keyword research",40,0.2,-40,-25
+2026-10,seo,SA,15,"Yoast","WordPress plugin",30,0.1,0,-33.3
+2026-10,seo,SA,16,"BrightEdge","Enterprise",10,0,0,0
